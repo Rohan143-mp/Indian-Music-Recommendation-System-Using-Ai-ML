@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Indian Music Recommender</title>
+    <link rel="stylesheet" href="static/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="card">
+            <h1>Indian Music Recommender</h1>
+            <div class="selectors">
+                <div class="select-wrapper">
+                    <label for="region">Region</label>
+                    <select id="region" class="custom-select">
+                        <option value="" disabled selected>Select Region</option>
+                        <option value="north">North India</option>
+                        <option value="south">South India</option>
+                        <option value="east">East India</option>
+                        <option value="west">West India</option>
+                        <option value="northeast">Northeast India</option>
+                    </select>
+                </div>
+
+                <div class="select-wrapper">
+                    <label for="festival">Festival</label>
+                    <select id="festival" class="custom-select">
+                        <option value="" disabled selected>Select Festival</option>
+                        <option value="diwali">Diwali</option>
+                        <option value="holi">Holi</option>
+                        <option value="navratri">Navratri</option>
+                        <option value="durga-puja">Durga Puja</option>
+                        <option value="onam">Onam</option>
+                    </select>
+                </div>
+
+                <div class="select-wrapper">
+                    <label for="tradition">Tradition</label>
+                    <select id="tradition" class="custom-select">
+                        <option value="" disabled selected>Select Tradition</option>
+                        <option value="classical">Classical</option>
+                        <option value="folk">Folk</option>
+                        <option value="bhajan">Bhajan</option>
+                        <option value="qawwali">Qawwali</option>
+                        <option value="tribal">Tribal</option>
+                    </select>
+                </div>
+            </div>
+
+            <button class="recommend-btn">Get Recommendations</button>
+
+            <div class="results">
+                <!-- Recommendations will be dynamically inserted here -->
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const recommendBtn = document.querySelector('.recommend-btn');
+            const resultsContainer = document.querySelector('.results');
+
+            recommendBtn.addEventListener('click', function() {
+                const region = document.getElementById('region').value;
+                const festival = document.getElementById('festival').value;
+                const tradition = document.getElementById('tradition').value;
+
+                // Show loading state
+                resultsContainer.innerHTML = '<p>Loading recommendations...</p>';
+
+                // Fetch recommendations from the server
+                fetch('/recommend', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ region, festival, tradition }),
+                })
+                .then(response => response.json())
+                .then(data => {
+                    // Clear previous results
+                    resultsContainer.innerHTML = '';
+
+                    if (data.length === 0) {
+                        resultsContainer.innerHTML = '<p>No recommendations found. Try different criteria.</p>';
+                        return;
+                    }
+
+                    // Display new recommendations
+                    data.forEach(song => {
+                        const card = document.createElement('div');
+                        card.className = 'music-card';
+                        card.innerHTML = `
+                            <div class="music-info">
+                                <h3>${song['Song Name']}</h3>
+                                <p>${song['Author']}</p>
+                                <div class="tags">
+                                    <span class="tag">${song['Region']}</span>
+                                    <span class="tag">${song['Festival']}</span>
+                                    <span class="tag">${song['Tradition']}</span>
+                                </div>
+                                <a href="${song['URL']}" target="_blank" class="listen-btn">Listen</a>
+                            </div>
+                        `;
+                        resultsContainer.appendChild(card);
+                    });
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    resultsContainer.innerHTML = '<p>An error occurred while fetching recommendations. Please try again.</p>';
+                });
+            });
+        });
+    </script>
+</body>
+</html>

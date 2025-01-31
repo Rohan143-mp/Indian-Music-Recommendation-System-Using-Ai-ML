@@ -1,0 +1,1001 @@
+Region,Festival,Tradition,Song Name,Author,URL,features
+West India,Diwali,Classical,Raga Dhun,Hari Mansur,https://example.com/music/raga-dhun-by-hari-mansur,West India Diwali Classical Raga Dhun Hari Mansur
+East India,Bihu,Folk,Ram Katha,Pt. Khan,https://example.com/music/ram-katha-by-pt.-khan,East India Bihu Folk Ram Katha Pt. Khan
+West India,Navratri,Classical,Shri Stuti,Bhimsen Sharma,https://example.com/music/shri-stuti-by-bhimsen-sharma,West India Navratri Classical Shri Stuti Bhimsen Sharma
+South India,Pongal,Devotional,Raga Kirtan,Bhimsen Kulkarni,https://example.com/music/raga-kirtan-by-bhimsen-kulkarni,South India Pongal Devotional Raga Kirtan Bhimsen Kulkarni
+South India,Pongal,Folk,Ganga Aarti,M.S. Joshi,https://example.com/music/ganga-aarti-by-m.s.-joshi,South India Pongal Folk Ganga Aarti M.S. Joshi
+South India,Diwali,Devotional,Shri Katha,Kumar Gundecha,https://example.com/music/shri-katha-by-kumar-gundecha,South India Diwali Devotional Shri Katha Kumar Gundecha
+West India,Navratri,Devotional,Om Dhwani,Ustad Amonkar,https://example.com/music/om-dhwani-by-ustad-amonkar,West India Navratri Devotional Om Dhwani Ustad Amonkar
+North India,Baisakhi,Classical,Shiv Sangeet,Hari Khan,https://example.com/music/shiv-sangeet-by-hari-khan,North India Baisakhi Classical Shiv Sangeet Hari Khan
+East India,Durga Puja,Folk,Ganga Katha,Begum Gundecha,https://example.com/music/ganga-katha-by-begum-gundecha,East India Durga Puja Folk Ganga Katha Begum Gundecha
+North India,Diwali,Folk,Anand Aarti,Ravi Mangeshkar,https://example.com/music/anand-aarti-by-ravi-mangeshkar,North India Diwali Folk Anand Aarti Ravi Mangeshkar
+South India,Pongal,Classical,Krishna Stuti,Kumar Amonkar,https://example.com/music/krishna-stuti-by-kumar-amonkar,South India Pongal Classical Krishna Stuti Kumar Amonkar
+North India,Lohri,Classical,Bhakti Katha,Begum Gundecha,https://example.com/music/bhakti-katha-by-begum-gundecha,North India Lohri Classical Bhakti Katha Begum Gundecha
+North India,Baisakhi,Classical,Bhakti Aarti,Bhimsen Mangeshkar,https://example.com/music/bhakti-aarti-by-bhimsen-mangeshkar,North India Baisakhi Classical Bhakti Aarti Bhimsen Mangeshkar
+North India,Lohri,Folk,Anand Kirtan,Shubha Gundecha,https://example.com/music/anand-kirtan-by-shubha-gundecha,North India Lohri Folk Anand Kirtan Shubha Gundecha
+West India,Ganesh Chaturthi,Devotional,Jai Sangeet,Ustad Dey,https://example.com/music/jai-sangeet-by-ustad-dey,West India Ganesh Chaturthi Devotional Jai Sangeet Ustad Dey
+West India,Diwali,Folk,Guru Rasa,Ustad Dey,https://example.com/music/guru-rasa-by-ustad-dey,West India Diwali Folk Guru Rasa Ustad Dey
+North India,Holi,Bhajan,Shiv Katha,Shubha Mansur,https://example.com/music/shiv-katha-by-shubha-mansur,North India Holi Bhajan Shiv Katha Shubha Mansur
+West India,Diwali,Classical,Prema Aarti,Bhimsen Dey,https://example.com/music/prema-aarti-by-bhimsen-dey,West India Diwali Classical Prema Aarti Bhimsen Dey
+West India,Diwali,Folk,Om Rasa,Hari Dey,https://example.com/music/om-rasa-by-hari-dey,West India Diwali Folk Om Rasa Hari Dey
+South India,Pongal,Folk,Devi Aarti,M.S. Mansur,https://example.com/music/devi-aarti-by-m.s.-mansur,South India Pongal Folk Devi Aarti M.S. Mansur
+West India,Ganesh Chaturthi,Devotional,Maha Bhajan,Hari Joshi,https://example.com/music/maha-bhajan-by-hari-joshi,West India Ganesh Chaturthi Devotional Maha Bhajan Hari Joshi
+West India,Navratri,Folk,Raga Malhar,Pt. Bhosle,https://example.com/music/raga-malhar-by-pt.-bhosle,West India Navratri Folk Raga Malhar Pt. Bhosle
+West India,Navratri,Devotional,Swar Rasa,Bhimsen Dey,https://example.com/music/swar-rasa-by-bhimsen-dey,West India Navratri Devotional Swar Rasa Bhimsen Dey
+North India,Lohri,Classical,Anand Leela,Hari Amonkar,https://example.com/music/anand-leela-by-hari-amonkar,North India Lohri Classical Anand Leela Hari Amonkar
+North India,Baisakhi,Bhajan,Guru Sangeet,Begum Bhosle,https://example.com/music/guru-sangeet-by-begum-bhosle,North India Baisakhi Bhajan Guru Sangeet Begum Bhosle
+East India,Chhath Puja,Classical,Shiv Stuti,Ravi Kulkarni,https://example.com/music/shiv-stuti-by-ravi-kulkarni,East India Chhath Puja Classical Shiv Stuti Ravi Kulkarni
+South India,Pongal,Folk,Raga Rasa,Begum Gundecha,https://example.com/music/raga-rasa-by-begum-gundecha,South India Pongal Folk Raga Rasa Begum Gundecha
+North India,Baisakhi,Classical,Swar Katha,Mallikarjun Mangeshkar,https://example.com/music/swar-katha-by-mallikarjun-mangeshkar,North India Baisakhi Classical Swar Katha Mallikarjun Mangeshkar
+North India,Diwali,Semi-Classical,Swar Dhwani,Begum Subbulakshmi,https://example.com/music/swar-dhwani-by-begum-subbulakshmi,North India Diwali Semi-Classical Swar Dhwani Begum Subbulakshmi
+South India,Onam,Classical,Krishna Aarti,Pt. Kulkarni,https://example.com/music/krishna-aarti-by-pt.-kulkarni,South India Onam Classical Krishna Aarti Pt. Kulkarni
+West India,Diwali,Devotional,Om Bhajan,M.S. Khan,https://example.com/music/om-bhajan-by-m.s.-khan,West India Diwali Devotional Om Bhajan M.S. Khan
+North India,Diwali,Semi-Classical,Raga Katha,Pandit Sharma,https://example.com/music/raga-katha-by-pandit-sharma,North India Diwali Semi-Classical Raga Katha Pandit Sharma
+South India,Pongal,Classical,Swar Dhwani,Begum Gundecha,https://example.com/music/swar-dhwani-by-begum-gundecha,South India Pongal Classical Swar Dhwani Begum Gundecha
+East India,Durga Puja,Folk,Om Leela,Hari Joshi,https://example.com/music/om-leela-by-hari-joshi,East India Durga Puja Folk Om Leela Hari Joshi
+West India,Ganesh Chaturthi,Classical,Anand Stuti,Bhimsen Khan,https://example.com/music/anand-stuti-by-bhimsen-khan,West India Ganesh Chaturthi Classical Anand Stuti Bhimsen Khan
+North India,Baisakhi,Bhajan,Swar Leela,Bhimsen Amonkar,https://example.com/music/swar-leela-by-bhimsen-amonkar,North India Baisakhi Bhajan Swar Leela Bhimsen Amonkar
+West India,Diwali,Devotional,Krishna Katha,Pt. Gundecha,https://example.com/music/krishna-katha-by-pt.-gundecha,West India Diwali Devotional Krishna Katha Pt. Gundecha
+North India,Lohri,Bhajan,Shri Malhar,Pt. Khan,https://example.com/music/shri-malhar-by-pt.-khan,North India Lohri Bhajan Shri Malhar Pt. Khan
+South India,Onam,Classical,Shiv Leela,Hari Amonkar,https://example.com/music/shiv-leela-by-hari-amonkar,South India Onam Classical Shiv Leela Hari Amonkar
+East India,Durga Puja,Classical,Krishna Vandana,Ravi Subbulakshmi,https://example.com/music/krishna-vandana-by-ravi-subbulakshmi,East India Durga Puja Classical Krishna Vandana Ravi Subbulakshmi
+South India,Onam,Classical,Raga Kirtan,Begum Sharma,https://example.com/music/raga-kirtan-by-begum-sharma,South India Onam Classical Raga Kirtan Begum Sharma
+North India,Lohri,Semi-Classical,Bhakti Vandana,Mallikarjun Mansur,https://example.com/music/bhakti-vandana-by-mallikarjun-mansur,North India Lohri Semi-Classical Bhakti Vandana Mallikarjun Mansur
+North India,Diwali,Classical,Bhakti Malhar,Hari Mansur,https://example.com/music/bhakti-malhar-by-hari-mansur,North India Diwali Classical Bhakti Malhar Hari Mansur
+West India,Ganesh Chaturthi,Devotional,Guru Dhwani,Begum Dey,https://example.com/music/guru-dhwani-by-begum-dey,West India Ganesh Chaturthi Devotional Guru Dhwani Begum Dey
+West India,Navratri,Folk,Devi Geet,Ustad Dey,https://example.com/music/devi-geet-by-ustad-dey,West India Navratri Folk Devi Geet Ustad Dey
+North India,Baisakhi,Bhajan,Devi Geet,Hari Kulkarni,https://example.com/music/devi-geet-by-hari-kulkarni,North India Baisakhi Bhajan Devi Geet Hari Kulkarni
+West India,Navratri,Folk,Shiv Leela,Begum Joshi,https://example.com/music/shiv-leela-by-begum-joshi,West India Navratri Folk Shiv Leela Begum Joshi
+East India,Durga Puja,Folk,Ganga Sangeet,Ravi Amonkar,https://example.com/music/ganga-sangeet-by-ravi-amonkar,East India Durga Puja Folk Ganga Sangeet Ravi Amonkar
+South India,Pongal,Devotional,Raga Tarana,Kishori Sharma,https://example.com/music/raga-tarana-by-kishori-sharma,South India Pongal Devotional Raga Tarana Kishori Sharma
+East India,Chhath Puja,Tribal,Krishna Aarti,Pt. Subbulakshmi,https://example.com/music/krishna-aarti-by-pt.-subbulakshmi,East India Chhath Puja Tribal Krishna Aarti Pt. Subbulakshmi
+East India,Durga Puja,Tribal,Raga Katha,M.S. Dey,https://example.com/music/raga-katha-by-m.s.-dey,East India Durga Puja Tribal Raga Katha M.S. Dey
+North India,Baisakhi,Semi-Classical,Devi Aarti,Shubha Joshi,https://example.com/music/devi-aarti-by-shubha-joshi,North India Baisakhi Semi-Classical Devi Aarti Shubha Joshi
+East India,Durga Puja,Folk,Om Sangeet,Pandit Shankar,https://example.com/music/om-sangeet-by-pandit-shankar,East India Durga Puja Folk Om Sangeet Pandit Shankar
+East India,Bihu,Folk,Jai Malhar,Vidushi Sharma,https://example.com/music/jai-malhar-by-vidushi-sharma,East India Bihu Folk Jai Malhar Vidushi Sharma
+East India,Durga Puja,Tribal,Om Bhajan,Kumar Khan,https://example.com/music/om-bhajan-by-kumar-khan,East India Durga Puja Tribal Om Bhajan Kumar Khan
+South India,Pongal,Folk,Maha Dhun,Kumar Sharma,https://example.com/music/maha-dhun-by-kumar-sharma,South India Pongal Folk Maha Dhun Kumar Sharma
+South India,Diwali,Devotional,Swar Sangeet,Hari Mangeshkar,https://example.com/music/swar-sangeet-by-hari-mangeshkar,South India Diwali Devotional Swar Sangeet Hari Mangeshkar
+East India,Bihu,Classical,Taal Geet,M.S. Dey,https://example.com/music/taal-geet-by-m.s.-dey,East India Bihu Classical Taal Geet M.S. Dey
+North India,Holi,Folk,Shri Dhwani,Hari Bhosle,https://example.com/music/shri-dhwani-by-hari-bhosle,North India Holi Folk Shri Dhwani Hari Bhosle
+North India,Baisakhi,Classical,Swar Aarti,Vidushi Khan,https://example.com/music/swar-aarti-by-vidushi-khan,North India Baisakhi Classical Swar Aarti Vidushi Khan
+North India,Holi,Semi-Classical,Maha Sangeet,Begum Joshi,https://example.com/music/maha-sangeet-by-begum-joshi,North India Holi Semi-Classical Maha Sangeet Begum Joshi
+East India,Chhath Puja,Folk,Raga Kirtan,Bhimsen Subbulakshmi,https://example.com/music/raga-kirtan-by-bhimsen-subbulakshmi,East India Chhath Puja Folk Raga Kirtan Bhimsen Subbulakshmi
+East India,Durga Puja,Classical,Devi Stuti,M.S. Shankar,https://example.com/music/devi-stuti-by-m.s.-shankar,East India Durga Puja Classical Devi Stuti M.S. Shankar
+South India,Onam,Classical,Shri Kirtan,Ustad Mangeshkar,https://example.com/music/shri-kirtan-by-ustad-mangeshkar,South India Onam Classical Shri Kirtan Ustad Mangeshkar
+West India,Ganesh Chaturthi,Devotional,Jai Sangeet,M.S. Khan,https://example.com/music/jai-sangeet-by-m.s.-khan,West India Ganesh Chaturthi Devotional Jai Sangeet M.S. Khan
+East India,Chhath Puja,Tribal,Om Dhun,Kishori Dey,https://example.com/music/om-dhun-by-kishori-dey,East India Chhath Puja Tribal Om Dhun Kishori Dey
+North India,Holi,Folk,Shri Rasa,Mallikarjun Dey,https://example.com/music/shri-rasa-by-mallikarjun-dey,North India Holi Folk Shri Rasa Mallikarjun Dey
+North India,Holi,Bhajan,Prema Dhwani,Kumar Sharma,https://example.com/music/prema-dhwani-by-kumar-sharma,North India Holi Bhajan Prema Dhwani Kumar Sharma
+West India,Navratri,Folk,Devi Bhajan,Begum Mansur,https://example.com/music/devi-bhajan-by-begum-mansur,West India Navratri Folk Devi Bhajan Begum Mansur
+East India,Durga Puja,Folk,Shiv Dhwani,Kishori Mansur,https://example.com/music/shiv-dhwani-by-kishori-mansur,East India Durga Puja Folk Shiv Dhwani Kishori Mansur
+West India,Diwali,Devotional,Jai Dhun,Hari Dey,https://example.com/music/jai-dhun-by-hari-dey,West India Diwali Devotional Jai Dhun Hari Dey
+South India,Onam,Folk,Guru Dhwani,Begum Bhosle,https://example.com/music/guru-dhwani-by-begum-bhosle,South India Onam Folk Guru Dhwani Begum Bhosle
+North India,Diwali,Folk,Maha Katha,Pt. Mangeshkar,https://example.com/music/maha-katha-by-pt.-mangeshkar,North India Diwali Folk Maha Katha Pt. Mangeshkar
+West India,Diwali,Classical,Raga Bhajan,Ravi Mansur,https://example.com/music/raga-bhajan-by-ravi-mansur,West India Diwali Classical Raga Bhajan Ravi Mansur
+West India,Diwali,Folk,Shiv Sangeet,Hari Shankar,https://example.com/music/shiv-sangeet-by-hari-shankar,West India Diwali Folk Shiv Sangeet Hari Shankar
+West India,Ganesh Chaturthi,Folk,Shri Dhun,Ustad Joshi,https://example.com/music/shri-dhun-by-ustad-joshi,West India Ganesh Chaturthi Folk Shri Dhun Ustad Joshi
+South India,Pongal,Folk,Guru Geet,Begum Gundecha,https://example.com/music/guru-geet-by-begum-gundecha,South India Pongal Folk Guru Geet Begum Gundecha
+North India,Diwali,Classical,Ganga Dhun,Pandit Mangeshkar,https://example.com/music/ganga-dhun-by-pandit-mangeshkar,North India Diwali Classical Ganga Dhun Pandit Mangeshkar
+North India,Holi,Folk,Guru Vandana,Bhimsen Subbulakshmi,https://example.com/music/guru-vandana-by-bhimsen-subbulakshmi,North India Holi Folk Guru Vandana Bhimsen Subbulakshmi
+East India,Durga Puja,Folk,Krishna Geet,M.S. Subbulakshmi,https://example.com/music/krishna-geet-by-m.s.-subbulakshmi,East India Durga Puja Folk Krishna Geet M.S. Subbulakshmi
+East India,Durga Puja,Tribal,Swar Stuti,Begum Joshi,https://example.com/music/swar-stuti-by-begum-joshi,East India Durga Puja Tribal Swar Stuti Begum Joshi
+East India,Bihu,Classical,Krishna Leela,Pt. Dey,https://example.com/music/krishna-leela-by-pt.-dey,East India Bihu Classical Krishna Leela Pt. Dey
+West India,Ganesh Chaturthi,Folk,Maha Aarti,Pt. Shankar,https://example.com/music/maha-aarti-by-pt.-shankar,West India Ganesh Chaturthi Folk Maha Aarti Pt. Shankar
+South India,Pongal,Folk,Ganga Tarana,Vidushi Bhosle,https://example.com/music/ganga-tarana-by-vidushi-bhosle,South India Pongal Folk Ganga Tarana Vidushi Bhosle
+East India,Durga Puja,Tribal,Shri Aarti,Hari Khan,https://example.com/music/shri-aarti-by-hari-khan,East India Durga Puja Tribal Shri Aarti Hari Khan
+South India,Onam,Classical,Bhakti Bhajan,Hari Mansur,https://example.com/music/bhakti-bhajan-by-hari-mansur,South India Onam Classical Bhakti Bhajan Hari Mansur
+North India,Baisakhi,Bhajan,Shri Dhwani,Begum Mansur,https://example.com/music/shri-dhwani-by-begum-mansur,North India Baisakhi Bhajan Shri Dhwani Begum Mansur
+South India,Diwali,Devotional,Shiv Vandana,Hari Mansur,https://example.com/music/shiv-vandana-by-hari-mansur,South India Diwali Devotional Shiv Vandana Hari Mansur
+East India,Chhath Puja,Folk,Ganga Geet,Ravi Subbulakshmi,https://example.com/music/ganga-geet-by-ravi-subbulakshmi,East India Chhath Puja Folk Ganga Geet Ravi Subbulakshmi
+South India,Onam,Folk,Taal Dhwani,M.S. Mangeshkar,https://example.com/music/taal-dhwani-by-m.s.-mangeshkar,South India Onam Folk Taal Dhwani M.S. Mangeshkar
+West India,Ganesh Chaturthi,Devotional,Bhakti Katha,Pt. Gundecha,https://example.com/music/bhakti-katha-by-pt.-gundecha,West India Ganesh Chaturthi Devotional Bhakti Katha Pt. Gundecha
+West India,Navratri,Classical,Shri Aarti,Pandit Kulkarni,https://example.com/music/shri-aarti-by-pandit-kulkarni,West India Navratri Classical Shri Aarti Pandit Kulkarni
+North India,Baisakhi,Folk,Shri Sangeet,M.S. Sharma,https://example.com/music/shri-sangeet-by-m.s.-sharma,North India Baisakhi Folk Shri Sangeet M.S. Sharma
+South India,Pongal,Devotional,Anand Geet,M.S. Mansur,https://example.com/music/anand-geet-by-m.s.-mansur,South India Pongal Devotional Anand Geet M.S. Mansur
+South India,Pongal,Folk,Ganga Sangeet,M.S. Sharma,https://example.com/music/ganga-sangeet-by-m.s.-sharma,South India Pongal Folk Ganga Sangeet M.S. Sharma
+East India,Chhath Puja,Folk,Prema Dhun,Pt. Shankar,https://example.com/music/prema-dhun-by-pt.-shankar,East India Chhath Puja Folk Prema Dhun Pt. Shankar
+West India,Diwali,Devotional,Ram Dhwani,Bhimsen Joshi,https://example.com/music/ram-dhwani-by-bhimsen-joshi,West India Diwali Devotional Ram Dhwani Bhimsen Joshi
+East India,Durga Puja,Classical,Krishna Aarti,M.S. Joshi,https://example.com/music/krishna-aarti-by-m.s.-joshi,East India Durga Puja Classical Krishna Aarti M.S. Joshi
+East India,Bihu,Classical,Shri Rasa,Ustad Mangeshkar,https://example.com/music/shri-rasa-by-ustad-mangeshkar,East India Bihu Classical Shri Rasa Ustad Mangeshkar
+North India,Diwali,Folk,Ram Bhajan,Shubha Dey,https://example.com/music/ram-bhajan-by-shubha-dey,North India Diwali Folk Ram Bhajan Shubha Dey
+North India,Holi,Semi-Classical,Shiv Katha,Pandit Gundecha,https://example.com/music/shiv-katha-by-pandit-gundecha,North India Holi Semi-Classical Shiv Katha Pandit Gundecha
+West India,Navratri,Folk,Anand Malhar,Shubha Mangeshkar,https://example.com/music/anand-malhar-by-shubha-mangeshkar,West India Navratri Folk Anand Malhar Shubha Mangeshkar
+South India,Pongal,Devotional,Anand Sangeet,Kumar Sharma,https://example.com/music/anand-sangeet-by-kumar-sharma,South India Pongal Devotional Anand Sangeet Kumar Sharma
+East India,Durga Puja,Tribal,Jai Dhwani,Begum Joshi,https://example.com/music/jai-dhwani-by-begum-joshi,East India Durga Puja Tribal Jai Dhwani Begum Joshi
+South India,Onam,Folk,Bhakti Stuti,Vidushi Khan,https://example.com/music/bhakti-stuti-by-vidushi-khan,South India Onam Folk Bhakti Stuti Vidushi Khan
+East India,Bihu,Tribal,Shiv Dhwani,Pt. Kulkarni,https://example.com/music/shiv-dhwani-by-pt.-kulkarni,East India Bihu Tribal Shiv Dhwani Pt. Kulkarni
+West India,Ganesh Chaturthi,Classical,Anand Tarana,Begum Mansur,https://example.com/music/anand-tarana-by-begum-mansur,West India Ganesh Chaturthi Classical Anand Tarana Begum Mansur
+South India,Pongal,Folk,Om Katha,Kumar Amonkar,https://example.com/music/om-katha-by-kumar-amonkar,South India Pongal Folk Om Katha Kumar Amonkar
+South India,Onam,Classical,Om Malhar,Vidushi Dey,https://example.com/music/om-malhar-by-vidushi-dey,South India Onam Classical Om Malhar Vidushi Dey
+East India,Durga Puja,Classical,Guru Aarti,Pt. Mangeshkar,https://example.com/music/guru-aarti-by-pt.-mangeshkar,East India Durga Puja Classical Guru Aarti Pt. Mangeshkar
+West India,Ganesh Chaturthi,Classical,Shri Dhun,M.S. Gundecha,https://example.com/music/shri-dhun-by-m.s.-gundecha,West India Ganesh Chaturthi Classical Shri Dhun M.S. Gundecha
+West India,Ganesh Chaturthi,Classical,Swar Malhar,M.S. Subbulakshmi,https://example.com/music/swar-malhar-by-m.s.-subbulakshmi,West India Ganesh Chaturthi Classical Swar Malhar M.S. Subbulakshmi
+West India,Ganesh Chaturthi,Classical,Om Tarana,Kishori Mangeshkar,https://example.com/music/om-tarana-by-kishori-mangeshkar,West India Ganesh Chaturthi Classical Om Tarana Kishori Mangeshkar
+South India,Onam,Folk,Bhakti Aarti,Pandit Dey,https://example.com/music/bhakti-aarti-by-pandit-dey,South India Onam Folk Bhakti Aarti Pandit Dey
+East India,Chhath Puja,Classical,Shri Malhar,Shubha Dey,https://example.com/music/shri-malhar-by-shubha-dey,East India Chhath Puja Classical Shri Malhar Shubha Dey
+South India,Diwali,Devotional,Bhakti Aarti,Kishori Dey,https://example.com/music/bhakti-aarti-by-kishori-dey,South India Diwali Devotional Bhakti Aarti Kishori Dey
+South India,Pongal,Devotional,Maha Bhajan,Ustad Sharma,https://example.com/music/maha-bhajan-by-ustad-sharma,South India Pongal Devotional Maha Bhajan Ustad Sharma
+West India,Navratri,Classical,Shri Rasa,Kishori Bhosle,https://example.com/music/shri-rasa-by-kishori-bhosle,West India Navratri Classical Shri Rasa Kishori Bhosle
+South India,Diwali,Folk,Krishna Sangeet,Kishori Subbulakshmi,https://example.com/music/krishna-sangeet-by-kishori-subbulakshmi,South India Diwali Folk Krishna Sangeet Kishori Subbulakshmi
+North India,Lohri,Classical,Anand Aarti,Pt. Mangeshkar,https://example.com/music/anand-aarti-by-pt.-mangeshkar,North India Lohri Classical Anand Aarti Pt. Mangeshkar
+North India,Lohri,Semi-Classical,Om Aarti,Pandit Bhosle,https://example.com/music/om-aarti-by-pandit-bhosle,North India Lohri Semi-Classical Om Aarti Pandit Bhosle
+West India,Diwali,Devotional,Ganga Tarana,M.S. Khan,https://example.com/music/ganga-tarana-by-m.s.-khan,West India Diwali Devotional Ganga Tarana M.S. Khan
+North India,Lohri,Semi-Classical,Devi Stuti,Bhimsen Mansur,https://example.com/music/devi-stuti-by-bhimsen-mansur,North India Lohri Semi-Classical Devi Stuti Bhimsen Mansur
+North India,Holi,Bhajan,Ganga Leela,M.S. Mangeshkar,https://example.com/music/ganga-leela-by-m.s.-mangeshkar,North India Holi Bhajan Ganga Leela M.S. Mangeshkar
+North India,Diwali,Folk,Om Vandana,Kishori Khan,https://example.com/music/om-vandana-by-kishori-khan,North India Diwali Folk Om Vandana Kishori Khan
+East India,Chhath Puja,Folk,Maha Stuti,Ustad Mangeshkar,https://example.com/music/maha-stuti-by-ustad-mangeshkar,East India Chhath Puja Folk Maha Stuti Ustad Mangeshkar
+East India,Bihu,Folk,Jai Bhajan,Shubha Mansur,https://example.com/music/jai-bhajan-by-shubha-mansur,East India Bihu Folk Jai Bhajan Shubha Mansur
+East India,Chhath Puja,Folk,Swar Sangeet,Kishori Mansur,https://example.com/music/swar-sangeet-by-kishori-mansur,East India Chhath Puja Folk Swar Sangeet Kishori Mansur
+North India,Baisakhi,Folk,Shiv Dhun,Begum Amonkar,https://example.com/music/shiv-dhun-by-begum-amonkar,North India Baisakhi Folk Shiv Dhun Begum Amonkar
+North India,Diwali,Semi-Classical,Krishna Sangeet,Vidushi Gundecha,https://example.com/music/krishna-sangeet-by-vidushi-gundecha,North India Diwali Semi-Classical Krishna Sangeet Vidushi Gundecha
+North India,Diwali,Semi-Classical,Taal Geet,Bhimsen Mansur,https://example.com/music/taal-geet-by-bhimsen-mansur,North India Diwali Semi-Classical Taal Geet Bhimsen Mansur
+North India,Baisakhi,Bhajan,Jai Aarti,Mallikarjun Sharma,https://example.com/music/jai-aarti-by-mallikarjun-sharma,North India Baisakhi Bhajan Jai Aarti Mallikarjun Sharma
+South India,Pongal,Devotional,Anand Kirtan,Ravi Gundecha,https://example.com/music/anand-kirtan-by-ravi-gundecha,South India Pongal Devotional Anand Kirtan Ravi Gundecha
+North India,Lohri,Folk,Guru Dhun,Pt. Sharma,https://example.com/music/guru-dhun-by-pt.-sharma,North India Lohri Folk Guru Dhun Pt. Sharma
+North India,Lohri,Bhajan,Devi Dhwani,Pt. Mansur,https://example.com/music/devi-dhwani-by-pt.-mansur,North India Lohri Bhajan Devi Dhwani Pt. Mansur
+North India,Diwali,Semi-Classical,Shri Leela,Hari Mansur,https://example.com/music/shri-leela-by-hari-mansur,North India Diwali Semi-Classical Shri Leela Hari Mansur
+North India,Lohri,Classical,Om Dhun,Pt. Subbulakshmi,https://example.com/music/om-dhun-by-pt.-subbulakshmi,North India Lohri Classical Om Dhun Pt. Subbulakshmi
+South India,Pongal,Devotional,Krishna Bhajan,Bhimsen Shankar,https://example.com/music/krishna-bhajan-by-bhimsen-shankar,South India Pongal Devotional Krishna Bhajan Bhimsen Shankar
+South India,Onam,Folk,Bhakti Rasa,Hari Sharma,https://example.com/music/bhakti-rasa-by-hari-sharma,South India Onam Folk Bhakti Rasa Hari Sharma
+North India,Holi,Bhajan,Jai Dhun,Shubha Dey,https://example.com/music/jai-dhun-by-shubha-dey,North India Holi Bhajan Jai Dhun Shubha Dey
+East India,Durga Puja,Classical,Om Stuti,Vidushi Gundecha,https://example.com/music/om-stuti-by-vidushi-gundecha,East India Durga Puja Classical Om Stuti Vidushi Gundecha
+East India,Durga Puja,Classical,Ganga Aarti,Vidushi Subbulakshmi,https://example.com/music/ganga-aarti-by-vidushi-subbulakshmi,East India Durga Puja Classical Ganga Aarti Vidushi Subbulakshmi
+East India,Chhath Puja,Tribal,Ram Sangeet,M.S. Subbulakshmi,https://example.com/music/ram-sangeet-by-m.s.-subbulakshmi,East India Chhath Puja Tribal Ram Sangeet M.S. Subbulakshmi
+South India,Onam,Devotional,Swar Aarti,Ustad Dey,https://example.com/music/swar-aarti-by-ustad-dey,South India Onam Devotional Swar Aarti Ustad Dey
+West India,Ganesh Chaturthi,Folk,Shri Dhun,Ravi Amonkar,https://example.com/music/shri-dhun-by-ravi-amonkar,West India Ganesh Chaturthi Folk Shri Dhun Ravi Amonkar
+East India,Bihu,Classical,Krishna Vandana,Shubha Sharma,https://example.com/music/krishna-vandana-by-shubha-sharma,East India Bihu Classical Krishna Vandana Shubha Sharma
+East India,Durga Puja,Classical,Ram Tarana,Hari Subbulakshmi,https://example.com/music/ram-tarana-by-hari-subbulakshmi,East India Durga Puja Classical Ram Tarana Hari Subbulakshmi
+West India,Ganesh Chaturthi,Classical,Prema Aarti,Begum Bhosle,https://example.com/music/prema-aarti-by-begum-bhosle,West India Ganesh Chaturthi Classical Prema Aarti Begum Bhosle
+West India,Diwali,Devotional,Maha Leela,Mallikarjun Gundecha,https://example.com/music/maha-leela-by-mallikarjun-gundecha,West India Diwali Devotional Maha Leela Mallikarjun Gundecha
+East India,Bihu,Tribal,Swar Sangeet,Shubha Dey,https://example.com/music/swar-sangeet-by-shubha-dey,East India Bihu Tribal Swar Sangeet Shubha Dey
+South India,Onam,Devotional,Devi Stuti,Vidushi Bhosle,https://example.com/music/devi-stuti-by-vidushi-bhosle,South India Onam Devotional Devi Stuti Vidushi Bhosle
+North India,Diwali,Folk,Raga Katha,Ustad Amonkar,https://example.com/music/raga-katha-by-ustad-amonkar,North India Diwali Folk Raga Katha Ustad Amonkar
+North India,Lohri,Folk,Taal Katha,Pt. Shankar,https://example.com/music/taal-katha-by-pt.-shankar,North India Lohri Folk Taal Katha Pt. Shankar
+South India,Diwali,Folk,Guru Bhajan,Kishori Shankar,https://example.com/music/guru-bhajan-by-kishori-shankar,South India Diwali Folk Guru Bhajan Kishori Shankar
+West India,Navratri,Classical,Prema Geet,Pandit Mansur,https://example.com/music/prema-geet-by-pandit-mansur,West India Navratri Classical Prema Geet Pandit Mansur
+South India,Onam,Devotional,Anand Malhar,Mallikarjun Kulkarni,https://example.com/music/anand-malhar-by-mallikarjun-kulkarni,South India Onam Devotional Anand Malhar Mallikarjun Kulkarni
+South India,Onam,Classical,Ram Malhar,Mallikarjun Khan,https://example.com/music/ram-malhar-by-mallikarjun-khan,South India Onam Classical Ram Malhar Mallikarjun Khan
+North India,Diwali,Bhajan,Om Stuti,Kumar Shankar,https://example.com/music/om-stuti-by-kumar-shankar,North India Diwali Bhajan Om Stuti Kumar Shankar
+East India,Durga Puja,Classical,Bhakti Bhajan,M.S. Subbulakshmi,https://example.com/music/bhakti-bhajan-by-m.s.-subbulakshmi,East India Durga Puja Classical Bhakti Bhajan M.S. Subbulakshmi
+North India,Lohri,Bhajan,Raga Tarana,Kishori Joshi,https://example.com/music/raga-tarana-by-kishori-joshi,North India Lohri Bhajan Raga Tarana Kishori Joshi
+West India,Ganesh Chaturthi,Classical,Krishna Sangeet,M.S. Mangeshkar,https://example.com/music/krishna-sangeet-by-m.s.-mangeshkar,West India Ganesh Chaturthi Classical Krishna Sangeet M.S. Mangeshkar
+North India,Baisakhi,Classical,Shri Leela,Pandit Khan,https://example.com/music/shri-leela-by-pandit-khan,North India Baisakhi Classical Shri Leela Pandit Khan
+North India,Diwali,Classical,Ganga Aarti,Kishori Kulkarni,https://example.com/music/ganga-aarti-by-kishori-kulkarni,North India Diwali Classical Ganga Aarti Kishori Kulkarni
+East India,Chhath Puja,Classical,Raga Kirtan,Vidushi Bhosle,https://example.com/music/raga-kirtan-by-vidushi-bhosle,East India Chhath Puja Classical Raga Kirtan Vidushi Bhosle
+West India,Ganesh Chaturthi,Folk,Jai Aarti,Kishori Shankar,https://example.com/music/jai-aarti-by-kishori-shankar,West India Ganesh Chaturthi Folk Jai Aarti Kishori Shankar
+North India,Diwali,Bhajan,Anand Tarana,M.S. Amonkar,https://example.com/music/anand-tarana-by-m.s.-amonkar,North India Diwali Bhajan Anand Tarana M.S. Amonkar
+East India,Bihu,Folk,Swar Katha,Ustad Mansur,https://example.com/music/swar-katha-by-ustad-mansur,East India Bihu Folk Swar Katha Ustad Mansur
+West India,Diwali,Devotional,Raga Katha,Kumar Kulkarni,https://example.com/music/raga-katha-by-kumar-kulkarni,West India Diwali Devotional Raga Katha Kumar Kulkarni
+North India,Holi,Folk,Maha Kirtan,Pandit Joshi,https://example.com/music/maha-kirtan-by-pandit-joshi,North India Holi Folk Maha Kirtan Pandit Joshi
+West India,Diwali,Devotional,Jai Leela,Ustad Mansur,https://example.com/music/jai-leela-by-ustad-mansur,West India Diwali Devotional Jai Leela Ustad Mansur
+North India,Baisakhi,Semi-Classical,Jai Dhwani,Kishori Bhosle,https://example.com/music/jai-dhwani-by-kishori-bhosle,North India Baisakhi Semi-Classical Jai Dhwani Kishori Bhosle
+South India,Diwali,Classical,Raga Leela,Ustad Gundecha,https://example.com/music/raga-leela-by-ustad-gundecha,South India Diwali Classical Raga Leela Ustad Gundecha
+North India,Baisakhi,Folk,Prema Stuti,Hari Subbulakshmi,https://example.com/music/prema-stuti-by-hari-subbulakshmi,North India Baisakhi Folk Prema Stuti Hari Subbulakshmi
+South India,Diwali,Folk,Taal Stuti,Pandit Dey,https://example.com/music/taal-stuti-by-pandit-dey,South India Diwali Folk Taal Stuti Pandit Dey
+East India,Bihu,Folk,Shri Leela,Pt. Gundecha,https://example.com/music/shri-leela-by-pt.-gundecha,East India Bihu Folk Shri Leela Pt. Gundecha
+West India,Ganesh Chaturthi,Devotional,Maha Sangeet,Kumar Kulkarni,https://example.com/music/maha-sangeet-by-kumar-kulkarni,West India Ganesh Chaturthi Devotional Maha Sangeet Kumar Kulkarni
+East India,Bihu,Classical,Bhakti Dhun,Hari Bhosle,https://example.com/music/bhakti-dhun-by-hari-bhosle,East India Bihu Classical Bhakti Dhun Hari Bhosle
+West India,Navratri,Folk,Prema Dhun,Ustad Khan,https://example.com/music/prema-dhun-by-ustad-khan,West India Navratri Folk Prema Dhun Ustad Khan
+North India,Holi,Classical,Krishna Stuti,Hari Joshi,https://example.com/music/krishna-stuti-by-hari-joshi,North India Holi Classical Krishna Stuti Hari Joshi
+North India,Baisakhi,Bhajan,Maha Vandana,Bhimsen Bhosle,https://example.com/music/maha-vandana-by-bhimsen-bhosle,North India Baisakhi Bhajan Maha Vandana Bhimsen Bhosle
+East India,Bihu,Classical,Shiv Leela,Ustad Shankar,https://example.com/music/shiv-leela-by-ustad-shankar,East India Bihu Classical Shiv Leela Ustad Shankar
+West India,Navratri,Devotional,Prema Katha,Bhimsen Joshi,https://example.com/music/prema-katha-by-bhimsen-joshi,West India Navratri Devotional Prema Katha Bhimsen Joshi
+East India,Chhath Puja,Classical,Ganga Malhar,Hari Amonkar,https://example.com/music/ganga-malhar-by-hari-amonkar,East India Chhath Puja Classical Ganga Malhar Hari Amonkar
+West India,Diwali,Devotional,Guru Geet,Mallikarjun Amonkar,https://example.com/music/guru-geet-by-mallikarjun-amonkar,West India Diwali Devotional Guru Geet Mallikarjun Amonkar
+South India,Pongal,Devotional,Raga Tarana,M.S. Bhosle,https://example.com/music/raga-tarana-by-m.s.-bhosle,South India Pongal Devotional Raga Tarana M.S. Bhosle
+East India,Durga Puja,Folk,Prema Leela,Mallikarjun Sharma,https://example.com/music/prema-leela-by-mallikarjun-sharma,East India Durga Puja Folk Prema Leela Mallikarjun Sharma
+South India,Onam,Classical,Ram Bhajan,Hari Sharma,https://example.com/music/ram-bhajan-by-hari-sharma,South India Onam Classical Ram Bhajan Hari Sharma
+East India,Durga Puja,Tribal,Shri Geet,Shubha Subbulakshmi,https://example.com/music/shri-geet-by-shubha-subbulakshmi,East India Durga Puja Tribal Shri Geet Shubha Subbulakshmi
+North India,Lohri,Folk,Swar Dhwani,Pt. Gundecha,https://example.com/music/swar-dhwani-by-pt.-gundecha,North India Lohri Folk Swar Dhwani Pt. Gundecha
+South India,Diwali,Devotional,Jai Dhun,Hari Kulkarni,https://example.com/music/jai-dhun-by-hari-kulkarni,South India Diwali Devotional Jai Dhun Hari Kulkarni
+North India,Diwali,Semi-Classical,Swar Dhun,Mallikarjun Mansur,https://example.com/music/swar-dhun-by-mallikarjun-mansur,North India Diwali Semi-Classical Swar Dhun Mallikarjun Mansur
+West India,Navratri,Folk,Devi Bhajan,Shubha Khan,https://example.com/music/devi-bhajan-by-shubha-khan,West India Navratri Folk Devi Bhajan Shubha Khan
+North India,Baisakhi,Classical,Om Dhun,M.S. Kulkarni,https://example.com/music/om-dhun-by-m.s.-kulkarni,North India Baisakhi Classical Om Dhun M.S. Kulkarni
+East India,Durga Puja,Classical,Ram Rasa,M.S. Bhosle,https://example.com/music/ram-rasa-by-m.s.-bhosle,East India Durga Puja Classical Ram Rasa M.S. Bhosle
+South India,Onam,Devotional,Shri Stuti,Kumar Dey,https://example.com/music/shri-stuti-by-kumar-dey,South India Onam Devotional Shri Stuti Kumar Dey
+West India,Ganesh Chaturthi,Devotional,Om Katha,Hari Bhosle,https://example.com/music/om-katha-by-hari-bhosle,West India Ganesh Chaturthi Devotional Om Katha Hari Bhosle
+North India,Diwali,Classical,Devi Katha,Vidushi Amonkar,https://example.com/music/devi-katha-by-vidushi-amonkar,North India Diwali Classical Devi Katha Vidushi Amonkar
+North India,Holi,Semi-Classical,Jai Tarana,M.S. Mangeshkar,https://example.com/music/jai-tarana-by-m.s.-mangeshkar,North India Holi Semi-Classical Jai Tarana M.S. Mangeshkar
+North India,Holi,Bhajan,Prema Katha,Kumar Sharma,https://example.com/music/prema-katha-by-kumar-sharma,North India Holi Bhajan Prema Katha Kumar Sharma
+South India,Pongal,Folk,Bhakti Geet,Pt. Joshi,https://example.com/music/bhakti-geet-by-pt.-joshi,South India Pongal Folk Bhakti Geet Pt. Joshi
+West India,Ganesh Chaturthi,Folk,Om Sangeet,Begum Khan,https://example.com/music/om-sangeet-by-begum-khan,West India Ganesh Chaturthi Folk Om Sangeet Begum Khan
+West India,Diwali,Classical,Ganga Malhar,Kishori Kulkarni,https://example.com/music/ganga-malhar-by-kishori-kulkarni,West India Diwali Classical Ganga Malhar Kishori Kulkarni
+North India,Holi,Bhajan,Swar Sangeet,Pt. Bhosle,https://example.com/music/swar-sangeet-by-pt.-bhosle,North India Holi Bhajan Swar Sangeet Pt. Bhosle
+South India,Pongal,Classical,Guru Bhajan,Begum Gundecha,https://example.com/music/guru-bhajan-by-begum-gundecha,South India Pongal Classical Guru Bhajan Begum Gundecha
+South India,Onam,Classical,Raga Aarti,Hari Mansur,https://example.com/music/raga-aarti-by-hari-mansur,South India Onam Classical Raga Aarti Hari Mansur
+North India,Diwali,Bhajan,Shri Stuti,Ravi Joshi,https://example.com/music/shri-stuti-by-ravi-joshi,North India Diwali Bhajan Shri Stuti Ravi Joshi
+South India,Pongal,Classical,Ganga Dhun,Hari Gundecha,https://example.com/music/ganga-dhun-by-hari-gundecha,South India Pongal Classical Ganga Dhun Hari Gundecha
+East India,Bihu,Classical,Guru Sangeet,Begum Dey,https://example.com/music/guru-sangeet-by-begum-dey,East India Bihu Classical Guru Sangeet Begum Dey
+East India,Chhath Puja,Classical,Bhakti Aarti,Pt. Mangeshkar,https://example.com/music/bhakti-aarti-by-pt.-mangeshkar,East India Chhath Puja Classical Bhakti Aarti Pt. Mangeshkar
+North India,Holi,Semi-Classical,Anand Aarti,Pt. Dey,https://example.com/music/anand-aarti-by-pt.-dey,North India Holi Semi-Classical Anand Aarti Pt. Dey
+North India,Diwali,Folk,Devi Kirtan,Kumar Gundecha,https://example.com/music/devi-kirtan-by-kumar-gundecha,North India Diwali Folk Devi Kirtan Kumar Gundecha
+North India,Diwali,Folk,Maha Leela,Begum Mangeshkar,https://example.com/music/maha-leela-by-begum-mangeshkar,North India Diwali Folk Maha Leela Begum Mangeshkar
+North India,Holi,Folk,Om Dhun,Ravi Khan,https://example.com/music/om-dhun-by-ravi-khan,North India Holi Folk Om Dhun Ravi Khan
+North India,Diwali,Classical,Devi Malhar,Kishori Shankar,https://example.com/music/devi-malhar-by-kishori-shankar,North India Diwali Classical Devi Malhar Kishori Shankar
+South India,Pongal,Folk,Ganga Sangeet,Shubha Bhosle,https://example.com/music/ganga-sangeet-by-shubha-bhosle,South India Pongal Folk Ganga Sangeet Shubha Bhosle
+West India,Diwali,Folk,Swar Geet,Ustad Mansur,https://example.com/music/swar-geet-by-ustad-mansur,West India Diwali Folk Swar Geet Ustad Mansur
+West India,Ganesh Chaturthi,Devotional,Ganga Bhajan,Begum Dey,https://example.com/music/ganga-bhajan-by-begum-dey,West India Ganesh Chaturthi Devotional Ganga Bhajan Begum Dey
+East India,Chhath Puja,Tribal,Ganga Leela,Hari Bhosle,https://example.com/music/ganga-leela-by-hari-bhosle,East India Chhath Puja Tribal Ganga Leela Hari Bhosle
+East India,Durga Puja,Tribal,Bhakti Kirtan,Pandit Gundecha,https://example.com/music/bhakti-kirtan-by-pandit-gundecha,East India Durga Puja Tribal Bhakti Kirtan Pandit Gundecha
+South India,Diwali,Devotional,Jai Bhajan,Pt. Khan,https://example.com/music/jai-bhajan-by-pt.-khan,South India Diwali Devotional Jai Bhajan Pt. Khan
+North India,Holi,Classical,Om Vandana,Mallikarjun Sharma,https://example.com/music/om-vandana-by-mallikarjun-sharma,North India Holi Classical Om Vandana Mallikarjun Sharma
+North India,Lohri,Semi-Classical,Guru Vandana,Kishori Subbulakshmi,https://example.com/music/guru-vandana-by-kishori-subbulakshmi,North India Lohri Semi-Classical Guru Vandana Kishori Subbulakshmi
+South India,Onam,Classical,Anand Tarana,Hari Subbulakshmi,https://example.com/music/anand-tarana-by-hari-subbulakshmi,South India Onam Classical Anand Tarana Hari Subbulakshmi
+North India,Holi,Classical,Guru Bhajan,Begum Gundecha,https://example.com/music/guru-bhajan-by-begum-gundecha,North India Holi Classical Guru Bhajan Begum Gundecha
+West India,Navratri,Folk,Krishna Geet,M.S. Sharma,https://example.com/music/krishna-geet-by-m.s.-sharma,West India Navratri Folk Krishna Geet M.S. Sharma
+South India,Pongal,Classical,Krishna Tarana,Ravi Amonkar,https://example.com/music/krishna-tarana-by-ravi-amonkar,South India Pongal Classical Krishna Tarana Ravi Amonkar
+North India,Holi,Folk,Om Malhar,Vidushi Kulkarni,https://example.com/music/om-malhar-by-vidushi-kulkarni,North India Holi Folk Om Malhar Vidushi Kulkarni
+South India,Pongal,Devotional,Om Tarana,Vidushi Sharma,https://example.com/music/om-tarana-by-vidushi-sharma,South India Pongal Devotional Om Tarana Vidushi Sharma
+West India,Navratri,Devotional,Shiv Leela,Ravi Amonkar,https://example.com/music/shiv-leela-by-ravi-amonkar,West India Navratri Devotional Shiv Leela Ravi Amonkar
+South India,Pongal,Folk,Shiv Dhun,Pandit Mangeshkar,https://example.com/music/shiv-dhun-by-pandit-mangeshkar,South India Pongal Folk Shiv Dhun Pandit Mangeshkar
+South India,Pongal,Devotional,Shri Katha,Bhimsen Subbulakshmi,https://example.com/music/shri-katha-by-bhimsen-subbulakshmi,South India Pongal Devotional Shri Katha Bhimsen Subbulakshmi
+North India,Baisakhi,Folk,Ram Katha,Pandit Bhosle,https://example.com/music/ram-katha-by-pandit-bhosle,North India Baisakhi Folk Ram Katha Pandit Bhosle
+West India,Ganesh Chaturthi,Devotional,Jai Leela,Begum Bhosle,https://example.com/music/jai-leela-by-begum-bhosle,West India Ganesh Chaturthi Devotional Jai Leela Begum Bhosle
+South India,Pongal,Devotional,Swar Stuti,Bhimsen Amonkar,https://example.com/music/swar-stuti-by-bhimsen-amonkar,South India Pongal Devotional Swar Stuti Bhimsen Amonkar
+South India,Pongal,Classical,Bhakti Dhun,Bhimsen Shankar,https://example.com/music/bhakti-dhun-by-bhimsen-shankar,South India Pongal Classical Bhakti Dhun Bhimsen Shankar
+South India,Pongal,Folk,Anand Kirtan,Shubha Kulkarni,https://example.com/music/anand-kirtan-by-shubha-kulkarni,South India Pongal Folk Anand Kirtan Shubha Kulkarni
+North India,Baisakhi,Classical,Prema Rasa,M.S. Sharma,https://example.com/music/prema-rasa-by-m.s.-sharma,North India Baisakhi Classical Prema Rasa M.S. Sharma
+South India,Pongal,Devotional,Jai Tarana,Pandit Joshi,https://example.com/music/jai-tarana-by-pandit-joshi,South India Pongal Devotional Jai Tarana Pandit Joshi
+East India,Durga Puja,Folk,Devi Tarana,Pandit Dey,https://example.com/music/devi-tarana-by-pandit-dey,East India Durga Puja Folk Devi Tarana Pandit Dey
+West India,Ganesh Chaturthi,Classical,Anand Aarti,M.S. Kulkarni,https://example.com/music/anand-aarti-by-m.s.-kulkarni,West India Ganesh Chaturthi Classical Anand Aarti M.S. Kulkarni
+South India,Pongal,Folk,Krishna Rasa,Bhimsen Gundecha,https://example.com/music/krishna-rasa-by-bhimsen-gundecha,South India Pongal Folk Krishna Rasa Bhimsen Gundecha
+West India,Navratri,Folk,Ram Malhar,Vidushi Mansur,https://example.com/music/ram-malhar-by-vidushi-mansur,West India Navratri Folk Ram Malhar Vidushi Mansur
+North India,Holi,Bhajan,Shri Leela,Begum Gundecha,https://example.com/music/shri-leela-by-begum-gundecha,North India Holi Bhajan Shri Leela Begum Gundecha
+East India,Chhath Puja,Classical,Guru Dhwani,Pt. Subbulakshmi,https://example.com/music/guru-dhwani-by-pt.-subbulakshmi,East India Chhath Puja Classical Guru Dhwani Pt. Subbulakshmi
+North India,Baisakhi,Semi-Classical,Om Geet,Pt. Dey,https://example.com/music/om-geet-by-pt.-dey,North India Baisakhi Semi-Classical Om Geet Pt. Dey
+North India,Baisakhi,Folk,Bhakti Dhwani,Ravi Sharma,https://example.com/music/bhakti-dhwani-by-ravi-sharma,North India Baisakhi Folk Bhakti Dhwani Ravi Sharma
+West India,Diwali,Devotional,Bhakti Kirtan,Pandit Subbulakshmi,https://example.com/music/bhakti-kirtan-by-pandit-subbulakshmi,West India Diwali Devotional Bhakti Kirtan Pandit Subbulakshmi
+West India,Ganesh Chaturthi,Devotional,Om Kirtan,Kishori Khan,https://example.com/music/om-kirtan-by-kishori-khan,West India Ganesh Chaturthi Devotional Om Kirtan Kishori Khan
+North India,Baisakhi,Folk,Ganga Dhwani,M.S. Mangeshkar,https://example.com/music/ganga-dhwani-by-m.s.-mangeshkar,North India Baisakhi Folk Ganga Dhwani M.S. Mangeshkar
+South India,Pongal,Classical,Shri Vandana,Pandit Amonkar,https://example.com/music/shri-vandana-by-pandit-amonkar,South India Pongal Classical Shri Vandana Pandit Amonkar
+West India,Navratri,Folk,Jai Rasa,Ustad Shankar,https://example.com/music/jai-rasa-by-ustad-shankar,West India Navratri Folk Jai Rasa Ustad Shankar
+East India,Durga Puja,Classical,Guru Bhajan,Pandit Gundecha,https://example.com/music/guru-bhajan-by-pandit-gundecha,East India Durga Puja Classical Guru Bhajan Pandit Gundecha
+East India,Bihu,Classical,Guru Leela,Pt. Sharma,https://example.com/music/guru-leela-by-pt.-sharma,East India Bihu Classical Guru Leela Pt. Sharma
+South India,Pongal,Folk,Anand Tarana,Kumar Dey,https://example.com/music/anand-tarana-by-kumar-dey,South India Pongal Folk Anand Tarana Kumar Dey
+North India,Diwali,Classical,Krishna Aarti,Mallikarjun Gundecha,https://example.com/music/krishna-aarti-by-mallikarjun-gundecha,North India Diwali Classical Krishna Aarti Mallikarjun Gundecha
+South India,Onam,Folk,Guru Malhar,Ravi Kulkarni,https://example.com/music/guru-malhar-by-ravi-kulkarni,South India Onam Folk Guru Malhar Ravi Kulkarni
+East India,Chhath Puja,Folk,Anand Geet,M.S. Mansur,https://example.com/music/anand-geet-by-m.s.-mansur,East India Chhath Puja Folk Anand Geet M.S. Mansur
+West India,Ganesh Chaturthi,Folk,Anand Dhun,Vidushi Shankar,https://example.com/music/anand-dhun-by-vidushi-shankar,West India Ganesh Chaturthi Folk Anand Dhun Vidushi Shankar
+South India,Diwali,Classical,Shri Geet,Begum Joshi,https://example.com/music/shri-geet-by-begum-joshi,South India Diwali Classical Shri Geet Begum Joshi
+South India,Pongal,Classical,Devi Kirtan,Bhimsen Bhosle,https://example.com/music/devi-kirtan-by-bhimsen-bhosle,South India Pongal Classical Devi Kirtan Bhimsen Bhosle
+West India,Navratri,Folk,Shri Rasa,Mallikarjun Kulkarni,https://example.com/music/shri-rasa-by-mallikarjun-kulkarni,West India Navratri Folk Shri Rasa Mallikarjun Kulkarni
+South India,Pongal,Classical,Bhakti Dhwani,M.S. Mansur,https://example.com/music/bhakti-dhwani-by-m.s.-mansur,South India Pongal Classical Bhakti Dhwani M.S. Mansur
+West India,Navratri,Folk,Shri Stuti,Ravi Shankar,https://example.com/music/shri-stuti-by-ravi-shankar,West India Navratri Folk Shri Stuti Ravi Shankar
+North India,Holi,Semi-Classical,Maha Malhar,Mallikarjun Shankar,https://example.com/music/maha-malhar-by-mallikarjun-shankar,North India Holi Semi-Classical Maha Malhar Mallikarjun Shankar
+South India,Onam,Devotional,Maha Malhar,Shubha Kulkarni,https://example.com/music/maha-malhar-by-shubha-kulkarni,South India Onam Devotional Maha Malhar Shubha Kulkarni
+North India,Baisakhi,Classical,Maha Malhar,Vidushi Joshi,https://example.com/music/maha-malhar-by-vidushi-joshi,North India Baisakhi Classical Maha Malhar Vidushi Joshi
+South India,Pongal,Classical,Ganga Tarana,Ravi Mansur,https://example.com/music/ganga-tarana-by-ravi-mansur,South India Pongal Classical Ganga Tarana Ravi Mansur
+East India,Chhath Puja,Classical,Maha Aarti,Vidushi Joshi,https://example.com/music/maha-aarti-by-vidushi-joshi,East India Chhath Puja Classical Maha Aarti Vidushi Joshi
+East India,Bihu,Folk,Prema Geet,Kumar Sharma,https://example.com/music/prema-geet-by-kumar-sharma,East India Bihu Folk Prema Geet Kumar Sharma
+North India,Baisakhi,Bhajan,Anand Dhun,Vidushi Joshi,https://example.com/music/anand-dhun-by-vidushi-joshi,North India Baisakhi Bhajan Anand Dhun Vidushi Joshi
+East India,Durga Puja,Folk,Bhakti Vandana,Kumar Khan,https://example.com/music/bhakti-vandana-by-kumar-khan,East India Durga Puja Folk Bhakti Vandana Kumar Khan
+North India,Baisakhi,Classical,Raga Stuti,Kishori Kulkarni,https://example.com/music/raga-stuti-by-kishori-kulkarni,North India Baisakhi Classical Raga Stuti Kishori Kulkarni
+East India,Bihu,Classical,Devi Rasa,Ustad Bhosle,https://example.com/music/devi-rasa-by-ustad-bhosle,East India Bihu Classical Devi Rasa Ustad Bhosle
+East India,Durga Puja,Classical,Guru Sangeet,Shubha Bhosle,https://example.com/music/guru-sangeet-by-shubha-bhosle,East India Durga Puja Classical Guru Sangeet Shubha Bhosle
+West India,Diwali,Classical,Ganga Kirtan,Pt. Subbulakshmi,https://example.com/music/ganga-kirtan-by-pt.-subbulakshmi,West India Diwali Classical Ganga Kirtan Pt. Subbulakshmi
+South India,Diwali,Devotional,Anand Katha,Kishori Dey,https://example.com/music/anand-katha-by-kishori-dey,South India Diwali Devotional Anand Katha Kishori Dey
+West India,Diwali,Classical,Guru Katha,Pt. Dey,https://example.com/music/guru-katha-by-pt.-dey,West India Diwali Classical Guru Katha Pt. Dey
+South India,Pongal,Folk,Jai Geet,Shubha Subbulakshmi,https://example.com/music/jai-geet-by-shubha-subbulakshmi,South India Pongal Folk Jai Geet Shubha Subbulakshmi
+East India,Bihu,Classical,Swar Stuti,Kishori Subbulakshmi,https://example.com/music/swar-stuti-by-kishori-subbulakshmi,East India Bihu Classical Swar Stuti Kishori Subbulakshmi
+East India,Durga Puja,Classical,Swar Katha,Pandit Mansur,https://example.com/music/swar-katha-by-pandit-mansur,East India Durga Puja Classical Swar Katha Pandit Mansur
+West India,Diwali,Devotional,Ram Dhwani,Pt. Sharma,https://example.com/music/ram-dhwani-by-pt.-sharma,West India Diwali Devotional Ram Dhwani Pt. Sharma
+East India,Bihu,Folk,Ganga Dhun,Shubha Amonkar,https://example.com/music/ganga-dhun-by-shubha-amonkar,East India Bihu Folk Ganga Dhun Shubha Amonkar
+East India,Durga Puja,Tribal,Taal Leela,Pandit Kulkarni,https://example.com/music/taal-leela-by-pandit-kulkarni,East India Durga Puja Tribal Taal Leela Pandit Kulkarni
+South India,Diwali,Classical,Shiv Kirtan,Pandit Sharma,https://example.com/music/shiv-kirtan-by-pandit-sharma,South India Diwali Classical Shiv Kirtan Pandit Sharma
+West India,Navratri,Devotional,Swar Vandana,Vidushi Amonkar,https://example.com/music/swar-vandana-by-vidushi-amonkar,West India Navratri Devotional Swar Vandana Vidushi Amonkar
+South India,Pongal,Devotional,Om Vandana,Bhimsen Dey,https://example.com/music/om-vandana-by-bhimsen-dey,South India Pongal Devotional Om Vandana Bhimsen Dey
+South India,Pongal,Folk,Swar Leela,Mallikarjun Sharma,https://example.com/music/swar-leela-by-mallikarjun-sharma,South India Pongal Folk Swar Leela Mallikarjun Sharma
+South India,Diwali,Folk,Shiv Stuti,M.S. Khan,https://example.com/music/shiv-stuti-by-m.s.-khan,South India Diwali Folk Shiv Stuti M.S. Khan
+North India,Baisakhi,Semi-Classical,Anand Malhar,Shubha Khan,https://example.com/music/anand-malhar-by-shubha-khan,North India Baisakhi Semi-Classical Anand Malhar Shubha Khan
+North India,Diwali,Folk,Shiv Kirtan,Mallikarjun Khan,https://example.com/music/shiv-kirtan-by-mallikarjun-khan,North India Diwali Folk Shiv Kirtan Mallikarjun Khan
+South India,Pongal,Devotional,Krishna Bhajan,Kumar Dey,https://example.com/music/krishna-bhajan-by-kumar-dey,South India Pongal Devotional Krishna Bhajan Kumar Dey
+East India,Bihu,Folk,Ram Dhun,Bhimsen Shankar,https://example.com/music/ram-dhun-by-bhimsen-shankar,East India Bihu Folk Ram Dhun Bhimsen Shankar
+East India,Durga Puja,Tribal,Ganga Bhajan,Ravi Shankar,https://example.com/music/ganga-bhajan-by-ravi-shankar,East India Durga Puja Tribal Ganga Bhajan Ravi Shankar
+North India,Lohri,Semi-Classical,Swar Rasa,Ravi Gundecha,https://example.com/music/swar-rasa-by-ravi-gundecha,North India Lohri Semi-Classical Swar Rasa Ravi Gundecha
+West India,Diwali,Devotional,Swar Tarana,Mallikarjun Subbulakshmi,https://example.com/music/swar-tarana-by-mallikarjun-subbulakshmi,West India Diwali Devotional Swar Tarana Mallikarjun Subbulakshmi
+East India,Bihu,Classical,Ganga Dhun,Begum Amonkar,https://example.com/music/ganga-dhun-by-begum-amonkar,East India Bihu Classical Ganga Dhun Begum Amonkar
+West India,Ganesh Chaturthi,Folk,Krishna Kirtan,Kumar Subbulakshmi,https://example.com/music/krishna-kirtan-by-kumar-subbulakshmi,West India Ganesh Chaturthi Folk Krishna Kirtan Kumar Subbulakshmi
+East India,Durga Puja,Folk,Anand Leela,Hari Subbulakshmi,https://example.com/music/anand-leela-by-hari-subbulakshmi,East India Durga Puja Folk Anand Leela Hari Subbulakshmi
+South India,Diwali,Folk,Taal Aarti,Pandit Sharma,https://example.com/music/taal-aarti-by-pandit-sharma,South India Diwali Folk Taal Aarti Pandit Sharma
+East India,Durga Puja,Folk,Taal Stuti,Hari Bhosle,https://example.com/music/taal-stuti-by-hari-bhosle,East India Durga Puja Folk Taal Stuti Hari Bhosle
+West India,Navratri,Folk,Maha Katha,Mallikarjun Mansur,https://example.com/music/maha-katha-by-mallikarjun-mansur,West India Navratri Folk Maha Katha Mallikarjun Mansur
+West India,Navratri,Devotional,Raga Sangeet,Begum Subbulakshmi,https://example.com/music/raga-sangeet-by-begum-subbulakshmi,West India Navratri Devotional Raga Sangeet Begum Subbulakshmi
+West India,Navratri,Folk,Shri Malhar,Bhimsen Gundecha,https://example.com/music/shri-malhar-by-bhimsen-gundecha,West India Navratri Folk Shri Malhar Bhimsen Gundecha
+South India,Diwali,Folk,Anand Stuti,Mallikarjun Gundecha,https://example.com/music/anand-stuti-by-mallikarjun-gundecha,South India Diwali Folk Anand Stuti Mallikarjun Gundecha
+South India,Diwali,Classical,Devi Dhwani,Kishori Subbulakshmi,https://example.com/music/devi-dhwani-by-kishori-subbulakshmi,South India Diwali Classical Devi Dhwani Kishori Subbulakshmi
+North India,Baisakhi,Classical,Ram Malhar,Ravi Sharma,https://example.com/music/ram-malhar-by-ravi-sharma,North India Baisakhi Classical Ram Malhar Ravi Sharma
+West India,Navratri,Classical,Shiv Stuti,Kishori Sharma,https://example.com/music/shiv-stuti-by-kishori-sharma,West India Navratri Classical Shiv Stuti Kishori Sharma
+South India,Pongal,Devotional,Ram Kirtan,Begum Kulkarni,https://example.com/music/ram-kirtan-by-begum-kulkarni,South India Pongal Devotional Ram Kirtan Begum Kulkarni
+North India,Holi,Bhajan,Anand Malhar,Shubha Joshi,https://example.com/music/anand-malhar-by-shubha-joshi,North India Holi Bhajan Anand Malhar Shubha Joshi
+North India,Baisakhi,Bhajan,Prema Dhun,Begum Joshi,https://example.com/music/prema-dhun-by-begum-joshi,North India Baisakhi Bhajan Prema Dhun Begum Joshi
+West India,Ganesh Chaturthi,Classical,Maha Rasa,Pandit Gundecha,https://example.com/music/maha-rasa-by-pandit-gundecha,West India Ganesh Chaturthi Classical Maha Rasa Pandit Gundecha
+South India,Onam,Classical,Bhakti Rasa,Bhimsen Shankar,https://example.com/music/bhakti-rasa-by-bhimsen-shankar,South India Onam Classical Bhakti Rasa Bhimsen Shankar
+East India,Bihu,Tribal,Taal Dhun,Kishori Shankar,https://example.com/music/taal-dhun-by-kishori-shankar,East India Bihu Tribal Taal Dhun Kishori Shankar
+North India,Diwali,Classical,Shri Rasa,Pandit Khan,https://example.com/music/shri-rasa-by-pandit-khan,North India Diwali Classical Shri Rasa Pandit Khan
+South India,Diwali,Devotional,Om Malhar,Begum Mangeshkar,https://example.com/music/om-malhar-by-begum-mangeshkar,South India Diwali Devotional Om Malhar Begum Mangeshkar
+West India,Navratri,Folk,Om Katha,Kishori Bhosle,https://example.com/music/om-katha-by-kishori-bhosle,West India Navratri Folk Om Katha Kishori Bhosle
+West India,Ganesh Chaturthi,Folk,Swar Stuti,Pt. Joshi,https://example.com/music/swar-stuti-by-pt.-joshi,West India Ganesh Chaturthi Folk Swar Stuti Pt. Joshi
+East India,Durga Puja,Tribal,Shiv Malhar,Kishori Kulkarni,https://example.com/music/shiv-malhar-by-kishori-kulkarni,East India Durga Puja Tribal Shiv Malhar Kishori Kulkarni
+West India,Ganesh Chaturthi,Devotional,Guru Geet,Pandit Sharma,https://example.com/music/guru-geet-by-pandit-sharma,West India Ganesh Chaturthi Devotional Guru Geet Pandit Sharma
+South India,Onam,Devotional,Swar Sangeet,Mallikarjun Sharma,https://example.com/music/swar-sangeet-by-mallikarjun-sharma,South India Onam Devotional Swar Sangeet Mallikarjun Sharma
+West India,Navratri,Devotional,Devi Stuti,Ravi Mangeshkar,https://example.com/music/devi-stuti-by-ravi-mangeshkar,West India Navratri Devotional Devi Stuti Ravi Mangeshkar
+West India,Ganesh Chaturthi,Devotional,Om Malhar,Begum Mangeshkar,https://example.com/music/om-malhar-by-begum-mangeshkar,West India Ganesh Chaturthi Devotional Om Malhar Begum Mangeshkar
+South India,Diwali,Classical,Shiv Dhun,Shubha Khan,https://example.com/music/shiv-dhun-by-shubha-khan,South India Diwali Classical Shiv Dhun Shubha Khan
+South India,Onam,Classical,Devi Tarana,Ustad Mangeshkar,https://example.com/music/devi-tarana-by-ustad-mangeshkar,South India Onam Classical Devi Tarana Ustad Mangeshkar
+East India,Chhath Puja,Classical,Maha Rasa,Ravi Mangeshkar,https://example.com/music/maha-rasa-by-ravi-mangeshkar,East India Chhath Puja Classical Maha Rasa Ravi Mangeshkar
+West India,Diwali,Classical,Jai Sangeet,Kumar Dey,https://example.com/music/jai-sangeet-by-kumar-dey,West India Diwali Classical Jai Sangeet Kumar Dey
+West India,Navratri,Classical,Om Dhun,Kumar Amonkar,https://example.com/music/om-dhun-by-kumar-amonkar,West India Navratri Classical Om Dhun Kumar Amonkar
+South India,Diwali,Folk,Om Katha,Ravi Mansur,https://example.com/music/om-katha-by-ravi-mansur,South India Diwali Folk Om Katha Ravi Mansur
+North India,Diwali,Semi-Classical,Shri Stuti,Ravi Subbulakshmi,https://example.com/music/shri-stuti-by-ravi-subbulakshmi,North India Diwali Semi-Classical Shri Stuti Ravi Subbulakshmi
+East India,Durga Puja,Tribal,Guru Kirtan,Bhimsen Dey,https://example.com/music/guru-kirtan-by-bhimsen-dey,East India Durga Puja Tribal Guru Kirtan Bhimsen Dey
+South India,Onam,Devotional,Ganga Geet,Bhimsen Gundecha,https://example.com/music/ganga-geet-by-bhimsen-gundecha,South India Onam Devotional Ganga Geet Bhimsen Gundecha
+North India,Holi,Bhajan,Om Stuti,Kishori Khan,https://example.com/music/om-stuti-by-kishori-khan,North India Holi Bhajan Om Stuti Kishori Khan
+South India,Onam,Folk,Om Malhar,Kumar Amonkar,https://example.com/music/om-malhar-by-kumar-amonkar,South India Onam Folk Om Malhar Kumar Amonkar
+West India,Diwali,Classical,Prema Malhar,Vidushi Joshi,https://example.com/music/prema-malhar-by-vidushi-joshi,West India Diwali Classical Prema Malhar Vidushi Joshi
+South India,Pongal,Classical,Krishna Katha,Kumar Mangeshkar,https://example.com/music/krishna-katha-by-kumar-mangeshkar,South India Pongal Classical Krishna Katha Kumar Mangeshkar
+South India,Onam,Folk,Shri Leela,Ustad Bhosle,https://example.com/music/shri-leela-by-ustad-bhosle,South India Onam Folk Shri Leela Ustad Bhosle
+South India,Pongal,Classical,Taal Vandana,Kumar Bhosle,https://example.com/music/taal-vandana-by-kumar-bhosle,South India Pongal Classical Taal Vandana Kumar Bhosle
+East India,Durga Puja,Folk,Shri Sangeet,Kishori Bhosle,https://example.com/music/shri-sangeet-by-kishori-bhosle,East India Durga Puja Folk Shri Sangeet Kishori Bhosle
+South India,Onam,Devotional,Swar Dhun,Kishori Kulkarni,https://example.com/music/swar-dhun-by-kishori-kulkarni,South India Onam Devotional Swar Dhun Kishori Kulkarni
+South India,Onam,Classical,Devi Malhar,Pandit Mangeshkar,https://example.com/music/devi-malhar-by-pandit-mangeshkar,South India Onam Classical Devi Malhar Pandit Mangeshkar
+West India,Diwali,Devotional,Shiv Dhun,Bhimsen Bhosle,https://example.com/music/shiv-dhun-by-bhimsen-bhosle,West India Diwali Devotional Shiv Dhun Bhimsen Bhosle
+North India,Diwali,Bhajan,Swar Kirtan,Mallikarjun Dey,https://example.com/music/swar-kirtan-by-mallikarjun-dey,North India Diwali Bhajan Swar Kirtan Mallikarjun Dey
+North India,Holi,Bhajan,Swar Aarti,Pandit Bhosle,https://example.com/music/swar-aarti-by-pandit-bhosle,North India Holi Bhajan Swar Aarti Pandit Bhosle
+South India,Diwali,Folk,Prema Tarana,Pt. Khan,https://example.com/music/prema-tarana-by-pt.-khan,South India Diwali Folk Prema Tarana Pt. Khan
+East India,Bihu,Tribal,Bhakti Tarana,Begum Amonkar,https://example.com/music/bhakti-tarana-by-begum-amonkar,East India Bihu Tribal Bhakti Tarana Begum Amonkar
+West India,Navratri,Devotional,Krishna Tarana,Ustad Mangeshkar,https://example.com/music/krishna-tarana-by-ustad-mangeshkar,West India Navratri Devotional Krishna Tarana Ustad Mangeshkar
+South India,Diwali,Folk,Shri Dhwani,Kishori Amonkar,https://example.com/music/shri-dhwani-by-kishori-amonkar,South India Diwali Folk Shri Dhwani Kishori Amonkar
+South India,Pongal,Folk,Om Vandana,Ustad Amonkar,https://example.com/music/om-vandana-by-ustad-amonkar,South India Pongal Folk Om Vandana Ustad Amonkar
+South India,Onam,Folk,Guru Aarti,Hari Amonkar,https://example.com/music/guru-aarti-by-hari-amonkar,South India Onam Folk Guru Aarti Hari Amonkar
+West India,Diwali,Devotional,Ram Sangeet,Mallikarjun Kulkarni,https://example.com/music/ram-sangeet-by-mallikarjun-kulkarni,West India Diwali Devotional Ram Sangeet Mallikarjun Kulkarni
+West India,Ganesh Chaturthi,Devotional,Krishna Katha,Pt. Shankar,https://example.com/music/krishna-katha-by-pt.-shankar,West India Ganesh Chaturthi Devotional Krishna Katha Pt. Shankar
+North India,Baisakhi,Classical,Guru Vandana,Kishori Subbulakshmi,https://example.com/music/guru-vandana-by-kishori-subbulakshmi,North India Baisakhi Classical Guru Vandana Kishori Subbulakshmi
+West India,Diwali,Devotional,Taal Aarti,Kumar Khan,https://example.com/music/taal-aarti-by-kumar-khan,West India Diwali Devotional Taal Aarti Kumar Khan
+West India,Ganesh Chaturthi,Folk,Ram Katha,Ravi Subbulakshmi,https://example.com/music/ram-katha-by-ravi-subbulakshmi,West India Ganesh Chaturthi Folk Ram Katha Ravi Subbulakshmi
+South India,Pongal,Classical,Shri Katha,Hari Sharma,https://example.com/music/shri-katha-by-hari-sharma,South India Pongal Classical Shri Katha Hari Sharma
+West India,Ganesh Chaturthi,Classical,Guru Kirtan,Pt. Bhosle,https://example.com/music/guru-kirtan-by-pt.-bhosle,West India Ganesh Chaturthi Classical Guru Kirtan Pt. Bhosle
+East India,Bihu,Folk,Raga Kirtan,Hari Mansur,https://example.com/music/raga-kirtan-by-hari-mansur,East India Bihu Folk Raga Kirtan Hari Mansur
+North India,Baisakhi,Folk,Taal Bhajan,Shubha Shankar,https://example.com/music/taal-bhajan-by-shubha-shankar,North India Baisakhi Folk Taal Bhajan Shubha Shankar
+East India,Bihu,Folk,Prema Rasa,Pt. Shankar,https://example.com/music/prema-rasa-by-pt.-shankar,East India Bihu Folk Prema Rasa Pt. Shankar
+North India,Baisakhi,Classical,Krishna Kirtan,Kumar Sharma,https://example.com/music/krishna-kirtan-by-kumar-sharma,North India Baisakhi Classical Krishna Kirtan Kumar Sharma
+West India,Diwali,Folk,Taal Sangeet,Vidushi Khan,https://example.com/music/taal-sangeet-by-vidushi-khan,West India Diwali Folk Taal Sangeet Vidushi Khan
+West India,Ganesh Chaturthi,Devotional,Shiv Vandana,Kishori Kulkarni,https://example.com/music/shiv-vandana-by-kishori-kulkarni,West India Ganesh Chaturthi Devotional Shiv Vandana Kishori Kulkarni
+East India,Bihu,Classical,Guru Tarana,Ustad Sharma,https://example.com/music/guru-tarana-by-ustad-sharma,East India Bihu Classical Guru Tarana Ustad Sharma
+West India,Diwali,Folk,Maha Dhwani,Bhimsen Amonkar,https://example.com/music/maha-dhwani-by-bhimsen-amonkar,West India Diwali Folk Maha Dhwani Bhimsen Amonkar
+North India,Lohri,Classical,Taal Malhar,Mallikarjun Kulkarni,https://example.com/music/taal-malhar-by-mallikarjun-kulkarni,North India Lohri Classical Taal Malhar Mallikarjun Kulkarni
+East India,Bihu,Classical,Maha Dhun,Hari Kulkarni,https://example.com/music/maha-dhun-by-hari-kulkarni,East India Bihu Classical Maha Dhun Hari Kulkarni
+South India,Pongal,Classical,Swar Dhun,Bhimsen Shankar,https://example.com/music/swar-dhun-by-bhimsen-shankar,South India Pongal Classical Swar Dhun Bhimsen Shankar
+South India,Diwali,Devotional,Prema Bhajan,M.S. Shankar,https://example.com/music/prema-bhajan-by-m.s.-shankar,South India Diwali Devotional Prema Bhajan M.S. Shankar
+West India,Navratri,Devotional,Anand Leela,Kishori Joshi,https://example.com/music/anand-leela-by-kishori-joshi,West India Navratri Devotional Anand Leela Kishori Joshi
+North India,Lohri,Bhajan,Krishna Katha,Ustad Mansur,https://example.com/music/krishna-katha-by-ustad-mansur,North India Lohri Bhajan Krishna Katha Ustad Mansur
+South India,Pongal,Devotional,Ganga Katha,Ustad Kulkarni,https://example.com/music/ganga-katha-by-ustad-kulkarni,South India Pongal Devotional Ganga Katha Ustad Kulkarni
+East India,Durga Puja,Classical,Om Stuti,Pandit Subbulakshmi,https://example.com/music/om-stuti-by-pandit-subbulakshmi,East India Durga Puja Classical Om Stuti Pandit Subbulakshmi
+West India,Diwali,Classical,Guru Dhun,Hari Khan,https://example.com/music/guru-dhun-by-hari-khan,West India Diwali Classical Guru Dhun Hari Khan
+South India,Pongal,Devotional,Raga Kirtan,Ravi Joshi,https://example.com/music/raga-kirtan-by-ravi-joshi,South India Pongal Devotional Raga Kirtan Ravi Joshi
+South India,Diwali,Folk,Anand Vandana,Hari Bhosle,https://example.com/music/anand-vandana-by-hari-bhosle,South India Diwali Folk Anand Vandana Hari Bhosle
+South India,Diwali,Folk,Om Tarana,Kumar Bhosle,https://example.com/music/om-tarana-by-kumar-bhosle,South India Diwali Folk Om Tarana Kumar Bhosle
+East India,Chhath Puja,Tribal,Anand Kirtan,Pt. Mansur,https://example.com/music/anand-kirtan-by-pt.-mansur,East India Chhath Puja Tribal Anand Kirtan Pt. Mansur
+South India,Onam,Classical,Prema Dhun,Bhimsen Subbulakshmi,https://example.com/music/prema-dhun-by-bhimsen-subbulakshmi,South India Onam Classical Prema Dhun Bhimsen Subbulakshmi
+South India,Onam,Folk,Krishna Aarti,Ustad Khan,https://example.com/music/krishna-aarti-by-ustad-khan,South India Onam Folk Krishna Aarti Ustad Khan
+West India,Navratri,Devotional,Ganga Aarti,Bhimsen Dey,https://example.com/music/ganga-aarti-by-bhimsen-dey,West India Navratri Devotional Ganga Aarti Bhimsen Dey
+North India,Baisakhi,Folk,Taal Geet,Kishori Shankar,https://example.com/music/taal-geet-by-kishori-shankar,North India Baisakhi Folk Taal Geet Kishori Shankar
+South India,Onam,Folk,Guru Kirtan,Begum Bhosle,https://example.com/music/guru-kirtan-by-begum-bhosle,South India Onam Folk Guru Kirtan Begum Bhosle
+East India,Bihu,Folk,Devi Sangeet,Hari Subbulakshmi,https://example.com/music/devi-sangeet-by-hari-subbulakshmi,East India Bihu Folk Devi Sangeet Hari Subbulakshmi
+East India,Chhath Puja,Tribal,Taal Sangeet,Vidushi Subbulakshmi,https://example.com/music/taal-sangeet-by-vidushi-subbulakshmi,East India Chhath Puja Tribal Taal Sangeet Vidushi Subbulakshmi
+North India,Lohri,Bhajan,Prema Aarti,M.S. Dey,https://example.com/music/prema-aarti-by-m.s.-dey,North India Lohri Bhajan Prema Aarti M.S. Dey
+East India,Chhath Puja,Tribal,Bhakti Kirtan,Kishori Kulkarni,https://example.com/music/bhakti-kirtan-by-kishori-kulkarni,East India Chhath Puja Tribal Bhakti Kirtan Kishori Kulkarni
+East India,Durga Puja,Classical,Anand Leela,Pandit Kulkarni,https://example.com/music/anand-leela-by-pandit-kulkarni,East India Durga Puja Classical Anand Leela Pandit Kulkarni
+West India,Diwali,Devotional,Taal Bhajan,Mallikarjun Sharma,https://example.com/music/taal-bhajan-by-mallikarjun-sharma,West India Diwali Devotional Taal Bhajan Mallikarjun Sharma
+North India,Holi,Folk,Ram Bhajan,Pt. Mansur,https://example.com/music/ram-bhajan-by-pt.-mansur,North India Holi Folk Ram Bhajan Pt. Mansur
+West India,Diwali,Devotional,Devi Tarana,Pandit Dey,https://example.com/music/devi-tarana-by-pandit-dey,West India Diwali Devotional Devi Tarana Pandit Dey
+North India,Lohri,Semi-Classical,Om Sangeet,M.S. Mansur,https://example.com/music/om-sangeet-by-m.s.-mansur,North India Lohri Semi-Classical Om Sangeet M.S. Mansur
+West India,Navratri,Folk,Taal Dhun,Kishori Amonkar,https://example.com/music/taal-dhun-by-kishori-amonkar,West India Navratri Folk Taal Dhun Kishori Amonkar
+North India,Lohri,Semi-Classical,Raga Malhar,Mallikarjun Joshi,https://example.com/music/raga-malhar-by-mallikarjun-joshi,North India Lohri Semi-Classical Raga Malhar Mallikarjun Joshi
+South India,Diwali,Folk,Krishna Katha,Pandit Amonkar,https://example.com/music/krishna-katha-by-pandit-amonkar,South India Diwali Folk Krishna Katha Pandit Amonkar
+West India,Ganesh Chaturthi,Classical,Guru Bhajan,Hari Mangeshkar,https://example.com/music/guru-bhajan-by-hari-mangeshkar,West India Ganesh Chaturthi Classical Guru Bhajan Hari Mangeshkar
+East India,Chhath Puja,Classical,Raga Sangeet,Vidushi Sharma,https://example.com/music/raga-sangeet-by-vidushi-sharma,East India Chhath Puja Classical Raga Sangeet Vidushi Sharma
+South India,Onam,Devotional,Bhakti Dhwani,Bhimsen Kulkarni,https://example.com/music/bhakti-dhwani-by-bhimsen-kulkarni,South India Onam Devotional Bhakti Dhwani Bhimsen Kulkarni
+East India,Chhath Puja,Classical,Maha Tarana,Hari Dey,https://example.com/music/maha-tarana-by-hari-dey,East India Chhath Puja Classical Maha Tarana Hari Dey
+North India,Lohri,Folk,Raga Malhar,Pandit Kulkarni,https://example.com/music/raga-malhar-by-pandit-kulkarni,North India Lohri Folk Raga Malhar Pandit Kulkarni
+South India,Diwali,Classical,Shri Geet,Ravi Sharma,https://example.com/music/shri-geet-by-ravi-sharma,South India Diwali Classical Shri Geet Ravi Sharma
+South India,Onam,Devotional,Krishna Kirtan,M.S. Shankar,https://example.com/music/krishna-kirtan-by-m.s.-shankar,South India Onam Devotional Krishna Kirtan M.S. Shankar
+South India,Onam,Folk,Anand Malhar,Kumar Dey,https://example.com/music/anand-malhar-by-kumar-dey,South India Onam Folk Anand Malhar Kumar Dey
+East India,Chhath Puja,Tribal,Shiv Sangeet,Mallikarjun Dey,https://example.com/music/shiv-sangeet-by-mallikarjun-dey,East India Chhath Puja Tribal Shiv Sangeet Mallikarjun Dey
+South India,Onam,Folk,Jai Aarti,Mallikarjun Subbulakshmi,https://example.com/music/jai-aarti-by-mallikarjun-subbulakshmi,South India Onam Folk Jai Aarti Mallikarjun Subbulakshmi
+North India,Baisakhi,Classical,Bhakti Leela,Ustad Mangeshkar,https://example.com/music/bhakti-leela-by-ustad-mangeshkar,North India Baisakhi Classical Bhakti Leela Ustad Mangeshkar
+East India,Durga Puja,Folk,Guru Tarana,Kumar Mansur,https://example.com/music/guru-tarana-by-kumar-mansur,East India Durga Puja Folk Guru Tarana Kumar Mansur
+West India,Ganesh Chaturthi,Classical,Raga Bhajan,Pt. Dey,https://example.com/music/raga-bhajan-by-pt.-dey,West India Ganesh Chaturthi Classical Raga Bhajan Pt. Dey
+East India,Durga Puja,Folk,Shiv Rasa,Mallikarjun Bhosle,https://example.com/music/shiv-rasa-by-mallikarjun-bhosle,East India Durga Puja Folk Shiv Rasa Mallikarjun Bhosle
+North India,Baisakhi,Folk,Bhakti Aarti,Mallikarjun Khan,https://example.com/music/bhakti-aarti-by-mallikarjun-khan,North India Baisakhi Folk Bhakti Aarti Mallikarjun Khan
+South India,Diwali,Devotional,Krishna Malhar,Kumar Shankar,https://example.com/music/krishna-malhar-by-kumar-shankar,South India Diwali Devotional Krishna Malhar Kumar Shankar
+West India,Diwali,Devotional,Raga Malhar,Mallikarjun Mangeshkar,https://example.com/music/raga-malhar-by-mallikarjun-mangeshkar,West India Diwali Devotional Raga Malhar Mallikarjun Mangeshkar
+North India,Diwali,Bhajan,Taal Tarana,Pandit Amonkar,https://example.com/music/taal-tarana-by-pandit-amonkar,North India Diwali Bhajan Taal Tarana Pandit Amonkar
+West India,Diwali,Folk,Shri Dhwani,Shubha Mansur,https://example.com/music/shri-dhwani-by-shubha-mansur,West India Diwali Folk Shri Dhwani Shubha Mansur
+North India,Diwali,Folk,Prema Aarti,Kishori Mansur,https://example.com/music/prema-aarti-by-kishori-mansur,North India Diwali Folk Prema Aarti Kishori Mansur
+North India,Baisakhi,Classical,Jai Katha,Shubha Joshi,https://example.com/music/jai-katha-by-shubha-joshi,North India Baisakhi Classical Jai Katha Shubha Joshi
+East India,Durga Puja,Tribal,Krishna Dhwani,M.S. Gundecha,https://example.com/music/krishna-dhwani-by-m.s.-gundecha,East India Durga Puja Tribal Krishna Dhwani M.S. Gundecha
+East India,Bihu,Folk,Prema Aarti,Ustad Kulkarni,https://example.com/music/prema-aarti-by-ustad-kulkarni,East India Bihu Folk Prema Aarti Ustad Kulkarni
+West India,Navratri,Classical,Shiv Aarti,Kumar Kulkarni,https://example.com/music/shiv-aarti-by-kumar-kulkarni,West India Navratri Classical Shiv Aarti Kumar Kulkarni
+West India,Navratri,Devotional,Prema Aarti,Kishori Gundecha,https://example.com/music/prema-aarti-by-kishori-gundecha,West India Navratri Devotional Prema Aarti Kishori Gundecha
+South India,Diwali,Folk,Jai Rasa,Pandit Mansur,https://example.com/music/jai-rasa-by-pandit-mansur,South India Diwali Folk Jai Rasa Pandit Mansur
+West India,Ganesh Chaturthi,Folk,Krishna Dhwani,Ravi Khan,https://example.com/music/krishna-dhwani-by-ravi-khan,West India Ganesh Chaturthi Folk Krishna Dhwani Ravi Khan
+East India,Bihu,Tribal,Devi Vandana,Ravi Mansur,https://example.com/music/devi-vandana-by-ravi-mansur,East India Bihu Tribal Devi Vandana Ravi Mansur
+North India,Diwali,Semi-Classical,Maha Sangeet,Kishori Subbulakshmi,https://example.com/music/maha-sangeet-by-kishori-subbulakshmi,North India Diwali Semi-Classical Maha Sangeet Kishori Subbulakshmi
+West India,Navratri,Devotional,Anand Vandana,Begum Khan,https://example.com/music/anand-vandana-by-begum-khan,West India Navratri Devotional Anand Vandana Begum Khan
+West India,Diwali,Devotional,Om Malhar,Bhimsen Subbulakshmi,https://example.com/music/om-malhar-by-bhimsen-subbulakshmi,West India Diwali Devotional Om Malhar Bhimsen Subbulakshmi
+West India,Navratri,Classical,Swar Malhar,Pt. Bhosle,https://example.com/music/swar-malhar-by-pt.-bhosle,West India Navratri Classical Swar Malhar Pt. Bhosle
+South India,Pongal,Devotional,Bhakti Dhun,Mallikarjun Subbulakshmi,https://example.com/music/bhakti-dhun-by-mallikarjun-subbulakshmi,South India Pongal Devotional Bhakti Dhun Mallikarjun Subbulakshmi
+North India,Baisakhi,Classical,Shri Stuti,Mallikarjun Shankar,https://example.com/music/shri-stuti-by-mallikarjun-shankar,North India Baisakhi Classical Shri Stuti Mallikarjun Shankar
+North India,Diwali,Classical,Shri Tarana,Ustad Shankar,https://example.com/music/shri-tarana-by-ustad-shankar,North India Diwali Classical Shri Tarana Ustad Shankar
+North India,Lohri,Bhajan,Anand Katha,Kishori Sharma,https://example.com/music/anand-katha-by-kishori-sharma,North India Lohri Bhajan Anand Katha Kishori Sharma
+West India,Ganesh Chaturthi,Devotional,Ganga Sangeet,Ravi Kulkarni,https://example.com/music/ganga-sangeet-by-ravi-kulkarni,West India Ganesh Chaturthi Devotional Ganga Sangeet Ravi Kulkarni
+North India,Diwali,Folk,Krishna Malhar,Mallikarjun Sharma,https://example.com/music/krishna-malhar-by-mallikarjun-sharma,North India Diwali Folk Krishna Malhar Mallikarjun Sharma
+East India,Bihu,Folk,Krishna Sangeet,Mallikarjun Mangeshkar,https://example.com/music/krishna-sangeet-by-mallikarjun-mangeshkar,East India Bihu Folk Krishna Sangeet Mallikarjun Mangeshkar
+West India,Diwali,Folk,Guru Rasa,Kumar Amonkar,https://example.com/music/guru-rasa-by-kumar-amonkar,West India Diwali Folk Guru Rasa Kumar Amonkar
+South India,Pongal,Devotional,Shri Malhar,Shubha Kulkarni,https://example.com/music/shri-malhar-by-shubha-kulkarni,South India Pongal Devotional Shri Malhar Shubha Kulkarni
+South India,Onam,Classical,Jai Dhwani,Kishori Bhosle,https://example.com/music/jai-dhwani-by-kishori-bhosle,South India Onam Classical Jai Dhwani Kishori Bhosle
+South India,Onam,Folk,Maha Bhajan,Ustad Gundecha,https://example.com/music/maha-bhajan-by-ustad-gundecha,South India Onam Folk Maha Bhajan Ustad Gundecha
+East India,Chhath Puja,Classical,Anand Stuti,M.S. Mansur,https://example.com/music/anand-stuti-by-m.s.-mansur,East India Chhath Puja Classical Anand Stuti M.S. Mansur
+South India,Diwali,Folk,Krishna Vandana,Hari Khan,https://example.com/music/krishna-vandana-by-hari-khan,South India Diwali Folk Krishna Vandana Hari Khan
+North India,Diwali,Bhajan,Prema Rasa,Kishori Mansur,https://example.com/music/prema-rasa-by-kishori-mansur,North India Diwali Bhajan Prema Rasa Kishori Mansur
+East India,Chhath Puja,Folk,Swar Aarti,Begum Bhosle,https://example.com/music/swar-aarti-by-begum-bhosle,East India Chhath Puja Folk Swar Aarti Begum Bhosle
+East India,Chhath Puja,Folk,Ganga Kirtan,Begum Sharma,https://example.com/music/ganga-kirtan-by-begum-sharma,East India Chhath Puja Folk Ganga Kirtan Begum Sharma
+North India,Baisakhi,Folk,Ram Bhajan,Vidushi Dey,https://example.com/music/ram-bhajan-by-vidushi-dey,North India Baisakhi Folk Ram Bhajan Vidushi Dey
+South India,Pongal,Folk,Maha Rasa,Pandit Mangeshkar,https://example.com/music/maha-rasa-by-pandit-mangeshkar,South India Pongal Folk Maha Rasa Pandit Mangeshkar
+South India,Pongal,Devotional,Ganga Stuti,Bhimsen Dey,https://example.com/music/ganga-stuti-by-bhimsen-dey,South India Pongal Devotional Ganga Stuti Bhimsen Dey
+North India,Baisakhi,Semi-Classical,Ganga Dhwani,M.S. Khan,https://example.com/music/ganga-dhwani-by-m.s.-khan,North India Baisakhi Semi-Classical Ganga Dhwani M.S. Khan
+North India,Diwali,Bhajan,Krishna Sangeet,Ravi Joshi,https://example.com/music/krishna-sangeet-by-ravi-joshi,North India Diwali Bhajan Krishna Sangeet Ravi Joshi
+South India,Pongal,Classical,Bhakti Bhajan,Ravi Mansur,https://example.com/music/bhakti-bhajan-by-ravi-mansur,South India Pongal Classical Bhakti Bhajan Ravi Mansur
+North India,Baisakhi,Semi-Classical,Jai Dhun,Pandit Dey,https://example.com/music/jai-dhun-by-pandit-dey,North India Baisakhi Semi-Classical Jai Dhun Pandit Dey
+West India,Diwali,Devotional,Prema Vandana,Begum Mansur,https://example.com/music/prema-vandana-by-begum-mansur,West India Diwali Devotional Prema Vandana Begum Mansur
+South India,Diwali,Devotional,Taal Aarti,Kishori Shankar,https://example.com/music/taal-aarti-by-kishori-shankar,South India Diwali Devotional Taal Aarti Kishori Shankar
+North India,Diwali,Classical,Prema Malhar,Pt. Subbulakshmi,https://example.com/music/prema-malhar-by-pt.-subbulakshmi,North India Diwali Classical Prema Malhar Pt. Subbulakshmi
+South India,Onam,Devotional,Anand Dhwani,Ravi Khan,https://example.com/music/anand-dhwani-by-ravi-khan,South India Onam Devotional Anand Dhwani Ravi Khan
+South India,Onam,Devotional,Shri Stuti,Kishori Sharma,https://example.com/music/shri-stuti-by-kishori-sharma,South India Onam Devotional Shri Stuti Kishori Sharma
+North India,Baisakhi,Folk,Anand Kirtan,Ravi Gundecha,https://example.com/music/anand-kirtan-by-ravi-gundecha,North India Baisakhi Folk Anand Kirtan Ravi Gundecha
+South India,Diwali,Classical,Shri Dhun,Shubha Khan,https://example.com/music/shri-dhun-by-shubha-khan,South India Diwali Classical Shri Dhun Shubha Khan
+East India,Chhath Puja,Tribal,Taal Vandana,Ravi Joshi,https://example.com/music/taal-vandana-by-ravi-joshi,East India Chhath Puja Tribal Taal Vandana Ravi Joshi
+South India,Pongal,Devotional,Bhakti Malhar,Shubha Amonkar,https://example.com/music/bhakti-malhar-by-shubha-amonkar,South India Pongal Devotional Bhakti Malhar Shubha Amonkar
+South India,Diwali,Classical,Krishna Sangeet,M.S. Subbulakshmi,https://example.com/music/krishna-sangeet-by-m.s.-subbulakshmi,South India Diwali Classical Krishna Sangeet M.S. Subbulakshmi
+North India,Diwali,Bhajan,Swar Leela,Bhimsen Shankar,https://example.com/music/swar-leela-by-bhimsen-shankar,North India Diwali Bhajan Swar Leela Bhimsen Shankar
+West India,Diwali,Classical,Ganga Aarti,Ustad Amonkar,https://example.com/music/ganga-aarti-by-ustad-amonkar,West India Diwali Classical Ganga Aarti Ustad Amonkar
+South India,Diwali,Devotional,Ram Dhun,Ravi Gundecha,https://example.com/music/ram-dhun-by-ravi-gundecha,South India Diwali Devotional Ram Dhun Ravi Gundecha
+West India,Navratri,Classical,Devi Kirtan,Kishori Mangeshkar,https://example.com/music/devi-kirtan-by-kishori-mangeshkar,West India Navratri Classical Devi Kirtan Kishori Mangeshkar
+West India,Ganesh Chaturthi,Classical,Guru Bhajan,Shubha Bhosle,https://example.com/music/guru-bhajan-by-shubha-bhosle,West India Ganesh Chaturthi Classical Guru Bhajan Shubha Bhosle
+South India,Pongal,Devotional,Ram Sangeet,Ustad Kulkarni,https://example.com/music/ram-sangeet-by-ustad-kulkarni,South India Pongal Devotional Ram Sangeet Ustad Kulkarni
+South India,Diwali,Devotional,Om Malhar,Shubha Subbulakshmi,https://example.com/music/om-malhar-by-shubha-subbulakshmi,South India Diwali Devotional Om Malhar Shubha Subbulakshmi
+South India,Diwali,Classical,Raga Rasa,Kumar Kulkarni,https://example.com/music/raga-rasa-by-kumar-kulkarni,South India Diwali Classical Raga Rasa Kumar Kulkarni
+South India,Diwali,Classical,Ganga Stuti,Kishori Gundecha,https://example.com/music/ganga-stuti-by-kishori-gundecha,South India Diwali Classical Ganga Stuti Kishori Gundecha
+East India,Chhath Puja,Tribal,Devi Geet,M.S. Dey,https://example.com/music/devi-geet-by-m.s.-dey,East India Chhath Puja Tribal Devi Geet M.S. Dey
+South India,Pongal,Devotional,Raga Aarti,Bhimsen Kulkarni,https://example.com/music/raga-aarti-by-bhimsen-kulkarni,South India Pongal Devotional Raga Aarti Bhimsen Kulkarni
+East India,Chhath Puja,Classical,Jai Leela,M.S. Shankar,https://example.com/music/jai-leela-by-m.s.-shankar,East India Chhath Puja Classical Jai Leela M.S. Shankar
+North India,Baisakhi,Classical,Bhakti Katha,Ravi Dey,https://example.com/music/bhakti-katha-by-ravi-dey,North India Baisakhi Classical Bhakti Katha Ravi Dey
+East India,Bihu,Classical,Krishna Rasa,Hari Joshi,https://example.com/music/krishna-rasa-by-hari-joshi,East India Bihu Classical Krishna Rasa Hari Joshi
+South India,Diwali,Classical,Devi Sangeet,Vidushi Mansur,https://example.com/music/devi-sangeet-by-vidushi-mansur,South India Diwali Classical Devi Sangeet Vidushi Mansur
+North India,Diwali,Bhajan,Krishna Rasa,Bhimsen Joshi,https://example.com/music/krishna-rasa-by-bhimsen-joshi,North India Diwali Bhajan Krishna Rasa Bhimsen Joshi
+South India,Pongal,Devotional,Ram Aarti,Ravi Bhosle,https://example.com/music/ram-aarti-by-ravi-bhosle,South India Pongal Devotional Ram Aarti Ravi Bhosle
+East India,Chhath Puja,Tribal,Krishna Bhajan,Pt. Mangeshkar,https://example.com/music/krishna-bhajan-by-pt.-mangeshkar,East India Chhath Puja Tribal Krishna Bhajan Pt. Mangeshkar
+North India,Holi,Folk,Devi Katha,Kishori Kulkarni,https://example.com/music/devi-katha-by-kishori-kulkarni,North India Holi Folk Devi Katha Kishori Kulkarni
+West India,Ganesh Chaturthi,Devotional,Guru Katha,Kumar Gundecha,https://example.com/music/guru-katha-by-kumar-gundecha,West India Ganesh Chaturthi Devotional Guru Katha Kumar Gundecha
+South India,Onam,Devotional,Anand Tarana,Ustad Khan,https://example.com/music/anand-tarana-by-ustad-khan,South India Onam Devotional Anand Tarana Ustad Khan
+West India,Navratri,Folk,Shri Katha,Bhimsen Amonkar,https://example.com/music/shri-katha-by-bhimsen-amonkar,West India Navratri Folk Shri Katha Bhimsen Amonkar
+East India,Durga Puja,Folk,Bhakti Dhun,Kumar Kulkarni,https://example.com/music/bhakti-dhun-by-kumar-kulkarni,East India Durga Puja Folk Bhakti Dhun Kumar Kulkarni
+West India,Ganesh Chaturthi,Folk,Bhakti Aarti,Shubha Kulkarni,https://example.com/music/bhakti-aarti-by-shubha-kulkarni,West India Ganesh Chaturthi Folk Bhakti Aarti Shubha Kulkarni
+East India,Bihu,Tribal,Krishna Stuti,Kishori Dey,https://example.com/music/krishna-stuti-by-kishori-dey,East India Bihu Tribal Krishna Stuti Kishori Dey
+West India,Diwali,Folk,Raga Aarti,Pt. Joshi,https://example.com/music/raga-aarti-by-pt.-joshi,West India Diwali Folk Raga Aarti Pt. Joshi
+South India,Pongal,Folk,Prema Vandana,Pt. Subbulakshmi,https://example.com/music/prema-vandana-by-pt.-subbulakshmi,South India Pongal Folk Prema Vandana Pt. Subbulakshmi
+East India,Bihu,Classical,Ganga Leela,Mallikarjun Mansur,https://example.com/music/ganga-leela-by-mallikarjun-mansur,East India Bihu Classical Ganga Leela Mallikarjun Mansur
+North India,Diwali,Bhajan,Jai Vandana,Begum Mangeshkar,https://example.com/music/jai-vandana-by-begum-mangeshkar,North India Diwali Bhajan Jai Vandana Begum Mangeshkar
+South India,Pongal,Devotional,Ram Vandana,Vidushi Sharma,https://example.com/music/ram-vandana-by-vidushi-sharma,South India Pongal Devotional Ram Vandana Vidushi Sharma
+North India,Diwali,Classical,Swar Malhar,Pandit Bhosle,https://example.com/music/swar-malhar-by-pandit-bhosle,North India Diwali Classical Swar Malhar Pandit Bhosle
+South India,Pongal,Devotional,Prema Tarana,Bhimsen Amonkar,https://example.com/music/prema-tarana-by-bhimsen-amonkar,South India Pongal Devotional Prema Tarana Bhimsen Amonkar
+North India,Baisakhi,Folk,Ganga Stuti,Shubha Joshi,https://example.com/music/ganga-stuti-by-shubha-joshi,North India Baisakhi Folk Ganga Stuti Shubha Joshi
+North India,Lohri,Folk,Raga Geet,Vidushi Joshi,https://example.com/music/raga-geet-by-vidushi-joshi,North India Lohri Folk Raga Geet Vidushi Joshi
+East India,Chhath Puja,Folk,Bhakti Bhajan,Ravi Kulkarni,https://example.com/music/bhakti-bhajan-by-ravi-kulkarni,East India Chhath Puja Folk Bhakti Bhajan Ravi Kulkarni
+East India,Bihu,Classical,Raga Kirtan,Bhimsen Kulkarni,https://example.com/music/raga-kirtan-by-bhimsen-kulkarni,East India Bihu Classical Raga Kirtan Bhimsen Kulkarni
+North India,Holi,Bhajan,Prema Dhun,Kumar Amonkar,https://example.com/music/prema-dhun-by-kumar-amonkar,North India Holi Bhajan Prema Dhun Kumar Amonkar
+North India,Lohri,Folk,Maha Dhun,Pandit Joshi,https://example.com/music/maha-dhun-by-pandit-joshi,North India Lohri Folk Maha Dhun Pandit Joshi
+West India,Navratri,Classical,Jai Katha,Hari Gundecha,https://example.com/music/jai-katha-by-hari-gundecha,West India Navratri Classical Jai Katha Hari Gundecha
+East India,Durga Puja,Classical,Om Malhar,Kumar Mansur,https://example.com/music/om-malhar-by-kumar-mansur,East India Durga Puja Classical Om Malhar Kumar Mansur
+North India,Diwali,Bhajan,Devi Aarti,Kishori Sharma,https://example.com/music/devi-aarti-by-kishori-sharma,North India Diwali Bhajan Devi Aarti Kishori Sharma
+East India,Durga Puja,Tribal,Shri Rasa,Pt. Subbulakshmi,https://example.com/music/shri-rasa-by-pt.-subbulakshmi,East India Durga Puja Tribal Shri Rasa Pt. Subbulakshmi
+East India,Bihu,Folk,Swar Leela,M.S. Sharma,https://example.com/music/swar-leela-by-m.s.-sharma,East India Bihu Folk Swar Leela M.S. Sharma
+West India,Ganesh Chaturthi,Classical,Taal Malhar,Kumar Sharma,https://example.com/music/taal-malhar-by-kumar-sharma,West India Ganesh Chaturthi Classical Taal Malhar Kumar Sharma
+North India,Lohri,Folk,Maha Bhajan,Shubha Kulkarni,https://example.com/music/maha-bhajan-by-shubha-kulkarni,North India Lohri Folk Maha Bhajan Shubha Kulkarni
+East India,Bihu,Tribal,Ram Bhajan,Ustad Mansur,https://example.com/music/ram-bhajan-by-ustad-mansur,East India Bihu Tribal Ram Bhajan Ustad Mansur
+East India,Durga Puja,Classical,Prema Geet,M.S. Gundecha,https://example.com/music/prema-geet-by-m.s.-gundecha,East India Durga Puja Classical Prema Geet M.S. Gundecha
+North India,Holi,Classical,Shri Bhajan,Mallikarjun Gundecha,https://example.com/music/shri-bhajan-by-mallikarjun-gundecha,North India Holi Classical Shri Bhajan Mallikarjun Gundecha
+West India,Ganesh Chaturthi,Devotional,Jai Bhajan,Bhimsen Khan,https://example.com/music/jai-bhajan-by-bhimsen-khan,West India Ganesh Chaturthi Devotional Jai Bhajan Bhimsen Khan
+North India,Holi,Folk,Prema Stuti,Mallikarjun Sharma,https://example.com/music/prema-stuti-by-mallikarjun-sharma,North India Holi Folk Prema Stuti Mallikarjun Sharma
+West India,Diwali,Devotional,Krishna Kirtan,Shubha Khan,https://example.com/music/krishna-kirtan-by-shubha-khan,West India Diwali Devotional Krishna Kirtan Shubha Khan
+South India,Diwali,Devotional,Bhakti Stuti,Pt. Bhosle,https://example.com/music/bhakti-stuti-by-pt.-bhosle,South India Diwali Devotional Bhakti Stuti Pt. Bhosle
+West India,Ganesh Chaturthi,Folk,Om Tarana,Bhimsen Mangeshkar,https://example.com/music/om-tarana-by-bhimsen-mangeshkar,West India Ganesh Chaturthi Folk Om Tarana Bhimsen Mangeshkar
+East India,Bihu,Tribal,Anand Vandana,Hari Dey,https://example.com/music/anand-vandana-by-hari-dey,East India Bihu Tribal Anand Vandana Hari Dey
+North India,Lohri,Classical,Ganga Dhwani,Bhimsen Bhosle,https://example.com/music/ganga-dhwani-by-bhimsen-bhosle,North India Lohri Classical Ganga Dhwani Bhimsen Bhosle
+South India,Onam,Classical,Anand Aarti,Pt. Bhosle,https://example.com/music/anand-aarti-by-pt.-bhosle,South India Onam Classical Anand Aarti Pt. Bhosle
+North India,Lohri,Semi-Classical,Raga Bhajan,M.S. Bhosle,https://example.com/music/raga-bhajan-by-m.s.-bhosle,North India Lohri Semi-Classical Raga Bhajan M.S. Bhosle
+East India,Bihu,Classical,Om Kirtan,Ustad Gundecha,https://example.com/music/om-kirtan-by-ustad-gundecha,East India Bihu Classical Om Kirtan Ustad Gundecha
+South India,Diwali,Devotional,Bhakti Tarana,Mallikarjun Bhosle,https://example.com/music/bhakti-tarana-by-mallikarjun-bhosle,South India Diwali Devotional Bhakti Tarana Mallikarjun Bhosle
+North India,Lohri,Semi-Classical,Prema Malhar,Ustad Bhosle,https://example.com/music/prema-malhar-by-ustad-bhosle,North India Lohri Semi-Classical Prema Malhar Ustad Bhosle
+East India,Chhath Puja,Classical,Anand Sangeet,Ravi Subbulakshmi,https://example.com/music/anand-sangeet-by-ravi-subbulakshmi,East India Chhath Puja Classical Anand Sangeet Ravi Subbulakshmi
+South India,Pongal,Folk,Anand Geet,Mallikarjun Bhosle,https://example.com/music/anand-geet-by-mallikarjun-bhosle,South India Pongal Folk Anand Geet Mallikarjun Bhosle
+West India,Diwali,Classical,Swar Leela,Mallikarjun Kulkarni,https://example.com/music/swar-leela-by-mallikarjun-kulkarni,West India Diwali Classical Swar Leela Mallikarjun Kulkarni
+West India,Diwali,Devotional,Ganga Bhajan,Vidushi Bhosle,https://example.com/music/ganga-bhajan-by-vidushi-bhosle,West India Diwali Devotional Ganga Bhajan Vidushi Bhosle
+West India,Diwali,Folk,Jai Stuti,Ravi Mangeshkar,https://example.com/music/jai-stuti-by-ravi-mangeshkar,West India Diwali Folk Jai Stuti Ravi Mangeshkar
+East India,Durga Puja,Classical,Om Rasa,Pandit Subbulakshmi,https://example.com/music/om-rasa-by-pandit-subbulakshmi,East India Durga Puja Classical Om Rasa Pandit Subbulakshmi
+South India,Pongal,Devotional,Raga Tarana,Bhimsen Joshi,https://example.com/music/raga-tarana-by-bhimsen-joshi,South India Pongal Devotional Raga Tarana Bhimsen Joshi
+East India,Chhath Puja,Tribal,Guru Geet,Pt. Subbulakshmi,https://example.com/music/guru-geet-by-pt.-subbulakshmi,East India Chhath Puja Tribal Guru Geet Pt. Subbulakshmi
+South India,Diwali,Folk,Shri Tarana,Hari Gundecha,https://example.com/music/shri-tarana-by-hari-gundecha,South India Diwali Folk Shri Tarana Hari Gundecha
+North India,Lohri,Bhajan,Jai Malhar,M.S. Kulkarni,https://example.com/music/jai-malhar-by-m.s.-kulkarni,North India Lohri Bhajan Jai Malhar M.S. Kulkarni
+North India,Diwali,Bhajan,Devi Dhun,Bhimsen Joshi,https://example.com/music/devi-dhun-by-bhimsen-joshi,North India Diwali Bhajan Devi Dhun Bhimsen Joshi
+South India,Onam,Classical,Om Sangeet,Shubha Mansur,https://example.com/music/om-sangeet-by-shubha-mansur,South India Onam Classical Om Sangeet Shubha Mansur
+North India,Diwali,Classical,Anand Sangeet,Shubha Dey,https://example.com/music/anand-sangeet-by-shubha-dey,North India Diwali Classical Anand Sangeet Shubha Dey
+East India,Durga Puja,Folk,Shiv Kirtan,Pandit Dey,https://example.com/music/shiv-kirtan-by-pandit-dey,East India Durga Puja Folk Shiv Kirtan Pandit Dey
+East India,Chhath Puja,Folk,Shri Tarana,Ustad Kulkarni,https://example.com/music/shri-tarana-by-ustad-kulkarni,East India Chhath Puja Folk Shri Tarana Ustad Kulkarni
+West India,Ganesh Chaturthi,Devotional,Ram Leela,Ustad Joshi,https://example.com/music/ram-leela-by-ustad-joshi,West India Ganesh Chaturthi Devotional Ram Leela Ustad Joshi
+East India,Bihu,Tribal,Guru Dhun,Hari Kulkarni,https://example.com/music/guru-dhun-by-hari-kulkarni,East India Bihu Tribal Guru Dhun Hari Kulkarni
+North India,Baisakhi,Classical,Raga Dhwani,Bhimsen Bhosle,https://example.com/music/raga-dhwani-by-bhimsen-bhosle,North India Baisakhi Classical Raga Dhwani Bhimsen Bhosle
+East India,Durga Puja,Tribal,Devi Bhajan,Ustad Khan,https://example.com/music/devi-bhajan-by-ustad-khan,East India Durga Puja Tribal Devi Bhajan Ustad Khan
+South India,Pongal,Classical,Maha Katha,Ravi Mansur,https://example.com/music/maha-katha-by-ravi-mansur,South India Pongal Classical Maha Katha Ravi Mansur
+East India,Chhath Puja,Classical,Ganga Tarana,M.S. Subbulakshmi,https://example.com/music/ganga-tarana-by-m.s.-subbulakshmi,East India Chhath Puja Classical Ganga Tarana M.S. Subbulakshmi
+North India,Lohri,Semi-Classical,Devi Vandana,Ustad Subbulakshmi,https://example.com/music/devi-vandana-by-ustad-subbulakshmi,North India Lohri Semi-Classical Devi Vandana Ustad Subbulakshmi
+East India,Bihu,Folk,Taal Sangeet,Pt. Dey,https://example.com/music/taal-sangeet-by-pt.-dey,East India Bihu Folk Taal Sangeet Pt. Dey
+North India,Baisakhi,Classical,Maha Katha,M.S. Amonkar,https://example.com/music/maha-katha-by-m.s.-amonkar,North India Baisakhi Classical Maha Katha M.S. Amonkar
+East India,Bihu,Tribal,Ram Katha,Begum Kulkarni,https://example.com/music/ram-katha-by-begum-kulkarni,East India Bihu Tribal Ram Katha Begum Kulkarni
+East India,Chhath Puja,Classical,Ram Kirtan,Pandit Bhosle,https://example.com/music/ram-kirtan-by-pandit-bhosle,East India Chhath Puja Classical Ram Kirtan Pandit Bhosle
+East India,Bihu,Tribal,Om Dhun,Shubha Subbulakshmi,https://example.com/music/om-dhun-by-shubha-subbulakshmi,East India Bihu Tribal Om Dhun Shubha Subbulakshmi
+South India,Pongal,Folk,Om Kirtan,M.S. Kulkarni,https://example.com/music/om-kirtan-by-m.s.-kulkarni,South India Pongal Folk Om Kirtan M.S. Kulkarni
+East India,Durga Puja,Folk,Krishna Kirtan,Kishori Dey,https://example.com/music/krishna-kirtan-by-kishori-dey,East India Durga Puja Folk Krishna Kirtan Kishori Dey
+West India,Diwali,Classical,Devi Vandana,Pandit Joshi,https://example.com/music/devi-vandana-by-pandit-joshi,West India Diwali Classical Devi Vandana Pandit Joshi
+West India,Navratri,Folk,Ganga Dhun,Ravi Sharma,https://example.com/music/ganga-dhun-by-ravi-sharma,West India Navratri Folk Ganga Dhun Ravi Sharma
+East India,Chhath Puja,Classical,Ram Bhajan,Pandit Bhosle,https://example.com/music/ram-bhajan-by-pandit-bhosle,East India Chhath Puja Classical Ram Bhajan Pandit Bhosle
+North India,Lohri,Bhajan,Ganga Katha,Ustad Kulkarni,https://example.com/music/ganga-katha-by-ustad-kulkarni,North India Lohri Bhajan Ganga Katha Ustad Kulkarni
+South India,Pongal,Folk,Anand Dhwani,Pandit Gundecha,https://example.com/music/anand-dhwani-by-pandit-gundecha,South India Pongal Folk Anand Dhwani Pandit Gundecha
+East India,Durga Puja,Tribal,Shiv Sangeet,Pandit Sharma,https://example.com/music/shiv-sangeet-by-pandit-sharma,East India Durga Puja Tribal Shiv Sangeet Pandit Sharma
+South India,Onam,Folk,Taal Stuti,Shubha Gundecha,https://example.com/music/taal-stuti-by-shubha-gundecha,South India Onam Folk Taal Stuti Shubha Gundecha
+South India,Pongal,Folk,Anand Malhar,Ustad Mansur,https://example.com/music/anand-malhar-by-ustad-mansur,South India Pongal Folk Anand Malhar Ustad Mansur
+West India,Ganesh Chaturthi,Folk,Prema Vandana,Pandit Joshi,https://example.com/music/prema-vandana-by-pandit-joshi,West India Ganesh Chaturthi Folk Prema Vandana Pandit Joshi
+South India,Pongal,Classical,Shri Bhajan,Kishori Mansur,https://example.com/music/shri-bhajan-by-kishori-mansur,South India Pongal Classical Shri Bhajan Kishori Mansur
+North India,Holi,Semi-Classical,Swar Leela,Begum Amonkar,https://example.com/music/swar-leela-by-begum-amonkar,North India Holi Semi-Classical Swar Leela Begum Amonkar
+East India,Durga Puja,Tribal,Swar Sangeet,Ustad Bhosle,https://example.com/music/swar-sangeet-by-ustad-bhosle,East India Durga Puja Tribal Swar Sangeet Ustad Bhosle
+East India,Durga Puja,Folk,Prema Katha,Bhimsen Subbulakshmi,https://example.com/music/prema-katha-by-bhimsen-subbulakshmi,East India Durga Puja Folk Prema Katha Bhimsen Subbulakshmi
+North India,Baisakhi,Classical,Anand Kirtan,Ustad Mansur,https://example.com/music/anand-kirtan-by-ustad-mansur,North India Baisakhi Classical Anand Kirtan Ustad Mansur
+North India,Baisakhi,Folk,Shri Dhwani,Ustad Shankar,https://example.com/music/shri-dhwani-by-ustad-shankar,North India Baisakhi Folk Shri Dhwani Ustad Shankar
+North India,Lohri,Classical,Shiv Malhar,Kishori Shankar,https://example.com/music/shiv-malhar-by-kishori-shankar,North India Lohri Classical Shiv Malhar Kishori Shankar
+East India,Durga Puja,Folk,Raga Rasa,Ustad Bhosle,https://example.com/music/raga-rasa-by-ustad-bhosle,East India Durga Puja Folk Raga Rasa Ustad Bhosle
+West India,Navratri,Devotional,Om Malhar,Mallikarjun Sharma,https://example.com/music/om-malhar-by-mallikarjun-sharma,West India Navratri Devotional Om Malhar Mallikarjun Sharma
+North India,Baisakhi,Bhajan,Shiv Katha,M.S. Kulkarni,https://example.com/music/shiv-katha-by-m.s.-kulkarni,North India Baisakhi Bhajan Shiv Katha M.S. Kulkarni
+South India,Onam,Folk,Anand Dhwani,Hari Bhosle,https://example.com/music/anand-dhwani-by-hari-bhosle,South India Onam Folk Anand Dhwani Hari Bhosle
+West India,Navratri,Classical,Raga Geet,Shubha Mansur,https://example.com/music/raga-geet-by-shubha-mansur,West India Navratri Classical Raga Geet Shubha Mansur
+South India,Pongal,Classical,Guru Stuti,Vidushi Mangeshkar,https://example.com/music/guru-stuti-by-vidushi-mangeshkar,South India Pongal Classical Guru Stuti Vidushi Mangeshkar
+West India,Navratri,Folk,Bhakti Kirtan,Mallikarjun Amonkar,https://example.com/music/bhakti-kirtan-by-mallikarjun-amonkar,West India Navratri Folk Bhakti Kirtan Mallikarjun Amonkar
+West India,Diwali,Folk,Om Malhar,Mallikarjun Dey,https://example.com/music/om-malhar-by-mallikarjun-dey,West India Diwali Folk Om Malhar Mallikarjun Dey
+West India,Ganesh Chaturthi,Devotional,Guru Geet,M.S. Shankar,https://example.com/music/guru-geet-by-m.s.-shankar,West India Ganesh Chaturthi Devotional Guru Geet M.S. Shankar
+South India,Diwali,Folk,Shiv Sangeet,Mallikarjun Shankar,https://example.com/music/shiv-sangeet-by-mallikarjun-shankar,South India Diwali Folk Shiv Sangeet Mallikarjun Shankar
+North India,Lohri,Folk,Guru Sangeet,Hari Subbulakshmi,https://example.com/music/guru-sangeet-by-hari-subbulakshmi,North India Lohri Folk Guru Sangeet Hari Subbulakshmi
+North India,Lohri,Semi-Classical,Shri Aarti,Vidushi Dey,https://example.com/music/shri-aarti-by-vidushi-dey,North India Lohri Semi-Classical Shri Aarti Vidushi Dey
+West India,Navratri,Classical,Anand Geet,Ustad Shankar,https://example.com/music/anand-geet-by-ustad-shankar,West India Navratri Classical Anand Geet Ustad Shankar
+East India,Durga Puja,Folk,Shiv Malhar,Pt. Kulkarni,https://example.com/music/shiv-malhar-by-pt.-kulkarni,East India Durga Puja Folk Shiv Malhar Pt. Kulkarni
+East India,Bihu,Folk,Guru Leela,Vidushi Kulkarni,https://example.com/music/guru-leela-by-vidushi-kulkarni,East India Bihu Folk Guru Leela Vidushi Kulkarni
+North India,Lohri,Classical,Shiv Kirtan,Shubha Mangeshkar,https://example.com/music/shiv-kirtan-by-shubha-mangeshkar,North India Lohri Classical Shiv Kirtan Shubha Mangeshkar
+South India,Diwali,Classical,Anand Bhajan,Shubha Shankar,https://example.com/music/anand-bhajan-by-shubha-shankar,South India Diwali Classical Anand Bhajan Shubha Shankar
+West India,Ganesh Chaturthi,Devotional,Anand Dhwani,M.S. Joshi,https://example.com/music/anand-dhwani-by-m.s.-joshi,West India Ganesh Chaturthi Devotional Anand Dhwani M.S. Joshi
+South India,Pongal,Devotional,Shiv Aarti,Ustad Amonkar,https://example.com/music/shiv-aarti-by-ustad-amonkar,South India Pongal Devotional Shiv Aarti Ustad Amonkar
+North India,Diwali,Semi-Classical,Shri Katha,Ustad Mangeshkar,https://example.com/music/shri-katha-by-ustad-mangeshkar,North India Diwali Semi-Classical Shri Katha Ustad Mangeshkar
+West India,Ganesh Chaturthi,Classical,Prema Tarana,Pandit Gundecha,https://example.com/music/prema-tarana-by-pandit-gundecha,West India Ganesh Chaturthi Classical Prema Tarana Pandit Gundecha
+East India,Chhath Puja,Folk,Devi Sangeet,Vidushi Sharma,https://example.com/music/devi-sangeet-by-vidushi-sharma,East India Chhath Puja Folk Devi Sangeet Vidushi Sharma
+North India,Diwali,Bhajan,Raga Vandana,Shubha Sharma,https://example.com/music/raga-vandana-by-shubha-sharma,North India Diwali Bhajan Raga Vandana Shubha Sharma
+North India,Lohri,Classical,Jai Katha,Vidushi Kulkarni,https://example.com/music/jai-katha-by-vidushi-kulkarni,North India Lohri Classical Jai Katha Vidushi Kulkarni
+North India,Holi,Bhajan,Ram Dhun,Bhimsen Dey,https://example.com/music/ram-dhun-by-bhimsen-dey,North India Holi Bhajan Ram Dhun Bhimsen Dey
+West India,Navratri,Classical,Ganga Sangeet,Bhimsen Bhosle,https://example.com/music/ganga-sangeet-by-bhimsen-bhosle,West India Navratri Classical Ganga Sangeet Bhimsen Bhosle
+North India,Holi,Folk,Prema Katha,Vidushi Bhosle,https://example.com/music/prema-katha-by-vidushi-bhosle,North India Holi Folk Prema Katha Vidushi Bhosle
+East India,Bihu,Folk,Maha Kirtan,Kishori Khan,https://example.com/music/maha-kirtan-by-kishori-khan,East India Bihu Folk Maha Kirtan Kishori Khan
+East India,Chhath Puja,Folk,Om Sangeet,Ravi Shankar,https://example.com/music/om-sangeet-by-ravi-shankar,East India Chhath Puja Folk Om Sangeet Ravi Shankar
+South India,Onam,Devotional,Taal Dhun,Hari Khan,https://example.com/music/taal-dhun-by-hari-khan,South India Onam Devotional Taal Dhun Hari Khan
+North India,Baisakhi,Semi-Classical,Guru Rasa,Bhimsen Sharma,https://example.com/music/guru-rasa-by-bhimsen-sharma,North India Baisakhi Semi-Classical Guru Rasa Bhimsen Sharma
+West India,Navratri,Folk,Maha Bhajan,Kishori Amonkar,https://example.com/music/maha-bhajan-by-kishori-amonkar,West India Navratri Folk Maha Bhajan Kishori Amonkar
+South India,Diwali,Devotional,Devi Vandana,Ustad Gundecha,https://example.com/music/devi-vandana-by-ustad-gundecha,South India Diwali Devotional Devi Vandana Ustad Gundecha
+West India,Ganesh Chaturthi,Folk,Maha Dhun,Kishori Subbulakshmi,https://example.com/music/maha-dhun-by-kishori-subbulakshmi,West India Ganesh Chaturthi Folk Maha Dhun Kishori Subbulakshmi
+East India,Bihu,Tribal,Swar Dhwani,Kumar Amonkar,https://example.com/music/swar-dhwani-by-kumar-amonkar,East India Bihu Tribal Swar Dhwani Kumar Amonkar
+North India,Baisakhi,Folk,Taal Aarti,Kumar Joshi,https://example.com/music/taal-aarti-by-kumar-joshi,North India Baisakhi Folk Taal Aarti Kumar Joshi
+South India,Pongal,Devotional,Om Bhajan,Bhimsen Gundecha,https://example.com/music/om-bhajan-by-bhimsen-gundecha,South India Pongal Devotional Om Bhajan Bhimsen Gundecha
+West India,Diwali,Classical,Krishna Malhar,Bhimsen Mangeshkar,https://example.com/music/krishna-malhar-by-bhimsen-mangeshkar,West India Diwali Classical Krishna Malhar Bhimsen Mangeshkar
+North India,Lohri,Bhajan,Anand Malhar,Hari Joshi,https://example.com/music/anand-malhar-by-hari-joshi,North India Lohri Bhajan Anand Malhar Hari Joshi
+East India,Chhath Puja,Classical,Raga Vandana,Begum Amonkar,https://example.com/music/raga-vandana-by-begum-amonkar,East India Chhath Puja Classical Raga Vandana Begum Amonkar
+North India,Holi,Bhajan,Shri Malhar,Pandit Dey,https://example.com/music/shri-malhar-by-pandit-dey,North India Holi Bhajan Shri Malhar Pandit Dey
+East India,Durga Puja,Tribal,Guru Kirtan,Bhimsen Bhosle,https://example.com/music/guru-kirtan-by-bhimsen-bhosle,East India Durga Puja Tribal Guru Kirtan Bhimsen Bhosle
+North India,Holi,Classical,Devi Katha,Kishori Gundecha,https://example.com/music/devi-katha-by-kishori-gundecha,North India Holi Classical Devi Katha Kishori Gundecha
+South India,Onam,Classical,Maha Aarti,Vidushi Khan,https://example.com/music/maha-aarti-by-vidushi-khan,South India Onam Classical Maha Aarti Vidushi Khan
+West India,Navratri,Folk,Om Aarti,Vidushi Mangeshkar,https://example.com/music/om-aarti-by-vidushi-mangeshkar,West India Navratri Folk Om Aarti Vidushi Mangeshkar
+West India,Ganesh Chaturthi,Classical,Anand Aarti,Bhimsen Joshi,https://example.com/music/anand-aarti-by-bhimsen-joshi,West India Ganesh Chaturthi Classical Anand Aarti Bhimsen Joshi
+West India,Navratri,Classical,Krishna Leela,Ustad Gundecha,https://example.com/music/krishna-leela-by-ustad-gundecha,West India Navratri Classical Krishna Leela Ustad Gundecha
+East India,Durga Puja,Folk,Ganga Bhajan,Ravi Sharma,https://example.com/music/ganga-bhajan-by-ravi-sharma,East India Durga Puja Folk Ganga Bhajan Ravi Sharma
+West India,Ganesh Chaturthi,Folk,Devi Vandana,Pandit Khan,https://example.com/music/devi-vandana-by-pandit-khan,West India Ganesh Chaturthi Folk Devi Vandana Pandit Khan
+West India,Ganesh Chaturthi,Classical,Prema Kirtan,Shubha Joshi,https://example.com/music/prema-kirtan-by-shubha-joshi,West India Ganesh Chaturthi Classical Prema Kirtan Shubha Joshi
+North India,Lohri,Classical,Shiv Aarti,Kumar Mansur,https://example.com/music/shiv-aarti-by-kumar-mansur,North India Lohri Classical Shiv Aarti Kumar Mansur
+East India,Chhath Puja,Tribal,Swar Kirtan,Kishori Joshi,https://example.com/music/swar-kirtan-by-kishori-joshi,East India Chhath Puja Tribal Swar Kirtan Kishori Joshi
+North India,Lohri,Semi-Classical,Raga Bhajan,M.S. Sharma,https://example.com/music/raga-bhajan-by-m.s.-sharma,North India Lohri Semi-Classical Raga Bhajan M.S. Sharma
+East India,Chhath Puja,Classical,Guru Leela,Bhimsen Gundecha,https://example.com/music/guru-leela-by-bhimsen-gundecha,East India Chhath Puja Classical Guru Leela Bhimsen Gundecha
+East India,Chhath Puja,Classical,Anand Vandana,M.S. Bhosle,https://example.com/music/anand-vandana-by-m.s.-bhosle,East India Chhath Puja Classical Anand Vandana M.S. Bhosle
+East India,Bihu,Folk,Ganga Dhwani,Bhimsen Sharma,https://example.com/music/ganga-dhwani-by-bhimsen-sharma,East India Bihu Folk Ganga Dhwani Bhimsen Sharma
+North India,Diwali,Bhajan,Devi Katha,Mallikarjun Gundecha,https://example.com/music/devi-katha-by-mallikarjun-gundecha,North India Diwali Bhajan Devi Katha Mallikarjun Gundecha
+East India,Durga Puja,Folk,Raga Vandana,Ustad Gundecha,https://example.com/music/raga-vandana-by-ustad-gundecha,East India Durga Puja Folk Raga Vandana Ustad Gundecha
+East India,Durga Puja,Folk,Anand Bhajan,Ravi Amonkar,https://example.com/music/anand-bhajan-by-ravi-amonkar,East India Durga Puja Folk Anand Bhajan Ravi Amonkar
+West India,Ganesh Chaturthi,Devotional,Shri Rasa,Mallikarjun Sharma,https://example.com/music/shri-rasa-by-mallikarjun-sharma,West India Ganesh Chaturthi Devotional Shri Rasa Mallikarjun Sharma
+East India,Bihu,Tribal,Krishna Malhar,Hari Mangeshkar,https://example.com/music/krishna-malhar-by-hari-mangeshkar,East India Bihu Tribal Krishna Malhar Hari Mangeshkar
+North India,Lohri,Semi-Classical,Shiv Geet,Hari Subbulakshmi,https://example.com/music/shiv-geet-by-hari-subbulakshmi,North India Lohri Semi-Classical Shiv Geet Hari Subbulakshmi
+North India,Holi,Classical,Anand Bhajan,Ravi Mansur,https://example.com/music/anand-bhajan-by-ravi-mansur,North India Holi Classical Anand Bhajan Ravi Mansur
+North India,Baisakhi,Semi-Classical,Raga Geet,Pt. Mangeshkar,https://example.com/music/raga-geet-by-pt.-mangeshkar,North India Baisakhi Semi-Classical Raga Geet Pt. Mangeshkar
+West India,Ganesh Chaturthi,Classical,Guru Katha,Begum Khan,https://example.com/music/guru-katha-by-begum-khan,West India Ganesh Chaturthi Classical Guru Katha Begum Khan
+North India,Lohri,Bhajan,Shri Malhar,Kumar Amonkar,https://example.com/music/shri-malhar-by-kumar-amonkar,North India Lohri Bhajan Shri Malhar Kumar Amonkar
+West India,Navratri,Devotional,Maha Sangeet,Begum Kulkarni,https://example.com/music/maha-sangeet-by-begum-kulkarni,West India Navratri Devotional Maha Sangeet Begum Kulkarni
+West India,Diwali,Folk,Shiv Rasa,Mallikarjun Dey,https://example.com/music/shiv-rasa-by-mallikarjun-dey,West India Diwali Folk Shiv Rasa Mallikarjun Dey
+East India,Bihu,Folk,Taal Rasa,Kishori Dey,https://example.com/music/taal-rasa-by-kishori-dey,East India Bihu Folk Taal Rasa Kishori Dey
+West India,Diwali,Folk,Taal Geet,Mallikarjun Bhosle,https://example.com/music/taal-geet-by-mallikarjun-bhosle,West India Diwali Folk Taal Geet Mallikarjun Bhosle
+West India,Diwali,Devotional,Shri Kirtan,Vidushi Shankar,https://example.com/music/shri-kirtan-by-vidushi-shankar,West India Diwali Devotional Shri Kirtan Vidushi Shankar
+West India,Diwali,Classical,Shri Kirtan,Ravi Shankar,https://example.com/music/shri-kirtan-by-ravi-shankar,West India Diwali Classical Shri Kirtan Ravi Shankar
+East India,Bihu,Tribal,Bhakti Kirtan,Pt. Kulkarni,https://example.com/music/bhakti-kirtan-by-pt.-kulkarni,East India Bihu Tribal Bhakti Kirtan Pt. Kulkarni
+North India,Lohri,Bhajan,Prema Tarana,Mallikarjun Shankar,https://example.com/music/prema-tarana-by-mallikarjun-shankar,North India Lohri Bhajan Prema Tarana Mallikarjun Shankar
+East India,Durga Puja,Folk,Om Aarti,Hari Sharma,https://example.com/music/om-aarti-by-hari-sharma,East India Durga Puja Folk Om Aarti Hari Sharma
+North India,Lohri,Folk,Guru Rasa,Kishori Dey,https://example.com/music/guru-rasa-by-kishori-dey,North India Lohri Folk Guru Rasa Kishori Dey
+North India,Diwali,Bhajan,Prema Stuti,Kumar Mansur,https://example.com/music/prema-stuti-by-kumar-mansur,North India Diwali Bhajan Prema Stuti Kumar Mansur
+North India,Diwali,Semi-Classical,Shri Sangeet,Ravi Subbulakshmi,https://example.com/music/shri-sangeet-by-ravi-subbulakshmi,North India Diwali Semi-Classical Shri Sangeet Ravi Subbulakshmi
+North India,Holi,Semi-Classical,Krishna Dhun,Ustad Bhosle,https://example.com/music/krishna-dhun-by-ustad-bhosle,North India Holi Semi-Classical Krishna Dhun Ustad Bhosle
+West India,Ganesh Chaturthi,Folk,Om Leela,Hari Dey,https://example.com/music/om-leela-by-hari-dey,West India Ganesh Chaturthi Folk Om Leela Hari Dey
+West India,Navratri,Folk,Jai Katha,Shubha Amonkar,https://example.com/music/jai-katha-by-shubha-amonkar,West India Navratri Folk Jai Katha Shubha Amonkar
+West India,Ganesh Chaturthi,Classical,Taal Kirtan,Ravi Kulkarni,https://example.com/music/taal-kirtan-by-ravi-kulkarni,West India Ganesh Chaturthi Classical Taal Kirtan Ravi Kulkarni
+West India,Navratri,Devotional,Jai Vandana,Mallikarjun Sharma,https://example.com/music/jai-vandana-by-mallikarjun-sharma,West India Navratri Devotional Jai Vandana Mallikarjun Sharma
+North India,Diwali,Semi-Classical,Ganga Rasa,Kishori Dey,https://example.com/music/ganga-rasa-by-kishori-dey,North India Diwali Semi-Classical Ganga Rasa Kishori Dey
+North India,Baisakhi,Bhajan,Krishna Malhar,Pandit Dey,https://example.com/music/krishna-malhar-by-pandit-dey,North India Baisakhi Bhajan Krishna Malhar Pandit Dey
+South India,Diwali,Folk,Taal Katha,Ravi Bhosle,https://example.com/music/taal-katha-by-ravi-bhosle,South India Diwali Folk Taal Katha Ravi Bhosle
+West India,Diwali,Classical,Jai Aarti,Bhimsen Amonkar,https://example.com/music/jai-aarti-by-bhimsen-amonkar,West India Diwali Classical Jai Aarti Bhimsen Amonkar
+North India,Lohri,Bhajan,Guru Stuti,Begum Khan,https://example.com/music/guru-stuti-by-begum-khan,North India Lohri Bhajan Guru Stuti Begum Khan
+North India,Lohri,Semi-Classical,Raga Rasa,Kishori Joshi,https://example.com/music/raga-rasa-by-kishori-joshi,North India Lohri Semi-Classical Raga Rasa Kishori Joshi
+East India,Bihu,Classical,Jai Tarana,Shubha Mangeshkar,https://example.com/music/jai-tarana-by-shubha-mangeshkar,East India Bihu Classical Jai Tarana Shubha Mangeshkar
+East India,Chhath Puja,Tribal,Shri Bhajan,Shubha Dey,https://example.com/music/shri-bhajan-by-shubha-dey,East India Chhath Puja Tribal Shri Bhajan Shubha Dey
+East India,Bihu,Tribal,Shri Sangeet,Begum Sharma,https://example.com/music/shri-sangeet-by-begum-sharma,East India Bihu Tribal Shri Sangeet Begum Sharma
+South India,Diwali,Classical,Taal Bhajan,Hari Joshi,https://example.com/music/taal-bhajan-by-hari-joshi,South India Diwali Classical Taal Bhajan Hari Joshi
+South India,Diwali,Devotional,Ganga Malhar,Shubha Sharma,https://example.com/music/ganga-malhar-by-shubha-sharma,South India Diwali Devotional Ganga Malhar Shubha Sharma
+North India,Baisakhi,Bhajan,Devi Sangeet,Hari Joshi,https://example.com/music/devi-sangeet-by-hari-joshi,North India Baisakhi Bhajan Devi Sangeet Hari Joshi
+North India,Baisakhi,Classical,Anand Dhwani,Hari Subbulakshmi,https://example.com/music/anand-dhwani-by-hari-subbulakshmi,North India Baisakhi Classical Anand Dhwani Hari Subbulakshmi
+North India,Holi,Semi-Classical,Shri Katha,Kumar Amonkar,https://example.com/music/shri-katha-by-kumar-amonkar,North India Holi Semi-Classical Shri Katha Kumar Amonkar
+West India,Diwali,Devotional,Anand Kirtan,M.S. Amonkar,https://example.com/music/anand-kirtan-by-m.s.-amonkar,West India Diwali Devotional Anand Kirtan M.S. Amonkar
+South India,Onam,Devotional,Maha Katha,Vidushi Subbulakshmi,https://example.com/music/maha-katha-by-vidushi-subbulakshmi,South India Onam Devotional Maha Katha Vidushi Subbulakshmi
+South India,Diwali,Classical,Krishna Vandana,Vidushi Bhosle,https://example.com/music/krishna-vandana-by-vidushi-bhosle,South India Diwali Classical Krishna Vandana Vidushi Bhosle
+South India,Onam,Classical,Shiv Leela,Ravi Dey,https://example.com/music/shiv-leela-by-ravi-dey,South India Onam Classical Shiv Leela Ravi Dey
+South India,Pongal,Classical,Devi Dhun,Pt. Subbulakshmi,https://example.com/music/devi-dhun-by-pt.-subbulakshmi,South India Pongal Classical Devi Dhun Pt. Subbulakshmi
+North India,Lohri,Semi-Classical,Om Aarti,Pt. Bhosle,https://example.com/music/om-aarti-by-pt.-bhosle,North India Lohri Semi-Classical Om Aarti Pt. Bhosle
+South India,Onam,Folk,Shri Aarti,Pandit Khan,https://example.com/music/shri-aarti-by-pandit-khan,South India Onam Folk Shri Aarti Pandit Khan
+East India,Durga Puja,Tribal,Anand Vandana,Ravi Subbulakshmi,https://example.com/music/anand-vandana-by-ravi-subbulakshmi,East India Durga Puja Tribal Anand Vandana Ravi Subbulakshmi
+East India,Bihu,Classical,Bhakti Leela,Ravi Kulkarni,https://example.com/music/bhakti-leela-by-ravi-kulkarni,East India Bihu Classical Bhakti Leela Ravi Kulkarni
+West India,Navratri,Folk,Om Rasa,Hari Joshi,https://example.com/music/om-rasa-by-hari-joshi,West India Navratri Folk Om Rasa Hari Joshi
+North India,Holi,Bhajan,Om Stuti,Mallikarjun Dey,https://example.com/music/om-stuti-by-mallikarjun-dey,North India Holi Bhajan Om Stuti Mallikarjun Dey
+North India,Lohri,Bhajan,Taal Geet,Begum Dey,https://example.com/music/taal-geet-by-begum-dey,North India Lohri Bhajan Taal Geet Begum Dey
+East India,Bihu,Folk,Guru Rasa,Pandit Shankar,https://example.com/music/guru-rasa-by-pandit-shankar,East India Bihu Folk Guru Rasa Pandit Shankar
+East India,Bihu,Folk,Anand Aarti,Bhimsen Kulkarni,https://example.com/music/anand-aarti-by-bhimsen-kulkarni,East India Bihu Folk Anand Aarti Bhimsen Kulkarni
+North India,Diwali,Classical,Ganga Vandana,M.S. Bhosle,https://example.com/music/ganga-vandana-by-m.s.-bhosle,North India Diwali Classical Ganga Vandana M.S. Bhosle
+South India,Diwali,Devotional,Ram Stuti,Mallikarjun Mansur,https://example.com/music/ram-stuti-by-mallikarjun-mansur,South India Diwali Devotional Ram Stuti Mallikarjun Mansur
+East India,Durga Puja,Tribal,Shri Aarti,Kishori Sharma,https://example.com/music/shri-aarti-by-kishori-sharma,East India Durga Puja Tribal Shri Aarti Kishori Sharma
+North India,Holi,Semi-Classical,Shri Kirtan,Begum Shankar,https://example.com/music/shri-kirtan-by-begum-shankar,North India Holi Semi-Classical Shri Kirtan Begum Shankar
+South India,Onam,Folk,Anand Tarana,M.S. Kulkarni,https://example.com/music/anand-tarana-by-m.s.-kulkarni,South India Onam Folk Anand Tarana M.S. Kulkarni
+West India,Diwali,Devotional,Om Tarana,Ravi Shankar,https://example.com/music/om-tarana-by-ravi-shankar,West India Diwali Devotional Om Tarana Ravi Shankar
+South India,Pongal,Classical,Ram Geet,Kishori Gundecha,https://example.com/music/ram-geet-by-kishori-gundecha,South India Pongal Classical Ram Geet Kishori Gundecha
+East India,Durga Puja,Folk,Jai Vandana,Mallikarjun Mangeshkar,https://example.com/music/jai-vandana-by-mallikarjun-mangeshkar,East India Durga Puja Folk Jai Vandana Mallikarjun Mangeshkar
+East India,Durga Puja,Tribal,Swar Aarti,Pandit Dey,https://example.com/music/swar-aarti-by-pandit-dey,East India Durga Puja Tribal Swar Aarti Pandit Dey
+West India,Ganesh Chaturthi,Devotional,Taal Dhun,Kumar Sharma,https://example.com/music/taal-dhun-by-kumar-sharma,West India Ganesh Chaturthi Devotional Taal Dhun Kumar Sharma
+North India,Diwali,Classical,Shri Kirtan,Mallikarjun Joshi,https://example.com/music/shri-kirtan-by-mallikarjun-joshi,North India Diwali Classical Shri Kirtan Mallikarjun Joshi
+North India,Baisakhi,Semi-Classical,Devi Aarti,Kishori Bhosle,https://example.com/music/devi-aarti-by-kishori-bhosle,North India Baisakhi Semi-Classical Devi Aarti Kishori Bhosle
+East India,Chhath Puja,Folk,Om Sangeet,Begum Mangeshkar,https://example.com/music/om-sangeet-by-begum-mangeshkar,East India Chhath Puja Folk Om Sangeet Begum Mangeshkar
+North India,Lohri,Classical,Shri Malhar,Pandit Amonkar,https://example.com/music/shri-malhar-by-pandit-amonkar,North India Lohri Classical Shri Malhar Pandit Amonkar
+East India,Bihu,Classical,Anand Tarana,Shubha Bhosle,https://example.com/music/anand-tarana-by-shubha-bhosle,East India Bihu Classical Anand Tarana Shubha Bhosle
+East India,Durga Puja,Folk,Swar Stuti,Pandit Joshi,https://example.com/music/swar-stuti-by-pandit-joshi,East India Durga Puja Folk Swar Stuti Pandit Joshi
+South India,Diwali,Devotional,Shri Leela,Shubha Dey,https://example.com/music/shri-leela-by-shubha-dey,South India Diwali Devotional Shri Leela Shubha Dey
+East India,Bihu,Folk,Prema Malhar,Begum Gundecha,https://example.com/music/prema-malhar-by-begum-gundecha,East India Bihu Folk Prema Malhar Begum Gundecha
+West India,Diwali,Classical,Bhakti Geet,Ustad Mangeshkar,https://example.com/music/bhakti-geet-by-ustad-mangeshkar,West India Diwali Classical Bhakti Geet Ustad Mangeshkar
+North India,Holi,Classical,Guru Sangeet,Pt. Dey,https://example.com/music/guru-sangeet-by-pt.-dey,North India Holi Classical Guru Sangeet Pt. Dey
+West India,Navratri,Folk,Ram Tarana,Pt. Subbulakshmi,https://example.com/music/ram-tarana-by-pt.-subbulakshmi,West India Navratri Folk Ram Tarana Pt. Subbulakshmi
+West India,Diwali,Folk,Anand Kirtan,Vidushi Joshi,https://example.com/music/anand-kirtan-by-vidushi-joshi,West India Diwali Folk Anand Kirtan Vidushi Joshi
+North India,Holi,Classical,Shri Vandana,Begum Joshi,https://example.com/music/shri-vandana-by-begum-joshi,North India Holi Classical Shri Vandana Begum Joshi
+East India,Durga Puja,Tribal,Swar Dhwani,Hari Gundecha,https://example.com/music/swar-dhwani-by-hari-gundecha,East India Durga Puja Tribal Swar Dhwani Hari Gundecha
+East India,Chhath Puja,Tribal,Shiv Dhun,Ravi Sharma,https://example.com/music/shiv-dhun-by-ravi-sharma,East India Chhath Puja Tribal Shiv Dhun Ravi Sharma
+South India,Diwali,Folk,Prema Sangeet,Begum Kulkarni,https://example.com/music/prema-sangeet-by-begum-kulkarni,South India Diwali Folk Prema Sangeet Begum Kulkarni
+West India,Ganesh Chaturthi,Classical,Om Katha,Pandit Joshi,https://example.com/music/om-katha-by-pandit-joshi,West India Ganesh Chaturthi Classical Om Katha Pandit Joshi
+East India,Durga Puja,Tribal,Ganga Katha,Kishori Gundecha,https://example.com/music/ganga-katha-by-kishori-gundecha,East India Durga Puja Tribal Ganga Katha Kishori Gundecha
+North India,Lohri,Folk,Jai Rasa,Pandit Khan,https://example.com/music/jai-rasa-by-pandit-khan,North India Lohri Folk Jai Rasa Pandit Khan
+North India,Baisakhi,Semi-Classical,Shri Aarti,Ustad Amonkar,https://example.com/music/shri-aarti-by-ustad-amonkar,North India Baisakhi Semi-Classical Shri Aarti Ustad Amonkar
+East India,Chhath Puja,Classical,Shri Dhun,Begum Joshi,https://example.com/music/shri-dhun-by-begum-joshi,East India Chhath Puja Classical Shri Dhun Begum Joshi
+South India,Onam,Devotional,Jai Stuti,Ustad Bhosle,https://example.com/music/jai-stuti-by-ustad-bhosle,South India Onam Devotional Jai Stuti Ustad Bhosle
+West India,Diwali,Folk,Devi Rasa,Begum Amonkar,https://example.com/music/devi-rasa-by-begum-amonkar,West India Diwali Folk Devi Rasa Begum Amonkar
+North India,Baisakhi,Bhajan,Shiv Katha,Ustad Joshi,https://example.com/music/shiv-katha-by-ustad-joshi,North India Baisakhi Bhajan Shiv Katha Ustad Joshi
+South India,Pongal,Devotional,Prema Bhajan,Mallikarjun Sharma,https://example.com/music/prema-bhajan-by-mallikarjun-sharma,South India Pongal Devotional Prema Bhajan Mallikarjun Sharma
+North India,Holi,Classical,Swar Dhwani,Ravi Khan,https://example.com/music/swar-dhwani-by-ravi-khan,North India Holi Classical Swar Dhwani Ravi Khan
+South India,Diwali,Classical,Taal Tarana,Ravi Shankar,https://example.com/music/taal-tarana-by-ravi-shankar,South India Diwali Classical Taal Tarana Ravi Shankar
+East India,Bihu,Tribal,Taal Dhun,Pt. Khan,https://example.com/music/taal-dhun-by-pt.-khan,East India Bihu Tribal Taal Dhun Pt. Khan
+South India,Onam,Devotional,Shri Geet,Vidushi Bhosle,https://example.com/music/shri-geet-by-vidushi-bhosle,South India Onam Devotional Shri Geet Vidushi Bhosle
+West India,Navratri,Devotional,Shri Bhajan,Kumar Joshi,https://example.com/music/shri-bhajan-by-kumar-joshi,West India Navratri Devotional Shri Bhajan Kumar Joshi
+East India,Durga Puja,Folk,Anand Dhwani,Bhimsen Dey,https://example.com/music/anand-dhwani-by-bhimsen-dey,East India Durga Puja Folk Anand Dhwani Bhimsen Dey
+South India,Diwali,Devotional,Prema Vandana,Hari Khan,https://example.com/music/prema-vandana-by-hari-khan,South India Diwali Devotional Prema Vandana Hari Khan
+North India,Holi,Classical,Anand Rasa,Hari Mangeshkar,https://example.com/music/anand-rasa-by-hari-mangeshkar,North India Holi Classical Anand Rasa Hari Mangeshkar
+East India,Bihu,Classical,Anand Katha,Pt. Gundecha,https://example.com/music/anand-katha-by-pt.-gundecha,East India Bihu Classical Anand Katha Pt. Gundecha
+South India,Onam,Classical,Bhakti Geet,Bhimsen Bhosle,https://example.com/music/bhakti-geet-by-bhimsen-bhosle,South India Onam Classical Bhakti Geet Bhimsen Bhosle
+East India,Durga Puja,Folk,Shiv Katha,Vidushi Gundecha,https://example.com/music/shiv-katha-by-vidushi-gundecha,East India Durga Puja Folk Shiv Katha Vidushi Gundecha
+South India,Onam,Devotional,Swar Tarana,Ravi Bhosle,https://example.com/music/swar-tarana-by-ravi-bhosle,South India Onam Devotional Swar Tarana Ravi Bhosle
+South India,Pongal,Folk,Jai Katha,Ravi Sharma,https://example.com/music/jai-katha-by-ravi-sharma,South India Pongal Folk Jai Katha Ravi Sharma
+West India,Diwali,Classical,Raga Rasa,Ustad Sharma,https://example.com/music/raga-rasa-by-ustad-sharma,West India Diwali Classical Raga Rasa Ustad Sharma
+North India,Lohri,Folk,Swar Leela,M.S. Amonkar,https://example.com/music/swar-leela-by-m.s.-amonkar,North India Lohri Folk Swar Leela M.S. Amonkar
+South India,Pongal,Folk,Om Stuti,Kumar Mansur,https://example.com/music/om-stuti-by-kumar-mansur,South India Pongal Folk Om Stuti Kumar Mansur
+West India,Ganesh Chaturthi,Devotional,Shri Kirtan,Bhimsen Kulkarni,https://example.com/music/shri-kirtan-by-bhimsen-kulkarni,West India Ganesh Chaturthi Devotional Shri Kirtan Bhimsen Kulkarni
+North India,Lohri,Folk,Shri Katha,Ravi Kulkarni,https://example.com/music/shri-katha-by-ravi-kulkarni,North India Lohri Folk Shri Katha Ravi Kulkarni
+South India,Diwali,Classical,Anand Katha,Hari Subbulakshmi,https://example.com/music/anand-katha-by-hari-subbulakshmi,South India Diwali Classical Anand Katha Hari Subbulakshmi
+East India,Durga Puja,Classical,Swar Rasa,Pt. Sharma,https://example.com/music/swar-rasa-by-pt.-sharma,East India Durga Puja Classical Swar Rasa Pt. Sharma
+West India,Ganesh Chaturthi,Devotional,Prema Kirtan,Begum Mansur,https://example.com/music/prema-kirtan-by-begum-mansur,West India Ganesh Chaturthi Devotional Prema Kirtan Begum Mansur
+South India,Onam,Devotional,Swar Leela,Kumar Subbulakshmi,https://example.com/music/swar-leela-by-kumar-subbulakshmi,South India Onam Devotional Swar Leela Kumar Subbulakshmi
+East India,Bihu,Classical,Krishna Dhun,Bhimsen Sharma,https://example.com/music/krishna-dhun-by-bhimsen-sharma,East India Bihu Classical Krishna Dhun Bhimsen Sharma
+North India,Lohri,Classical,Krishna Geet,Kumar Gundecha,https://example.com/music/krishna-geet-by-kumar-gundecha,North India Lohri Classical Krishna Geet Kumar Gundecha
+West India,Navratri,Devotional,Guru Kirtan,Shubha Bhosle,https://example.com/music/guru-kirtan-by-shubha-bhosle,West India Navratri Devotional Guru Kirtan Shubha Bhosle
+North India,Baisakhi,Folk,Krishna Bhajan,Pt. Bhosle,https://example.com/music/krishna-bhajan-by-pt.-bhosle,North India Baisakhi Folk Krishna Bhajan Pt. Bhosle
+West India,Navratri,Classical,Raga Tarana,Pt. Dey,https://example.com/music/raga-tarana-by-pt.-dey,West India Navratri Classical Raga Tarana Pt. Dey
+West India,Navratri,Devotional,Guru Dhwani,Hari Subbulakshmi,https://example.com/music/guru-dhwani-by-hari-subbulakshmi,West India Navratri Devotional Guru Dhwani Hari Subbulakshmi
+West India,Ganesh Chaturthi,Devotional,Swar Vandana,Bhimsen Gundecha,https://example.com/music/swar-vandana-by-bhimsen-gundecha,West India Ganesh Chaturthi Devotional Swar Vandana Bhimsen Gundecha
+West India,Ganesh Chaturthi,Classical,Shri Tarana,Kumar Shankar,https://example.com/music/shri-tarana-by-kumar-shankar,West India Ganesh Chaturthi Classical Shri Tarana Kumar Shankar
+East India,Chhath Puja,Classical,Swar Dhwani,Mallikarjun Khan,https://example.com/music/swar-dhwani-by-mallikarjun-khan,East India Chhath Puja Classical Swar Dhwani Mallikarjun Khan
+South India,Pongal,Classical,Ganga Vandana,Vidushi Khan,https://example.com/music/ganga-vandana-by-vidushi-khan,South India Pongal Classical Ganga Vandana Vidushi Khan
+West India,Ganesh Chaturthi,Folk,Om Sangeet,Begum Mangeshkar,https://example.com/music/om-sangeet-by-begum-mangeshkar,West India Ganesh Chaturthi Folk Om Sangeet Begum Mangeshkar
+South India,Diwali,Folk,Ganga Malhar,Mallikarjun Kulkarni,https://example.com/music/ganga-malhar-by-mallikarjun-kulkarni,South India Diwali Folk Ganga Malhar Mallikarjun Kulkarni
+North India,Holi,Bhajan,Anand Malhar,Ravi Subbulakshmi,https://example.com/music/anand-malhar-by-ravi-subbulakshmi,North India Holi Bhajan Anand Malhar Ravi Subbulakshmi
+North India,Diwali,Bhajan,Shiv Aarti,M.S. Amonkar,https://example.com/music/shiv-aarti-by-m.s.-amonkar,North India Diwali Bhajan Shiv Aarti M.S. Amonkar
+East India,Durga Puja,Classical,Jai Stuti,M.S. Gundecha,https://example.com/music/jai-stuti-by-m.s.-gundecha,East India Durga Puja Classical Jai Stuti M.S. Gundecha
+West India,Navratri,Devotional,Shiv Rasa,Kishori Mangeshkar,https://example.com/music/shiv-rasa-by-kishori-mangeshkar,West India Navratri Devotional Shiv Rasa Kishori Mangeshkar
+East India,Durga Puja,Folk,Devi Rasa,Pt. Gundecha,https://example.com/music/devi-rasa-by-pt.-gundecha,East India Durga Puja Folk Devi Rasa Pt. Gundecha
+North India,Baisakhi,Semi-Classical,Guru Leela,Ravi Gundecha,https://example.com/music/guru-leela-by-ravi-gundecha,North India Baisakhi Semi-Classical Guru Leela Ravi Gundecha
+South India,Pongal,Folk,Guru Dhun,Hari Mansur,https://example.com/music/guru-dhun-by-hari-mansur,South India Pongal Folk Guru Dhun Hari Mansur
+North India,Baisakhi,Bhajan,Devi Dhun,Ravi Subbulakshmi,https://example.com/music/devi-dhun-by-ravi-subbulakshmi,North India Baisakhi Bhajan Devi Dhun Ravi Subbulakshmi
+South India,Onam,Classical,Ram Malhar,Mallikarjun Dey,https://example.com/music/ram-malhar-by-mallikarjun-dey,South India Onam Classical Ram Malhar Mallikarjun Dey
+East India,Bihu,Classical,Om Katha,Pandit Subbulakshmi,https://example.com/music/om-katha-by-pandit-subbulakshmi,East India Bihu Classical Om Katha Pandit Subbulakshmi
+East India,Chhath Puja,Tribal,Raga Vandana,Vidushi Sharma,https://example.com/music/raga-vandana-by-vidushi-sharma,East India Chhath Puja Tribal Raga Vandana Vidushi Sharma
+West India,Navratri,Classical,Raga Malhar,Mallikarjun Joshi,https://example.com/music/raga-malhar-by-mallikarjun-joshi,West India Navratri Classical Raga Malhar Mallikarjun Joshi
+West India,Diwali,Devotional,Prema Dhun,Pandit Shankar,https://example.com/music/prema-dhun-by-pandit-shankar,West India Diwali Devotional Prema Dhun Pandit Shankar
+East India,Durga Puja,Folk,Raga Dhun,Kumar Dey,https://example.com/music/raga-dhun-by-kumar-dey,East India Durga Puja Folk Raga Dhun Kumar Dey
+West India,Navratri,Folk,Ganga Leela,Mallikarjun Bhosle,https://example.com/music/ganga-leela-by-mallikarjun-bhosle,West India Navratri Folk Ganga Leela Mallikarjun Bhosle
+North India,Diwali,Semi-Classical,Raga Sangeet,Pt. Gundecha,https://example.com/music/raga-sangeet-by-pt.-gundecha,North India Diwali Semi-Classical Raga Sangeet Pt. Gundecha
+West India,Navratri,Devotional,Swar Malhar,M.S. Khan,https://example.com/music/swar-malhar-by-m.s.-khan,West India Navratri Devotional Swar Malhar M.S. Khan
+West India,Diwali,Folk,Swar Katha,Ustad Kulkarni,https://example.com/music/swar-katha-by-ustad-kulkarni,West India Diwali Folk Swar Katha Ustad Kulkarni
+East India,Chhath Puja,Folk,Guru Tarana,Ravi Joshi,https://example.com/music/guru-tarana-by-ravi-joshi,East India Chhath Puja Folk Guru Tarana Ravi Joshi
+East India,Chhath Puja,Tribal,Shri Vandana,Hari Mangeshkar,https://example.com/music/shri-vandana-by-hari-mangeshkar,East India Chhath Puja Tribal Shri Vandana Hari Mangeshkar
+South India,Pongal,Devotional,Bhakti Aarti,Vidushi Sharma,https://example.com/music/bhakti-aarti-by-vidushi-sharma,South India Pongal Devotional Bhakti Aarti Vidushi Sharma
+South India,Pongal,Folk,Bhakti Dhwani,Pt. Subbulakshmi,https://example.com/music/bhakti-dhwani-by-pt.-subbulakshmi,South India Pongal Folk Bhakti Dhwani Pt. Subbulakshmi
+West India,Ganesh Chaturthi,Folk,Anand Malhar,Begum Sharma,https://example.com/music/anand-malhar-by-begum-sharma,West India Ganesh Chaturthi Folk Anand Malhar Begum Sharma
+North India,Holi,Folk,Jai Katha,Begum Kulkarni,https://example.com/music/jai-katha-by-begum-kulkarni,North India Holi Folk Jai Katha Begum Kulkarni
+North India,Holi,Semi-Classical,Shiv Vandana,Kishori Joshi,https://example.com/music/shiv-vandana-by-kishori-joshi,North India Holi Semi-Classical Shiv Vandana Kishori Joshi
+East India,Durga Puja,Folk,Krishna Katha,Shubha Shankar,https://example.com/music/krishna-katha-by-shubha-shankar,East India Durga Puja Folk Krishna Katha Shubha Shankar
+East India,Chhath Puja,Folk,Devi Bhajan,Ustad Kulkarni,https://example.com/music/devi-bhajan-by-ustad-kulkarni,East India Chhath Puja Folk Devi Bhajan Ustad Kulkarni
+South India,Pongal,Devotional,Om Sangeet,Ustad Kulkarni,https://example.com/music/om-sangeet-by-ustad-kulkarni,South India Pongal Devotional Om Sangeet Ustad Kulkarni
+South India,Pongal,Folk,Raga Sangeet,Pandit Amonkar,https://example.com/music/raga-sangeet-by-pandit-amonkar,South India Pongal Folk Raga Sangeet Pandit Amonkar
+West India,Ganesh Chaturthi,Folk,Jai Rasa,Bhimsen Mangeshkar,https://example.com/music/jai-rasa-by-bhimsen-mangeshkar,West India Ganesh Chaturthi Folk Jai Rasa Bhimsen Mangeshkar
+West India,Ganesh Chaturthi,Folk,Shiv Sangeet,Kumar Khan,https://example.com/music/shiv-sangeet-by-kumar-khan,West India Ganesh Chaturthi Folk Shiv Sangeet Kumar Khan
+East India,Chhath Puja,Folk,Ganga Kirtan,M.S. Sharma,https://example.com/music/ganga-kirtan-by-m.s.-sharma,East India Chhath Puja Folk Ganga Kirtan M.S. Sharma
+South India,Diwali,Classical,Taal Aarti,Kumar Khan,https://example.com/music/taal-aarti-by-kumar-khan,South India Diwali Classical Taal Aarti Kumar Khan
+South India,Onam,Folk,Shri Rasa,Hari Mangeshkar,https://example.com/music/shri-rasa-by-hari-mangeshkar,South India Onam Folk Shri Rasa Hari Mangeshkar
+East India,Bihu,Folk,Shri Dhun,Vidushi Mansur,https://example.com/music/shri-dhun-by-vidushi-mansur,East India Bihu Folk Shri Dhun Vidushi Mansur
+West India,Navratri,Devotional,Taal Vandana,M.S. Kulkarni,https://example.com/music/taal-vandana-by-m.s.-kulkarni,West India Navratri Devotional Taal Vandana M.S. Kulkarni
+West India,Ganesh Chaturthi,Classical,Om Kirtan,Kishori Kulkarni,https://example.com/music/om-kirtan-by-kishori-kulkarni,West India Ganesh Chaturthi Classical Om Kirtan Kishori Kulkarni
+West India,Navratri,Devotional,Taal Leela,Begum Mansur,https://example.com/music/taal-leela-by-begum-mansur,West India Navratri Devotional Taal Leela Begum Mansur
+North India,Baisakhi,Folk,Shiv Malhar,Mallikarjun Subbulakshmi,https://example.com/music/shiv-malhar-by-mallikarjun-subbulakshmi,North India Baisakhi Folk Shiv Malhar Mallikarjun Subbulakshmi
+South India,Diwali,Classical,Swar Stuti,Ravi Amonkar,https://example.com/music/swar-stuti-by-ravi-amonkar,South India Diwali Classical Swar Stuti Ravi Amonkar
+West India,Ganesh Chaturthi,Folk,Krishna Sangeet,Bhimsen Mansur,https://example.com/music/krishna-sangeet-by-bhimsen-mansur,West India Ganesh Chaturthi Folk Krishna Sangeet Bhimsen Mansur
+East India,Durga Puja,Folk,Guru Kirtan,Pandit Mansur,https://example.com/music/guru-kirtan-by-pandit-mansur,East India Durga Puja Folk Guru Kirtan Pandit Mansur
+North India,Lohri,Folk,Prema Rasa,Mallikarjun Mangeshkar,https://example.com/music/prema-rasa-by-mallikarjun-mangeshkar,North India Lohri Folk Prema Rasa Mallikarjun Mangeshkar
+North India,Holi,Bhajan,Taal Malhar,Bhimsen Joshi,https://example.com/music/taal-malhar-by-bhimsen-joshi,North India Holi Bhajan Taal Malhar Bhimsen Joshi
+South India,Diwali,Folk,Guru Leela,Kishori Gundecha,https://example.com/music/guru-leela-by-kishori-gundecha,South India Diwali Folk Guru Leela Kishori Gundecha
+North India,Baisakhi,Classical,Ram Leela,Pandit Kulkarni,https://example.com/music/ram-leela-by-pandit-kulkarni,North India Baisakhi Classical Ram Leela Pandit Kulkarni
+South India,Onam,Folk,Taal Kirtan,Begum Amonkar,https://example.com/music/taal-kirtan-by-begum-amonkar,South India Onam Folk Taal Kirtan Begum Amonkar
+East India,Chhath Puja,Tribal,Prema Vandana,Pandit Subbulakshmi,https://example.com/music/prema-vandana-by-pandit-subbulakshmi,East India Chhath Puja Tribal Prema Vandana Pandit Subbulakshmi
+North India,Holi,Folk,Prema Stuti,Pt. Sharma,https://example.com/music/prema-stuti-by-pt.-sharma,North India Holi Folk Prema Stuti Pt. Sharma
+North India,Lohri,Semi-Classical,Taal Geet,Ravi Mangeshkar,https://example.com/music/taal-geet-by-ravi-mangeshkar,North India Lohri Semi-Classical Taal Geet Ravi Mangeshkar
+North India,Lohri,Semi-Classical,Maha Geet,Hari Subbulakshmi,https://example.com/music/maha-geet-by-hari-subbulakshmi,North India Lohri Semi-Classical Maha Geet Hari Subbulakshmi
+North India,Diwali,Semi-Classical,Om Vandana,Begum Dey,https://example.com/music/om-vandana-by-begum-dey,North India Diwali Semi-Classical Om Vandana Begum Dey
+East India,Durga Puja,Classical,Shiv Leela,Mallikarjun Shankar,https://example.com/music/shiv-leela-by-mallikarjun-shankar,East India Durga Puja Classical Shiv Leela Mallikarjun Shankar
+East India,Bihu,Tribal,Om Aarti,Begum Gundecha,https://example.com/music/om-aarti-by-begum-gundecha,East India Bihu Tribal Om Aarti Begum Gundecha
+South India,Diwali,Folk,Anand Tarana,Begum Kulkarni,https://example.com/music/anand-tarana-by-begum-kulkarni,South India Diwali Folk Anand Tarana Begum Kulkarni
+North India,Diwali,Classical,Shiv Tarana,M.S. Subbulakshmi,https://example.com/music/shiv-tarana-by-m.s.-subbulakshmi,North India Diwali Classical Shiv Tarana M.S. Subbulakshmi
+North India,Lohri,Bhajan,Devi Vandana,Kishori Shankar,https://example.com/music/devi-vandana-by-kishori-shankar,North India Lohri Bhajan Devi Vandana Kishori Shankar
+South India,Onam,Folk,Taal Tarana,Hari Kulkarni,https://example.com/music/taal-tarana-by-hari-kulkarni,South India Onam Folk Taal Tarana Hari Kulkarni
+North India,Diwali,Folk,Shiv Bhajan,Mallikarjun Joshi,https://example.com/music/shiv-bhajan-by-mallikarjun-joshi,North India Diwali Folk Shiv Bhajan Mallikarjun Joshi
+East India,Bihu,Tribal,Ram Bhajan,M.S. Bhosle,https://example.com/music/ram-bhajan-by-m.s.-bhosle,East India Bihu Tribal Ram Bhajan M.S. Bhosle
+South India,Onam,Folk,Jai Bhajan,Begum Sharma,https://example.com/music/jai-bhajan-by-begum-sharma,South India Onam Folk Jai Bhajan Begum Sharma
+South India,Onam,Devotional,Om Dhwani,M.S. Khan,https://example.com/music/om-dhwani-by-m.s.-khan,South India Onam Devotional Om Dhwani M.S. Khan
+South India,Pongal,Devotional,Maha Bhajan,Ustad Kulkarni,https://example.com/music/maha-bhajan-by-ustad-kulkarni,South India Pongal Devotional Maha Bhajan Ustad Kulkarni
+East India,Bihu,Tribal,Bhakti Stuti,Kumar Khan,https://example.com/music/bhakti-stuti-by-kumar-khan,East India Bihu Tribal Bhakti Stuti Kumar Khan
+East India,Bihu,Tribal,Anand Dhun,Hari Khan,https://example.com/music/anand-dhun-by-hari-khan,East India Bihu Tribal Anand Dhun Hari Khan
+East India,Bihu,Tribal,Taal Sangeet,Pandit Kulkarni,https://example.com/music/taal-sangeet-by-pandit-kulkarni,East India Bihu Tribal Taal Sangeet Pandit Kulkarni
+North India,Diwali,Classical,Guru Dhwani,Ravi Kulkarni,https://example.com/music/guru-dhwani-by-ravi-kulkarni,North India Diwali Classical Guru Dhwani Ravi Kulkarni
+West India,Ganesh Chaturthi,Folk,Swar Geet,Mallikarjun Mangeshkar,https://example.com/music/swar-geet-by-mallikarjun-mangeshkar,West India Ganesh Chaturthi Folk Swar Geet Mallikarjun Mangeshkar
+East India,Durga Puja,Tribal,Om Malhar,Ravi Dey,https://example.com/music/om-malhar-by-ravi-dey,East India Durga Puja Tribal Om Malhar Ravi Dey
+North India,Holi,Classical,Shiv Geet,Pt. Gundecha,https://example.com/music/shiv-geet-by-pt.-gundecha,North India Holi Classical Shiv Geet Pt. Gundecha
+South India,Pongal,Devotional,Guru Geet,Begum Amonkar,https://example.com/music/guru-geet-by-begum-amonkar,South India Pongal Devotional Guru Geet Begum Amonkar
+West India,Navratri,Folk,Ganga Katha,Pt. Gundecha,https://example.com/music/ganga-katha-by-pt.-gundecha,West India Navratri Folk Ganga Katha Pt. Gundecha
+East India,Durga Puja,Classical,Maha Leela,Shubha Shankar,https://example.com/music/maha-leela-by-shubha-shankar,East India Durga Puja Classical Maha Leela Shubha Shankar
+East India,Chhath Puja,Folk,Ganga Sangeet,Pt. Gundecha,https://example.com/music/ganga-sangeet-by-pt.-gundecha,East India Chhath Puja Folk Ganga Sangeet Pt. Gundecha
+East India,Durga Puja,Classical,Devi Katha,M.S. Kulkarni,https://example.com/music/devi-katha-by-m.s.-kulkarni,East India Durga Puja Classical Devi Katha M.S. Kulkarni
+East India,Bihu,Classical,Jai Kirtan,Ustad Kulkarni,https://example.com/music/jai-kirtan-by-ustad-kulkarni,East India Bihu Classical Jai Kirtan Ustad Kulkarni
+East India,Durga Puja,Folk,Om Dhwani,Pt. Gundecha,https://example.com/music/om-dhwani-by-pt.-gundecha,East India Durga Puja Folk Om Dhwani Pt. Gundecha
+West India,Ganesh Chaturthi,Folk,Guru Leela,Ustad Gundecha,https://example.com/music/guru-leela-by-ustad-gundecha,West India Ganesh Chaturthi Folk Guru Leela Ustad Gundecha
+South India,Diwali,Folk,Raga Bhajan,Vidushi Dey,https://example.com/music/raga-bhajan-by-vidushi-dey,South India Diwali Folk Raga Bhajan Vidushi Dey
+West India,Navratri,Folk,Jai Dhwani,Mallikarjun Mansur,https://example.com/music/jai-dhwani-by-mallikarjun-mansur,West India Navratri Folk Jai Dhwani Mallikarjun Mansur
+North India,Baisakhi,Bhajan,Om Sangeet,Vidushi Mansur,https://example.com/music/om-sangeet-by-vidushi-mansur,North India Baisakhi Bhajan Om Sangeet Vidushi Mansur
+South India,Diwali,Classical,Anand Dhun,Ravi Khan,https://example.com/music/anand-dhun-by-ravi-khan,South India Diwali Classical Anand Dhun Ravi Khan
+East India,Durga Puja,Tribal,Prema Aarti,Begum Sharma,https://example.com/music/prema-aarti-by-begum-sharma,East India Durga Puja Tribal Prema Aarti Begum Sharma
+West India,Diwali,Devotional,Krishna Bhajan,Ustad Joshi,https://example.com/music/krishna-bhajan-by-ustad-joshi,West India Diwali Devotional Krishna Bhajan Ustad Joshi
+South India,Diwali,Classical,Krishna Dhwani,Kumar Bhosle,https://example.com/music/krishna-dhwani-by-kumar-bhosle,South India Diwali Classical Krishna Dhwani Kumar Bhosle
+South India,Onam,Classical,Shri Dhun,Pandit Joshi,https://example.com/music/shri-dhun-by-pandit-joshi,South India Onam Classical Shri Dhun Pandit Joshi
+East India,Durga Puja,Tribal,Krishna Rasa,M.S. Gundecha,https://example.com/music/krishna-rasa-by-m.s.-gundecha,East India Durga Puja Tribal Krishna Rasa M.S. Gundecha
+North India,Lohri,Classical,Taal Katha,Vidushi Mangeshkar,https://example.com/music/taal-katha-by-vidushi-mangeshkar,North India Lohri Classical Taal Katha Vidushi Mangeshkar
+East India,Durga Puja,Folk,Taal Dhwani,Vidushi Subbulakshmi,https://example.com/music/taal-dhwani-by-vidushi-subbulakshmi,East India Durga Puja Folk Taal Dhwani Vidushi Subbulakshmi
+North India,Lohri,Semi-Classical,Ganga Stuti,Hari Subbulakshmi,https://example.com/music/ganga-stuti-by-hari-subbulakshmi,North India Lohri Semi-Classical Ganga Stuti Hari Subbulakshmi
+South India,Onam,Devotional,Maha Rasa,Hari Sharma,https://example.com/music/maha-rasa-by-hari-sharma,South India Onam Devotional Maha Rasa Hari Sharma
+West India,Ganesh Chaturthi,Folk,Ram Aarti,Ustad Gundecha,https://example.com/music/ram-aarti-by-ustad-gundecha,West India Ganesh Chaturthi Folk Ram Aarti Ustad Gundecha
+South India,Onam,Classical,Bhakti Malhar,Mallikarjun Shankar,https://example.com/music/bhakti-malhar-by-mallikarjun-shankar,South India Onam Classical Bhakti Malhar Mallikarjun Shankar
+North India,Holi,Classical,Shiv Leela,Mallikarjun Khan,https://example.com/music/shiv-leela-by-mallikarjun-khan,North India Holi Classical Shiv Leela Mallikarjun Khan
+North India,Lohri,Folk,Krishna Vandana,Hari Sharma,https://example.com/music/krishna-vandana-by-hari-sharma,North India Lohri Folk Krishna Vandana Hari Sharma
+North India,Baisakhi,Classical,Shri Tarana,Kumar Amonkar,https://example.com/music/shri-tarana-by-kumar-amonkar,North India Baisakhi Classical Shri Tarana Kumar Amonkar
+North India,Diwali,Folk,Prema Katha,Ravi Gundecha,https://example.com/music/prema-katha-by-ravi-gundecha,North India Diwali Folk Prema Katha Ravi Gundecha
+West India,Ganesh Chaturthi,Folk,Maha Stuti,Kumar Dey,https://example.com/music/maha-stuti-by-kumar-dey,West India Ganesh Chaturthi Folk Maha Stuti Kumar Dey
+West India,Ganesh Chaturthi,Classical,Prema Leela,Begum Mansur,https://example.com/music/prema-leela-by-begum-mansur,West India Ganesh Chaturthi Classical Prema Leela Begum Mansur
+East India,Durga Puja,Folk,Jai Leela,Shubha Subbulakshmi,https://example.com/music/jai-leela-by-shubha-subbulakshmi,East India Durga Puja Folk Jai Leela Shubha Subbulakshmi
+North India,Lohri,Classical,Om Aarti,Bhimsen Subbulakshmi,https://example.com/music/om-aarti-by-bhimsen-subbulakshmi,North India Lohri Classical Om Aarti Bhimsen Subbulakshmi
+West India,Navratri,Classical,Prema Kirtan,Vidushi Joshi,https://example.com/music/prema-kirtan-by-vidushi-joshi,West India Navratri Classical Prema Kirtan Vidushi Joshi
+East India,Bihu,Classical,Ram Vandana,Bhimsen Amonkar,https://example.com/music/ram-vandana-by-bhimsen-amonkar,East India Bihu Classical Ram Vandana Bhimsen Amonkar
+North India,Holi,Classical,Guru Dhwani,Mallikarjun Mangeshkar,https://example.com/music/guru-dhwani-by-mallikarjun-mangeshkar,North India Holi Classical Guru Dhwani Mallikarjun Mangeshkar
+North India,Lohri,Classical,Shri Vandana,Ravi Khan,https://example.com/music/shri-vandana-by-ravi-khan,North India Lohri Classical Shri Vandana Ravi Khan
+East India,Chhath Puja,Folk,Taal Bhajan,Ustad Khan,https://example.com/music/taal-bhajan-by-ustad-khan,East India Chhath Puja Folk Taal Bhajan Ustad Khan
+North India,Diwali,Folk,Devi Stuti,Kishori Subbulakshmi,https://example.com/music/devi-stuti-by-kishori-subbulakshmi,North India Diwali Folk Devi Stuti Kishori Subbulakshmi
+East India,Durga Puja,Classical,Krishna Leela,Pt. Khan,https://example.com/music/krishna-leela-by-pt.-khan,East India Durga Puja Classical Krishna Leela Pt. Khan
+South India,Diwali,Folk,Jai Geet,Kumar Joshi,https://example.com/music/jai-geet-by-kumar-joshi,South India Diwali Folk Jai Geet Kumar Joshi
+North India,Lohri,Classical,Maha Geet,Pandit Mansur,https://example.com/music/maha-geet-by-pandit-mansur,North India Lohri Classical Maha Geet Pandit Mansur
+South India,Onam,Devotional,Shiv Rasa,Kishori Amonkar,https://example.com/music/shiv-rasa-by-kishori-amonkar,South India Onam Devotional Shiv Rasa Kishori Amonkar
+West India,Ganesh Chaturthi,Classical,Ram Rasa,Vidushi Subbulakshmi,https://example.com/music/ram-rasa-by-vidushi-subbulakshmi,West India Ganesh Chaturthi Classical Ram Rasa Vidushi Subbulakshmi
+South India,Diwali,Folk,Devi Dhwani,Shubha Amonkar,https://example.com/music/devi-dhwani-by-shubha-amonkar,South India Diwali Folk Devi Dhwani Shubha Amonkar
+West India,Navratri,Devotional,Bhakti Tarana,Kishori Bhosle,https://example.com/music/bhakti-tarana-by-kishori-bhosle,West India Navratri Devotional Bhakti Tarana Kishori Bhosle
+West India,Navratri,Folk,Ganga Leela,Begum Kulkarni,https://example.com/music/ganga-leela-by-begum-kulkarni,West India Navratri Folk Ganga Leela Begum Kulkarni
+East India,Bihu,Classical,Shri Stuti,Hari Khan,https://example.com/music/shri-stuti-by-hari-khan,East India Bihu Classical Shri Stuti Hari Khan
+West India,Diwali,Folk,Taal Geet,Mallikarjun Subbulakshmi,https://example.com/music/taal-geet-by-mallikarjun-subbulakshmi,West India Diwali Folk Taal Geet Mallikarjun Subbulakshmi
+East India,Chhath Puja,Folk,Shiv Rasa,Ravi Mangeshkar,https://example.com/music/shiv-rasa-by-ravi-mangeshkar,East India Chhath Puja Folk Shiv Rasa Ravi Mangeshkar
+North India,Diwali,Bhajan,Shiv Sangeet,Hari Mangeshkar,https://example.com/music/shiv-sangeet-by-hari-mangeshkar,North India Diwali Bhajan Shiv Sangeet Hari Mangeshkar
+West India,Diwali,Folk,Swar Dhun,Shubha Shankar,https://example.com/music/swar-dhun-by-shubha-shankar,West India Diwali Folk Swar Dhun Shubha Shankar
+West India,Ganesh Chaturthi,Classical,Krishna Kirtan,Ravi Dey,https://example.com/music/krishna-kirtan-by-ravi-dey,West India Ganesh Chaturthi Classical Krishna Kirtan Ravi Dey
+East India,Bihu,Classical,Anand Dhwani,Bhimsen Shankar,https://example.com/music/anand-dhwani-by-bhimsen-shankar,East India Bihu Classical Anand Dhwani Bhimsen Shankar
+East India,Bihu,Folk,Shri Malhar,Bhimsen Mansur,https://example.com/music/shri-malhar-by-bhimsen-mansur,East India Bihu Folk Shri Malhar Bhimsen Mansur
+North India,Baisakhi,Semi-Classical,Om Dhun,Shubha Subbulakshmi,https://example.com/music/om-dhun-by-shubha-subbulakshmi,North India Baisakhi Semi-Classical Om Dhun Shubha Subbulakshmi
+South India,Diwali,Devotional,Ram Tarana,Pandit Amonkar,https://example.com/music/ram-tarana-by-pandit-amonkar,South India Diwali Devotional Ram Tarana Pandit Amonkar
+East India,Chhath Puja,Classical,Devi Aarti,Ustad Mansur,https://example.com/music/devi-aarti-by-ustad-mansur,East India Chhath Puja Classical Devi Aarti Ustad Mansur
+North India,Baisakhi,Folk,Ram Vandana,Hari Gundecha,https://example.com/music/ram-vandana-by-hari-gundecha,North India Baisakhi Folk Ram Vandana Hari Gundecha
+West India,Diwali,Classical,Anand Geet,Vidushi Dey,https://example.com/music/anand-geet-by-vidushi-dey,West India Diwali Classical Anand Geet Vidushi Dey
+West India,Navratri,Folk,Krishna Leela,Mallikarjun Mansur,https://example.com/music/krishna-leela-by-mallikarjun-mansur,West India Navratri Folk Krishna Leela Mallikarjun Mansur
+West India,Ganesh Chaturthi,Devotional,Krishna Katha,M.S. Joshi,https://example.com/music/krishna-katha-by-m.s.-joshi,West India Ganesh Chaturthi Devotional Krishna Katha M.S. Joshi
+South India,Pongal,Folk,Anand Malhar,Kumar Subbulakshmi,https://example.com/music/anand-malhar-by-kumar-subbulakshmi,South India Pongal Folk Anand Malhar Kumar Subbulakshmi
+North India,Lohri,Classical,Ganga Malhar,Shubha Dey,https://example.com/music/ganga-malhar-by-shubha-dey,North India Lohri Classical Ganga Malhar Shubha Dey
+South India,Onam,Folk,Taal Stuti,Kishori Amonkar,https://example.com/music/taal-stuti-by-kishori-amonkar,South India Onam Folk Taal Stuti Kishori Amonkar
+West India,Diwali,Folk,Devi Sangeet,Vidushi Bhosle,https://example.com/music/devi-sangeet-by-vidushi-bhosle,West India Diwali Folk Devi Sangeet Vidushi Bhosle
+West India,Diwali,Folk,Anand Dhun,M.S. Shankar,https://example.com/music/anand-dhun-by-m.s.-shankar,West India Diwali Folk Anand Dhun M.S. Shankar
+South India,Onam,Devotional,Ram Bhajan,Shubha Mansur,https://example.com/music/ram-bhajan-by-shubha-mansur,South India Onam Devotional Ram Bhajan Shubha Mansur
+South India,Onam,Classical,Maha Sangeet,Kumar Mansur,https://example.com/music/maha-sangeet-by-kumar-mansur,South India Onam Classical Maha Sangeet Kumar Mansur
+East India,Bihu,Tribal,Maha Katha,Bhimsen Gundecha,https://example.com/music/maha-katha-by-bhimsen-gundecha,East India Bihu Tribal Maha Katha Bhimsen Gundecha
+East India,Bihu,Folk,Maha Dhwani,M.S. Mangeshkar,https://example.com/music/maha-dhwani-by-m.s.-mangeshkar,East India Bihu Folk Maha Dhwani M.S. Mangeshkar
+North India,Diwali,Bhajan,Jai Bhajan,M.S. Dey,https://example.com/music/jai-bhajan-by-m.s.-dey,North India Diwali Bhajan Jai Bhajan M.S. Dey
+North India,Lohri,Classical,Shri Rasa,Pandit Khan,https://example.com/music/shri-rasa-by-pandit-khan,North India Lohri Classical Shri Rasa Pandit Khan
+East India,Chhath Puja,Folk,Ram Vandana,Pandit Dey,https://example.com/music/ram-vandana-by-pandit-dey,East India Chhath Puja Folk Ram Vandana Pandit Dey
+West India,Navratri,Classical,Devi Aarti,Shubha Kulkarni,https://example.com/music/devi-aarti-by-shubha-kulkarni,West India Navratri Classical Devi Aarti Shubha Kulkarni
+East India,Chhath Puja,Folk,Ganga Aarti,Ravi Amonkar,https://example.com/music/ganga-aarti-by-ravi-amonkar,East India Chhath Puja Folk Ganga Aarti Ravi Amonkar
+East India,Bihu,Classical,Ganga Leela,Ustad Mansur,https://example.com/music/ganga-leela-by-ustad-mansur,East India Bihu Classical Ganga Leela Ustad Mansur
+South India,Onam,Classical,Ram Dhwani,Kumar Amonkar,https://example.com/music/ram-dhwani-by-kumar-amonkar,South India Onam Classical Ram Dhwani Kumar Amonkar
+North India,Baisakhi,Semi-Classical,Swar Geet,Kumar Mansur,https://example.com/music/swar-geet-by-kumar-mansur,North India Baisakhi Semi-Classical Swar Geet Kumar Mansur
+South India,Pongal,Classical,Ram Rasa,Mallikarjun Khan,https://example.com/music/ram-rasa-by-mallikarjun-khan,South India Pongal Classical Ram Rasa Mallikarjun Khan
+North India,Baisakhi,Classical,Raga Sangeet,Ustad Khan,https://example.com/music/raga-sangeet-by-ustad-khan,North India Baisakhi Classical Raga Sangeet Ustad Khan
+East India,Durga Puja,Folk,Jai Tarana,Pt. Mangeshkar,https://example.com/music/jai-tarana-by-pt.-mangeshkar,East India Durga Puja Folk Jai Tarana Pt. Mangeshkar
+East India,Chhath Puja,Folk,Taal Aarti,Kumar Bhosle,https://example.com/music/taal-aarti-by-kumar-bhosle,East India Chhath Puja Folk Taal Aarti Kumar Bhosle
+North India,Diwali,Semi-Classical,Swar Malhar,Vidushi Sharma,https://example.com/music/swar-malhar-by-vidushi-sharma,North India Diwali Semi-Classical Swar Malhar Vidushi Sharma
+North India,Lohri,Semi-Classical,Prema Dhun,Pt. Shankar,https://example.com/music/prema-dhun-by-pt.-shankar,North India Lohri Semi-Classical Prema Dhun Pt. Shankar
+East India,Bihu,Tribal,Devi Bhajan,Pandit Kulkarni,https://example.com/music/devi-bhajan-by-pandit-kulkarni,East India Bihu Tribal Devi Bhajan Pandit Kulkarni
+East India,Bihu,Folk,Ganga Leela,Bhimsen Shankar,https://example.com/music/ganga-leela-by-bhimsen-shankar,East India Bihu Folk Ganga Leela Bhimsen Shankar
+South India,Onam,Classical,Shri Kirtan,Bhimsen Kulkarni,https://example.com/music/shri-kirtan-by-bhimsen-kulkarni,South India Onam Classical Shri Kirtan Bhimsen Kulkarni
+East India,Bihu,Classical,Shri Malhar,Ravi Subbulakshmi,https://example.com/music/shri-malhar-by-ravi-subbulakshmi,East India Bihu Classical Shri Malhar Ravi Subbulakshmi
+West India,Diwali,Folk,Swar Stuti,Vidushi Kulkarni,https://example.com/music/swar-stuti-by-vidushi-kulkarni,West India Diwali Folk Swar Stuti Vidushi Kulkarni
+South India,Onam,Devotional,Bhakti Kirtan,Pandit Gundecha,https://example.com/music/bhakti-kirtan-by-pandit-gundecha,South India Onam Devotional Bhakti Kirtan Pandit Gundecha
+South India,Diwali,Folk,Taal Kirtan,Pt. Kulkarni,https://example.com/music/taal-kirtan-by-pt.-kulkarni,South India Diwali Folk Taal Kirtan Pt. Kulkarni
+West India,Diwali,Classical,Prema Leela,Kishori Mangeshkar,https://example.com/music/prema-leela-by-kishori-mangeshkar,West India Diwali Classical Prema Leela Kishori Mangeshkar
+East India,Bihu,Tribal,Om Tarana,Bhimsen Kulkarni,https://example.com/music/om-tarana-by-bhimsen-kulkarni,East India Bihu Tribal Om Tarana Bhimsen Kulkarni
+East India,Bihu,Folk,Raga Sangeet,Pandit Bhosle,https://example.com/music/raga-sangeet-by-pandit-bhosle,East India Bihu Folk Raga Sangeet Pandit Bhosle
+West India,Diwali,Folk,Bhakti Vandana,Ravi Khan,https://example.com/music/bhakti-vandana-by-ravi-khan,West India Diwali Folk Bhakti Vandana Ravi Khan
+East India,Durga Puja,Classical,Krishna Katha,Bhimsen Joshi,https://example.com/music/krishna-katha-by-bhimsen-joshi,East India Durga Puja Classical Krishna Katha Bhimsen Joshi
+West India,Navratri,Classical,Maha Leela,M.S. Bhosle,https://example.com/music/maha-leela-by-m.s.-bhosle,West India Navratri Classical Maha Leela M.S. Bhosle
+North India,Lohri,Bhajan,Swar Kirtan,Begum Shankar,https://example.com/music/swar-kirtan-by-begum-shankar,North India Lohri Bhajan Swar Kirtan Begum Shankar
+East India,Durga Puja,Classical,Taal Dhwani,Kumar Amonkar,https://example.com/music/taal-dhwani-by-kumar-amonkar,East India Durga Puja Classical Taal Dhwani Kumar Amonkar
+East India,Bihu,Folk,Shiv Rasa,Shubha Mansur,https://example.com/music/shiv-rasa-by-shubha-mansur,East India Bihu Folk Shiv Rasa Shubha Mansur
+West India,Navratri,Folk,Guru Dhun,Hari Khan,https://example.com/music/guru-dhun-by-hari-khan,West India Navratri Folk Guru Dhun Hari Khan
+East India,Durga Puja,Tribal,Bhakti Stuti,Vidushi Bhosle,https://example.com/music/bhakti-stuti-by-vidushi-bhosle,East India Durga Puja Tribal Bhakti Stuti Vidushi Bhosle
+West India,Diwali,Devotional,Shiv Bhajan,Hari Mansur,https://example.com/music/shiv-bhajan-by-hari-mansur,West India Diwali Devotional Shiv Bhajan Hari Mansur
+South India,Pongal,Folk,Anand Tarana,Kumar Khan,https://example.com/music/anand-tarana-by-kumar-khan,South India Pongal Folk Anand Tarana Kumar Khan
+South India,Diwali,Classical,Devi Katha,Ravi Sharma,https://example.com/music/devi-katha-by-ravi-sharma,South India Diwali Classical Devi Katha Ravi Sharma
+West India,Diwali,Folk,Raga Dhun,Ravi Amonkar,https://example.com/music/raga-dhun-by-ravi-amonkar,West India Diwali Folk Raga Dhun Ravi Amonkar
+East India,Bihu,Folk,Anand Aarti,Ustad Kulkarni,https://example.com/music/anand-aarti-by-ustad-kulkarni,East India Bihu Folk Anand Aarti Ustad Kulkarni
+East India,Durga Puja,Tribal,Taal Geet,Ustad Bhosle,https://example.com/music/taal-geet-by-ustad-bhosle,East India Durga Puja Tribal Taal Geet Ustad Bhosle
+West India,Navratri,Folk,Bhakti Katha,M.S. Gundecha,https://example.com/music/bhakti-katha-by-m.s.-gundecha,West India Navratri Folk Bhakti Katha M.S. Gundecha
+North India,Diwali,Semi-Classical,Shri Vandana,Pt. Mansur,https://example.com/music/shri-vandana-by-pt.-mansur,North India Diwali Semi-Classical Shri Vandana Pt. Mansur
+North India,Diwali,Classical,Swar Geet,Vidushi Subbulakshmi,https://example.com/music/swar-geet-by-vidushi-subbulakshmi,North India Diwali Classical Swar Geet Vidushi Subbulakshmi
+South India,Diwali,Devotional,Devi Kirtan,Pandit Shankar,https://example.com/music/devi-kirtan-by-pandit-shankar,South India Diwali Devotional Devi Kirtan Pandit Shankar
+South India,Diwali,Classical,Shiv Bhajan,Kishori Mangeshkar,https://example.com/music/shiv-bhajan-by-kishori-mangeshkar,South India Diwali Classical Shiv Bhajan Kishori Mangeshkar
+South India,Onam,Folk,Ganga Dhun,Pt. Dey,https://example.com/music/ganga-dhun-by-pt.-dey,South India Onam Folk Ganga Dhun Pt. Dey
+East India,Chhath Puja,Classical,Guru Bhajan,Kumar Bhosle,https://example.com/music/guru-bhajan-by-kumar-bhosle,East India Chhath Puja Classical Guru Bhajan Kumar Bhosle
+West India,Diwali,Classical,Ganga Katha,Bhimsen Dey,https://example.com/music/ganga-katha-by-bhimsen-dey,West India Diwali Classical Ganga Katha Bhimsen Dey
+West India,Diwali,Classical,Bhakti Sangeet,M.S. Kulkarni,https://example.com/music/bhakti-sangeet-by-m.s.-kulkarni,West India Diwali Classical Bhakti Sangeet M.S. Kulkarni
+East India,Bihu,Classical,Raga Tarana,Vidushi Gundecha,https://example.com/music/raga-tarana-by-vidushi-gundecha,East India Bihu Classical Raga Tarana Vidushi Gundecha
+East India,Chhath Puja,Classical,Ram Aarti,Pandit Mansur,https://example.com/music/ram-aarti-by-pandit-mansur,East India Chhath Puja Classical Ram Aarti Pandit Mansur
+North India,Holi,Semi-Classical,Anand Kirtan,Begum Mansur,https://example.com/music/anand-kirtan-by-begum-mansur,North India Holi Semi-Classical Anand Kirtan Begum Mansur
+North India,Diwali,Semi-Classical,Ram Kirtan,Mallikarjun Amonkar,https://example.com/music/ram-kirtan-by-mallikarjun-amonkar,North India Diwali Semi-Classical Ram Kirtan Mallikarjun Amonkar
+East India,Bihu,Classical,Guru Malhar,Hari Shankar,https://example.com/music/guru-malhar-by-hari-shankar,East India Bihu Classical Guru Malhar Hari Shankar
+North India,Diwali,Classical,Anand Dhun,Mallikarjun Dey,https://example.com/music/anand-dhun-by-mallikarjun-dey,North India Diwali Classical Anand Dhun Mallikarjun Dey
+West India,Ganesh Chaturthi,Classical,Ganga Stuti,Ustad Bhosle,https://example.com/music/ganga-stuti-by-ustad-bhosle,West India Ganesh Chaturthi Classical Ganga Stuti Ustad Bhosle
+North India,Diwali,Bhajan,Prema Leela,Shubha Gundecha,https://example.com/music/prema-leela-by-shubha-gundecha,North India Diwali Bhajan Prema Leela Shubha Gundecha
+North India,Holi,Classical,Shri Bhajan,Vidushi Joshi,https://example.com/music/shri-bhajan-by-vidushi-joshi,North India Holi Classical Shri Bhajan Vidushi Joshi
+West India,Diwali,Devotional,Shri Bhajan,Kishori Amonkar,https://example.com/music/shri-bhajan-by-kishori-amonkar,West India Diwali Devotional Shri Bhajan Kishori Amonkar
+North India,Holi,Semi-Classical,Om Dhun,Kumar Mangeshkar,https://example.com/music/om-dhun-by-kumar-mangeshkar,North India Holi Semi-Classical Om Dhun Kumar Mangeshkar
+West India,Ganesh Chaturthi,Folk,Raga Dhun,Bhimsen Shankar,https://example.com/music/raga-dhun-by-bhimsen-shankar,West India Ganesh Chaturthi Folk Raga Dhun Bhimsen Shankar
+South India,Onam,Classical,Swar Dhun,Bhimsen Shankar,https://example.com/music/swar-dhun-by-bhimsen-shankar,South India Onam Classical Swar Dhun Bhimsen Shankar
+South India,Pongal,Devotional,Bhakti Dhun,Hari Bhosle,https://example.com/music/bhakti-dhun-by-hari-bhosle,South India Pongal Devotional Bhakti Dhun Hari Bhosle
+North India,Lohri,Semi-Classical,Maha Tarana,Bhimsen Mangeshkar,https://example.com/music/maha-tarana-by-bhimsen-mangeshkar,North India Lohri Semi-Classical Maha Tarana Bhimsen Mangeshkar
+West India,Diwali,Classical,Prema Bhajan,Hari Gundecha,https://example.com/music/prema-bhajan-by-hari-gundecha,West India Diwali Classical Prema Bhajan Hari Gundecha
+South India,Diwali,Folk,Shiv Vandana,Ravi Kulkarni,https://example.com/music/shiv-vandana-by-ravi-kulkarni,South India Diwali Folk Shiv Vandana Ravi Kulkarni
+East India,Chhath Puja,Classical,Anand Dhwani,Bhimsen Kulkarni,https://example.com/music/anand-dhwani-by-bhimsen-kulkarni,East India Chhath Puja Classical Anand Dhwani Bhimsen Kulkarni
+West India,Navratri,Folk,Shri Malhar,Shubha Sharma,https://example.com/music/shri-malhar-by-shubha-sharma,West India Navratri Folk Shri Malhar Shubha Sharma
+West India,Diwali,Folk,Jai Katha,Bhimsen Dey,https://example.com/music/jai-katha-by-bhimsen-dey,West India Diwali Folk Jai Katha Bhimsen Dey
+West India,Navratri,Classical,Prema Sangeet,Ravi Khan,https://example.com/music/prema-sangeet-by-ravi-khan,West India Navratri Classical Prema Sangeet Ravi Khan
+South India,Diwali,Folk,Jai Tarana,Pandit Dey,https://example.com/music/jai-tarana-by-pandit-dey,South India Diwali Folk Jai Tarana Pandit Dey
+East India,Chhath Puja,Classical,Krishna Stuti,Ravi Dey,https://example.com/music/krishna-stuti-by-ravi-dey,East India Chhath Puja Classical Krishna Stuti Ravi Dey
+North India,Diwali,Bhajan,Shri Dhwani,Kumar Bhosle,https://example.com/music/shri-dhwani-by-kumar-bhosle,North India Diwali Bhajan Shri Dhwani Kumar Bhosle
+East India,Bihu,Classical,Taal Tarana,Ravi Bhosle,https://example.com/music/taal-tarana-by-ravi-bhosle,East India Bihu Classical Taal Tarana Ravi Bhosle
+West India,Navratri,Folk,Shri Sangeet,Ravi Amonkar,https://example.com/music/shri-sangeet-by-ravi-amonkar,West India Navratri Folk Shri Sangeet Ravi Amonkar
+South India,Diwali,Classical,Anand Kirtan,Bhimsen Bhosle,https://example.com/music/anand-kirtan-by-bhimsen-bhosle,South India Diwali Classical Anand Kirtan Bhimsen Bhosle
+West India,Ganesh Chaturthi,Devotional,Taal Kirtan,Vidushi Sharma,https://example.com/music/taal-kirtan-by-vidushi-sharma,West India Ganesh Chaturthi Devotional Taal Kirtan Vidushi Sharma
+West India,Ganesh Chaturthi,Classical,Guru Leela,Begum Sharma,https://example.com/music/guru-leela-by-begum-sharma,West India Ganesh Chaturthi Classical Guru Leela Begum Sharma
+North India,Baisakhi,Bhajan,Shiv Stuti,Pt. Amonkar,https://example.com/music/shiv-stuti-by-pt.-amonkar,North India Baisakhi Bhajan Shiv Stuti Pt. Amonkar
+North India,Diwali,Folk,Raga Dhwani,Hari Sharma,https://example.com/music/raga-dhwani-by-hari-sharma,North India Diwali Folk Raga Dhwani Hari Sharma
+East India,Chhath Puja,Folk,Jai Kirtan,Kumar Amonkar,https://example.com/music/jai-kirtan-by-kumar-amonkar,East India Chhath Puja Folk Jai Kirtan Kumar Amonkar
+South India,Onam,Folk,Krishna Geet,Pt. Dey,https://example.com/music/krishna-geet-by-pt.-dey,South India Onam Folk Krishna Geet Pt. Dey
+South India,Pongal,Folk,Bhakti Dhun,Ustad Bhosle,https://example.com/music/bhakti-dhun-by-ustad-bhosle,South India Pongal Folk Bhakti Dhun Ustad Bhosle
+East India,Chhath Puja,Folk,Shri Tarana,Kishori Shankar,https://example.com/music/shri-tarana-by-kishori-shankar,East India Chhath Puja Folk Shri Tarana Kishori Shankar
+North India,Baisakhi,Bhajan,Krishna Geet,Shubha Kulkarni,https://example.com/music/krishna-geet-by-shubha-kulkarni,North India Baisakhi Bhajan Krishna Geet Shubha Kulkarni
+East India,Chhath Puja,Classical,Maha Leela,Bhimsen Joshi,https://example.com/music/maha-leela-by-bhimsen-joshi,East India Chhath Puja Classical Maha Leela Bhimsen Joshi
+South India,Onam,Devotional,Anand Dhun,M.S. Sharma,https://example.com/music/anand-dhun-by-m.s.-sharma,South India Onam Devotional Anand Dhun M.S. Sharma
+East India,Bihu,Folk,Maha Bhajan,Vidushi Shankar,https://example.com/music/maha-bhajan-by-vidushi-shankar,East India Bihu Folk Maha Bhajan Vidushi Shankar
+East India,Durga Puja,Folk,Taal Dhun,Begum Joshi,https://example.com/music/taal-dhun-by-begum-joshi,East India Durga Puja Folk Taal Dhun Begum Joshi
+North India,Lohri,Bhajan,Devi Leela,Begum Bhosle,https://example.com/music/devi-leela-by-begum-bhosle,North India Lohri Bhajan Devi Leela Begum Bhosle
+North India,Diwali,Classical,Swar Tarana,Kishori Sharma,https://example.com/music/swar-tarana-by-kishori-sharma,North India Diwali Classical Swar Tarana Kishori Sharma
+South India,Onam,Classical,Ganga Sangeet,Shubha Mansur,https://example.com/music/ganga-sangeet-by-shubha-mansur,South India Onam Classical Ganga Sangeet Shubha Mansur
+West India,Diwali,Devotional,Prema Geet,Ravi Amonkar,https://example.com/music/prema-geet-by-ravi-amonkar,West India Diwali Devotional Prema Geet Ravi Amonkar
+North India,Lohri,Semi-Classical,Taal Aarti,Shubha Gundecha,https://example.com/music/taal-aarti-by-shubha-gundecha,North India Lohri Semi-Classical Taal Aarti Shubha Gundecha
+East India,Durga Puja,Folk,Swar Aarti,Hari Gundecha,https://example.com/music/swar-aarti-by-hari-gundecha,East India Durga Puja Folk Swar Aarti Hari Gundecha
+South India,Diwali,Folk,Maha Sangeet,Pt. Subbulakshmi,https://example.com/music/maha-sangeet-by-pt.-subbulakshmi,South India Diwali Folk Maha Sangeet Pt. Subbulakshmi
+South India,Onam,Classical,Ram Dhwani,Ravi Gundecha,https://example.com/music/ram-dhwani-by-ravi-gundecha,South India Onam Classical Ram Dhwani Ravi Gundecha
+North India,Holi,Folk,Jai Dhun,Hari Gundecha,https://example.com/music/jai-dhun-by-hari-gundecha,North India Holi Folk Jai Dhun Hari Gundecha
+South India,Pongal,Folk,Ram Leela,Pandit Amonkar,https://example.com/music/ram-leela-by-pandit-amonkar,South India Pongal Folk Ram Leela Pandit Amonkar
+East India,Durga Puja,Tribal,Swar Malhar,Hari Shankar,https://example.com/music/swar-malhar-by-hari-shankar,East India Durga Puja Tribal Swar Malhar Hari Shankar
+West India,Navratri,Classical,Maha Tarana,Mallikarjun Subbulakshmi,https://example.com/music/maha-tarana-by-mallikarjun-subbulakshmi,West India Navratri Classical Maha Tarana Mallikarjun Subbulakshmi
+East India,Chhath Puja,Folk,Jai Aarti,M.S. Mangeshkar,https://example.com/music/jai-aarti-by-m.s.-mangeshkar,East India Chhath Puja Folk Jai Aarti M.S. Mangeshkar
+East India,Durga Puja,Folk,Krishna Rasa,Ravi Joshi,https://example.com/music/krishna-rasa-by-ravi-joshi,East India Durga Puja Folk Krishna Rasa Ravi Joshi
+North India,Lohri,Semi-Classical,Devi Malhar,Hari Shankar,https://example.com/music/devi-malhar-by-hari-shankar,North India Lohri Semi-Classical Devi Malhar Hari Shankar
+South India,Onam,Devotional,Ganga Stuti,Ravi Kulkarni,https://example.com/music/ganga-stuti-by-ravi-kulkarni,South India Onam Devotional Ganga Stuti Ravi Kulkarni
+West India,Ganesh Chaturthi,Classical,Krishna Vandana,M.S. Subbulakshmi,https://example.com/music/krishna-vandana-by-m.s.-subbulakshmi,West India Ganesh Chaturthi Classical Krishna Vandana M.S. Subbulakshmi
+West India,Diwali,Folk,Devi Aarti,Ustad Gundecha,https://example.com/music/devi-aarti-by-ustad-gundecha,West India Diwali Folk Devi Aarti Ustad Gundecha
+West India,Ganesh Chaturthi,Folk,Taal Katha,Shubha Shankar,https://example.com/music/taal-katha-by-shubha-shankar,West India Ganesh Chaturthi Folk Taal Katha Shubha Shankar
+South India,Onam,Devotional,Prema Geet,Mallikarjun Sharma,https://example.com/music/prema-geet-by-mallikarjun-sharma,South India Onam Devotional Prema Geet Mallikarjun Sharma
+East India,Bihu,Tribal,Anand Stuti,Pt. Mangeshkar,https://example.com/music/anand-stuti-by-pt.-mangeshkar,East India Bihu Tribal Anand Stuti Pt. Mangeshkar
+West India,Ganesh Chaturthi,Devotional,Ram Rasa,Ustad Shankar,https://example.com/music/ram-rasa-by-ustad-shankar,West India Ganesh Chaturthi Devotional Ram Rasa Ustad Shankar
+East India,Chhath Puja,Folk,Om Dhwani,Vidushi Joshi,https://example.com/music/om-dhwani-by-vidushi-joshi,East India Chhath Puja Folk Om Dhwani Vidushi Joshi
+East India,Bihu,Folk,Bhakti Tarana,Shubha Bhosle,https://example.com/music/bhakti-tarana-by-shubha-bhosle,East India Bihu Folk Bhakti Tarana Shubha Bhosle
+South India,Pongal,Folk,Taal Dhun,Ravi Joshi,https://example.com/music/taal-dhun-by-ravi-joshi,South India Pongal Folk Taal Dhun Ravi Joshi
+North India,Diwali,Classical,Anand Bhajan,Kumar Shankar,https://example.com/music/anand-bhajan-by-kumar-shankar,North India Diwali Classical Anand Bhajan Kumar Shankar
+West India,Navratri,Devotional,Bhakti Stuti,Pandit Shankar,https://example.com/music/bhakti-stuti-by-pandit-shankar,West India Navratri Devotional Bhakti Stuti Pandit Shankar
+West India,Diwali,Folk,Taal Dhwani,Kumar Mansur,https://example.com/music/taal-dhwani-by-kumar-mansur,West India Diwali Folk Taal Dhwani Kumar Mansur
+South India,Onam,Devotional,Maha Dhun,Kumar Mansur,https://example.com/music/maha-dhun-by-kumar-mansur,South India Onam Devotional Maha Dhun Kumar Mansur
+South India,Pongal,Classical,Krishna Geet,Begum Subbulakshmi,https://example.com/music/krishna-geet-by-begum-subbulakshmi,South India Pongal Classical Krishna Geet Begum Subbulakshmi
