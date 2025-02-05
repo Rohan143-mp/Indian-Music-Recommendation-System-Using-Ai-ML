@@ -91,5 +91,4 @@ This project is open-source and developed by Team Logic Lords
 
 ## Acknowledgments
 
-Special thanks to the contributors and the open-source community for their support.
-
+Special thanks to the contributors and the open-source community for their support. 
