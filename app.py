@@ -22,7 +22,7 @@ def get_recommendations(region='', festival='', tradition='', cosine_sim=cosine_
     
     if filtered_df.empty:
         return []
-    
+
     idx = filtered_df.sample().index[0]
     sim_scores = list(enumerate(cosine_sim[idx]))
     sim_scores = sorted(sim_scores, key=lambda x: x[1], reverse=True)
@@ -34,9 +34,6 @@ def get_recommendations(region='', festival='', tradition='', cosine_sim=cosine_
 @app.route('/')
 def home():
     return render_template('index.html')
-
-
-
 @app.route('/recommend', methods=['POST'])
 def recommend():
     data = request.json
