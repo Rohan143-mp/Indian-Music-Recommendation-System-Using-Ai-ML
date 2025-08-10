@@ -32,6 +32,7 @@ def get_recommendations(region='', festival='', tradition='', cosine_sim=cosine_
     return df.iloc[item_indices][['Song Name', 'Author', 'Region', 'Festival', 'Tradition', 'URL']].to_dict('records')
 
 @app.route('/')
+
 def home():
     return render_template('index.html')
 @app.route('/recommend', methods=['POST'])
@@ -50,3 +51,4 @@ def get_categories():
 
 if __name__ == '__main__':
     app.run(debug=True)
+
