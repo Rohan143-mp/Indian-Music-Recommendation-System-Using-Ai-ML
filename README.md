@@ -11,6 +11,7 @@ This project is a music recommendation system built using AI and machine learnin
 
 ## File Structure
 
+
 ```
 Indian Music Recommendation/
 |-- app.py                       # Main application script
