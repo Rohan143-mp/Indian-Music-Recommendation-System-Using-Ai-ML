@@ -47,7 +47,7 @@ pip install -r requirements.txt
 1. **Clone the Repository**:
 
    ```bash
-   git clone <repository_url>
+   git clone[ https://github.com/Rohan143-mp/Indian-Music-Recommendation-System-Using-Ai-ML
    cd Indian Music Recommendation
    ```
 
