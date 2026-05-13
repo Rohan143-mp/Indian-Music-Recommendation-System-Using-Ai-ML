@@ -13,7 +13,7 @@ This project is a music recommendation system built using AI and machine learnin
 - **Efficient Similarity Calculation**: Uses a precomputed cosine similarity matrix for fast recommendations The core of the recommendation engine is powered by a content-based filtering approach using a cosine similarity matrix..
 
 ## File Structure
-
+```
 Indian Music Recommendation/
 |-- app.py                       # Main application script
 |-- categories.joblib            # Serialized category data
@@ -25,7 +25,7 @@ Indian Music Recommendation/
 |-- static/                      # Static assets (CSS, JS, images)
 |-- templates/                   # HTML templates
 
-
+```
 ## Requirements
 
 - Python 3.x
