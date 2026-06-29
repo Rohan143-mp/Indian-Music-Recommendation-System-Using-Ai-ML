@@ -11,25 +11,45 @@ df = pd.read_csv('preprocessed_music_data.csv')
 cosine_sim = joblib.load('cosine_sim_matrix.joblib')
 categories = joblib.load('categories.joblib')
 
-def get_recommendations(region='', festival='', tradition='', cosine_sim=cosine_sim):
-    # Filter the dataframe based on user selections
-    mask = (
-        (df['Region'].str.contains(region, case=False, na=False) if region else True) &
-        (df['Festival'].str.contains(festival, case=False, na=False) if festival else True) &
-        (df['Tradition'].str.contains(tradition, case=False, na=False) if tradition else True)
-    )
-    filtered_df = df[mask]
-    
+def get_recommendations(region=None, festival=None, tradition=None, top_n=10):
+    # Start with all rows
+    filtered_df = df
+
+    # Apply filters only if values are provided
+    if region:
+        filtered_df = filtered_df[
+            filtered_df["Region"].str.contains(region, case=False, na=False)
+        ]
+
+    if festival:
+        filtered_df = filtered_df[
+            filtered_df["Festival"].str.contains(festival, case=False, na=False)
+        ]
+
+    if tradition:
+        filtered_df = filtered_df[
+            filtered_df["Tradition"].str.contains(tradition, case=False, na=False)
+        ]
+
+    # No matching records
     if filtered_df.empty:
         return []
 
-    idx = filtered_df.sample().index[0]
-    sim_scores = list(enumerate(cosine_sim[idx]))
-    sim_scores = sorted(sim_scores, key=lambda x: x[1], reverse=True)
-    sim_scores = sim_scores[1:11]
-    item_indices = [i[0] for i in sim_scores]
-    
-    return df.iloc[item_indices][['Song Name', 'Author', 'Region', 'Festival', 'Tradition', 'URL']].to_dict('records')
+    # Select one matching song
+    idx = filtered_df.sample(1).index[0]
+
+    # Get similarity scores
+    sim_scores = cosine_sim[idx]
+
+    # Get indices of top similar songs (excluding itself)
+    top_indices = sim_scores.argsort()[::-1][1:top_n + 1]
+
+    # Return recommendations
+    return (
+        df.loc[top_indices,
+               ["Song Name", "Author", "Region", "Festival", "Tradition", "URL"]]
+        .to_dict("records")
+    )
 
 @app.route('/')
 
