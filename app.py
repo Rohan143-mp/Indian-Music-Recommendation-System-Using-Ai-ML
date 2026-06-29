@@ -11,6 +11,7 @@ df = pd.read_csv('preprocessed_music_data.csv')
 cosine_sim = joblib.load('cosine_sim_matrix.joblib')
 categories = joblib.load('categories.joblib')
 
+#Get recommedation funtion optimized 
 def get_recommendations(region=None, festival=None, tradition=None, top_n=10):
     # Start with all rows
     filtered_df = df
