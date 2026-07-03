@@ -56,16 +56,12 @@ def get_recommendations(region=None, festival=None, tradition=None, top_n=10):
 
 def home():
     return render_template('index.html')
-@app.route('/recommend', methods=['POST'])
-def recommend():
-    data = request.json
-    recommendations = get_recommendations(
-        region=data.get('region', ''),
-        festival=data.get('festival', ''),
-        tradition=data.get('tradition', '')
-    )
-    return jsonify(recommendations)
 
+#more optimixzed recoomend funtion
+@app.route("/recommend", methods=["POST"])
+def recommend():
+    data = request.get_json(silent=True) or {}
+    return jsonify(get_recommendations(**{k: data.get(k, "") for k in ("region", "festival", "tradition")}))
 @app.route('/categories', methods=['GET'])
 def get_categories():
     return jsonify(categories)
