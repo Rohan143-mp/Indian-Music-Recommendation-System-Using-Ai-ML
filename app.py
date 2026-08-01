@@ -1,72 +1,83 @@
 from flask import Flask, request, jsonify, render_template
+from flask_cors import CORS
 import pandas as pd
 import joblib
-from flask_cors import CORS
 
 app = Flask(__name__)
 CORS(app)
 
-# Load preprocessed data and matrices
-df = pd.read_csv('preprocessed_music_data.csv')
-cosine_sim = joblib.load('cosine_sim_matrix.joblib')
-categories = joblib.load('categories.joblib')
+# ------------------ Load Data ------------------
 
-#Get recommedation funtion optimized 
-def get_recommendations(region=None, festival=None, tradition=None, top_n=10):
-    # Start with all rows
-    filtered_df = df
+df = pd.read_csv("preprocessed_music_data.csv")
+cosine_sim = joblib.load("cosine_sim_matrix.joblib")
+categories = joblib.load("categories.joblib")
 
-    # Apply filters only if values are provided
-    if region:
-        filtered_df = filtered_df[
-            filtered_df["Region"].str.contains(region, case=False, na=False)
-        ]
+FILTERS = {
+    "region": "Region",
+    "festival": "Festival",
+    "tradition": "Tradition",
+}
 
-    if festival:
-        filtered_df = filtered_df[
-            filtered_df["Festival"].str.contains(festival, case=False, na=False)
-        ]
+RESULT_COLUMNS = [
+    "Song Name",
+    "Author",
+    "Region",
+    "Festival",
+    "Tradition",
+    "URL",
+]
 
-    if tradition:
-        filtered_df = filtered_df[
-            filtered_df["Tradition"].str.contains(tradition, case=False, na=False)
-        ]
+# ---------------- Recommendation Function ----------------
 
-    # No matching records
-    if filtered_df.empty:
+def get_recommendations(top_n=10, **filters):
+    filtered = df
+
+    for key, column in FILTERS.items():
+        value = filters.get(key)
+        if value:
+            filtered = filtered[
+                filtered[column].str.contains(value, case=False, na=False)
+            ]
+
+    if filtered.empty:
         return []
 
-    # Select one matching song
-    idx = filtered_df.sample(1).index[0]
+    idx = filtered.sample().index[0]
 
-    # Get similarity scores
-    sim_scores = cosine_sim[idx]
-
-    # Get indices of top similar songs (excluding itself)
-    top_indices = sim_scores.argsort()[::-1][1:top_n + 1]
-
-    # Return recommendations
-    return (
-        df.loc[top_indices,
-               ["Song Name", "Author", "Region", "Festival", "Tradition", "URL"]]
-        .to_dict("records")
+    similar = (
+        cosine_sim[idx]
+        .argsort()[::-1][1:top_n + 1]
     )
 
-@app.route('/')
+    return df.loc[similar, RESULT_COLUMNS].to_dict("records")
 
+
+# -------------------- Routes --------------------
+
+@app.get("/")
 def home():
-    return render_template('index.html')
+    return render_template("index.html")
 
-#more optimixzed recoomend funtion
-@app.route("/recommend", methods=["POST"])
+
+@app.post("/recommend")
 def recommend():
     data = request.get_json(silent=True) or {}
-    return jsonify(get_recommendations(**{k: data.get(k, "") for k in ("region", "festival", "tradition")}))
-@app.route('/categories', methods=['GET'])
+
+    filters = {
+        key: data.get(key, "")
+        for key in FILTERS
+    }
+
+    return jsonify(get_recommendations(**filters)), 200
+
+
+@app.get("/categories")
 def get_categories():
-    return jsonify(categories)
+    return jsonify(categories), 200
 
-if __name__ == '__main__':
+
+# -------------------- Main --------------------
+
+if __name__ == "__main__":
     app.run(debug=True)
-
 
